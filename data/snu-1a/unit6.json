@@ -1,0 +1,1313 @@
+{
+  "unit": 6,
+  "titleKr": "얼마예요?",
+  "titleVn": "Bao nhiêu tiền?",
+  "topic": "Giá cả, Mua sắm",
+  "vocabulary": [
+    {
+      "korean": "이",
+      "romanization": "i",
+      "meaningVn": "này (chỉ vật ở gần người nói)",
+      "meaningEn": "this",
+      "pos": "demonstrative",
+      "examples": [
+        {
+          "korean": "이 가방 얼마예요?",
+          "meaningVn": "Cái túi này bao nhiêu tiền?"
+        },
+        {
+          "korean": "이것 좀 주세요.",
+          "meaningVn": "Xin cho tôi cái này."
+        }
+      ]
+    },
+    {
+      "korean": "그",
+      "romanization": "geu",
+      "meaningVn": "đó (chỉ vật ở gần người nghe)",
+      "meaningEn": "that",
+      "pos": "demonstrative",
+      "examples": [
+        {
+          "korean": "그 책 얼마예요?",
+          "meaningVn": "Cuốn sách đó bao nhiêu tiền?"
+        },
+        {
+          "korean": "그것 좀 주세요.",
+          "meaningVn": "Xin cho tôi cái đó."
+        }
+      ]
+    },
+    {
+      "korean": "저",
+      "romanization": "jeo",
+      "meaningVn": "kia (chỉ vật ở xa cả hai người)",
+      "meaningEn": "that over there",
+      "pos": "demonstrative",
+      "examples": [
+        {
+          "korean": "저 건물 얼마예요?",
+          "meaningVn": "Tòa nhà kia bao nhiêu tiền?"
+        },
+        {
+          "korean": "저것은 무엇입니까?",
+          "meaningVn": "Cái kia là cái gì?"
+        }
+      ]
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eolma",
+      "meaningVn": "bao nhiêu (số lượng, tiền bạc)",
+      "meaningEn": "how much",
+      "pos": "interrogative",
+      "examples": [
+        {
+          "korean": "이것 얼마예요?",
+          "meaningVn": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "korean": "몇 살이에요? - 열 살이에요. 얼마나 더 커야 돼요?",
+          "meaningVn": "Bạn bao nhiêu tuổi? - Mười tuổi. Bạn còn cần phải lớn bao nhiêu nữa?"
+        }
+      ]
+    },
+    {
+      "korean": "만원",
+      "romanization": "man-won",
+      "meaningVn": "vạn won (đơn vị tiền tệ Hàn Quốc)",
+      "meaningEn": "10,000 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 구두는 5만원이에요.",
+          "meaningVn": "Đôi giày này là 50 nghìn won."
+        },
+        {
+          "korean": "이 가방은 3만원입니다.",
+          "meaningVn": "Cái túi này là 30 nghìn won."
+        }
+      ]
+    },
+    {
+      "korean": "비싸다",
+      "romanization": "bissada",
+      "meaningVn": "đắt (giá cả)",
+      "meaningEn": "to be expensive",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 옷은 너무 비싸요.",
+          "meaningVn": "Quần áo này đắt quá."
+        },
+        {
+          "korean": "이 구두는 비싸지 않아요.",
+          "meaningVn": "Đôi giày này không đắt."
+        }
+      ]
+    },
+    {
+      "korean": "싸다",
+      "romanization": "ssada",
+      "meaningVn": "rẻ (giá cả)",
+      "meaningEn": "to be cheap",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 과일은 정말 싸요.",
+          "meaningVn": "Trái cây này thật rẻ."
+        },
+        {
+          "korean": "사과가 비싸요? - 아니요, 안 비싸요. 싸요.",
+          "meaningVn": "Táo có đắt không? - Không, không đắt. Rẻ."
+        }
+      ]
+    },
+    {
+      "korean": "못",
+      "romanization": "mot",
+      "meaningVn": "không (không thể, không làm được)",
+      "meaningEn": "not (able to)",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "죄송합니다. 이 옷은 못 입어요.",
+          "meaningVn": "Xin lỗi. Tôi không mặc được bộ quần áo này."
+        },
+        {
+          "korean": "지금은 바빠서 못 만나요.",
+          "meaningVn": "Bây giờ bận nên không thể gặp."
+        }
+      ]
+    },
+    {
+      "korean": "옷",
+      "romanization": "ot",
+      "meaningVn": "quần áo",
+      "meaningEn": "clothes",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "새 옷을 샀어요.",
+          "meaningVn": "Tôi đã mua quần áo mới."
+        },
+        {
+          "korean": "겨울 옷이 필요해요.",
+          "meaningVn": "Tôi cần quần áo mùa đông."
+        }
+      ]
+    },
+    {
+      "korean": "구두",
+      "romanization": "gudu",
+      "meaningVn": "giày (đặc biệt là giày da hoặc giày tây)",
+      "meaningEn": "shoes",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "새 구두를 샀어요.",
+          "meaningVn": "Tôi đã mua giày mới."
+        },
+        {
+          "korean": "구두가 너무 커요.",
+          "meaningVn": "Giày bị rộng quá."
+        }
+      ]
+    },
+    {
+      "korean": "바지",
+      "romanization": "baji",
+      "meaningVn": "quần",
+      "meaningEn": "pants",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 바지 얼마예요?",
+          "meaningVn": "Quần này bao nhiêu tiền?"
+        },
+        {
+          "korean": "바지를 입었어요.",
+          "meaningVn": "Tôi đã mặc quần."
+        }
+      ]
+    },
+    {
+      "korean": "치마",
+      "romanization": "chima",
+      "meaningVn": "váy, chân váy",
+      "meaningEn": "skirt",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 치마 예뻐요.",
+          "meaningVn": "Chiếc váy này đẹp quá."
+        },
+        {
+          "korean": "치마를 좋아해요.",
+          "meaningVn": "Tôi thích váy."
+        }
+      ]
+    },
+    {
+      "korean": "셔츠",
+      "romanization": "syeocheu",
+      "meaningVn": "sơ mi, áo kiểu",
+      "meaningEn": "shirt",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 셔츠 얼마예요?",
+          "meaningVn": "Áo sơ mi này bao nhiêu tiền?"
+        },
+        {
+          "korean": "저는 파란 셔츠를 좋아해요.",
+          "meaningVn": "Tôi thích áo sơ mi màu xanh."
+        }
+      ]
+    },
+    {
+      "korean": "모자",
+      "romanization": "moja",
+      "meaningVn": "mũ, nón",
+      "meaningEn": "hat",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 모자 얼마예요?",
+          "meaningVn": "Cái mũ này bao nhiêu tiền?"
+        },
+        {
+          "korean": "모자를 썼어요.",
+          "meaningVn": "Tôi đã đội mũ."
+        }
+      ]
+    },
+    {
+      "korean": "가방",
+      "romanization": "gabang",
+      "meaningVn": "túi, cặp, ba lô",
+      "meaningEn": "bag",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 가방 얼마예요?",
+          "meaningVn": "Cái túi này bao nhiêu tiền?"
+        },
+        {
+          "korean": "가방이 무거워요.",
+          "meaningVn": "Cái túi bị nặng."
+        }
+      ]
+    },
+    {
+      "korean": "신발",
+      "romanization": "sinbal",
+      "meaningVn": "giày dép",
+      "meaningEn": "shoes",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "새 신발을 샀어요.",
+          "meaningVn": "Tôi đã mua giày dép mới."
+        },
+        {
+          "korean": "신발이 깨끗해요.",
+          "meaningVn": "Giày dép sạch sẽ."
+        }
+      ]
+    },
+    {
+      "korean": "축구공",
+      "romanization": "chukgugong",
+      "meaningVn": "bóng đá",
+      "meaningEn": "soccer ball",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 축구공 얼마예요?",
+          "meaningVn": "Quả bóng đá này bao nhiêu tiền?"
+        },
+        {
+          "korean": "축구공을 찼어요.",
+          "meaningVn": "Tôi đã đá quả bóng."
+        }
+      ]
+    },
+    {
+      "korean": "야구공",
+      "romanization": "yagugong",
+      "meaningVn": "bóng chày",
+      "meaningEn": "baseball",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 야구공 얼마예요?",
+          "meaningVn": "Quả bóng chày này bao nhiêu tiền?"
+        },
+        {
+          "korean": "야구공을 던졌어요.",
+          "meaningVn": "Tôi đã ném quả bóng chày."
+        }
+      ]
+    },
+    {
+      "korean": "펜",
+      "romanization": "pen",
+      "meaningVn": "bút bi",
+      "meaningEn": "pen",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 펜 얼마예요?",
+          "meaningVn": "Cây bút này bao nhiêu tiền?"
+        },
+        {
+          "korean": "빨간 펜을 샀어요.",
+          "meaningVn": "Tôi đã mua bút bi màu đỏ."
+        }
+      ]
+    },
+    {
+      "korean": "책",
+      "romanization": "chaek",
+      "meaningVn": "sách",
+      "meaningEn": "book",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 책 얼마예요?",
+          "meaningVn": "Cuốn sách này bao nhiêu tiền?"
+        },
+        {
+          "korean": "책을 읽어요.",
+          "meaningVn": "Tôi đọc sách."
+        }
+      ]
+    },
+    {
+      "korean": "연필",
+      "romanization": "yeonpil",
+      "meaningVn": "bút chì",
+      "meaningEn": "pencil",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 연필 얼마예요?",
+          "meaningVn": "Cây bút chì này bao nhiêu tiền?"
+        },
+        {
+          "korean": "연필로 글씨를 써요.",
+          "meaningVn": "Tôi viết chữ bằng bút chì."
+        }
+      ]
+    },
+    {
+      "korean": "공책",
+      "romanization": "gongchaek",
+      "meaningVn": "vở ghi",
+      "meaningEn": "notebook",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 공책 얼마예요?",
+          "meaningVn": "Cuốn vở này bao nhiêu tiền?"
+        },
+        {
+          "korean": "공책에 내용을 써요.",
+          "meaningVn": "Tôi viết nội dung vào vở."
+        }
+      ]
+    },
+    {
+      "korean": "지갑",
+      "romanization": "jigap",
+      "meaningVn": "ví",
+      "meaningEn": "wallet",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 지갑 얼마예요?",
+          "meaningVn": "Cái ví này bao nhiêu tiền?"
+        },
+        {
+          "korean": "지갑을 잃어버렸어요.",
+          "meaningVn": "Tôi đã làm mất ví."
+        }
+      ]
+    },
+    {
+      "korean": "사다",
+      "romanization": "sada",
+      "meaningVn": "mua",
+      "meaningEn": "to buy",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "이 가방을 사고 싶어요.",
+          "meaningVn": "Tôi muốn mua cái túi này."
+        },
+        {
+          "korean": "저는 선물을 샀어요.",
+          "meaningVn": "Tôi đã mua một món quà."
+        }
+      ]
+    },
+    {
+      "korean": "팔다",
+      "romanization": "palda",
+      "meaningVn": "bán",
+      "meaningEn": "to sell",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "이 물건을 팔아요?",
+          "meaningVn": "Bạn có bán món đồ này không?"
+        },
+        {
+          "korean": "저는 중고 옷을 팔아요.",
+          "meaningVn": "Tôi bán quần áo cũ."
+        }
+      ]
+    },
+    {
+      "korean": "입다",
+      "romanization": "ipda",
+      "meaningVn": "mặc (quần áo)",
+      "meaningEn": "to wear",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "이 옷은 너무 커서 못 입어요.",
+          "meaningVn": "Bộ quần áo này rộng quá nên tôi không mặc được."
+        },
+        {
+          "korean": "저는 여름 옷을 입어요.",
+          "meaningVn": "Tôi mặc quần áo mùa hè."
+        }
+      ]
+    },
+    {
+      "korean": "신다",
+      "romanization": "sinda",
+      "meaningVn": "đi, mang (giày dép, tất)",
+      "meaningEn": "to wear (shoes, socks)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "이 신발을 신어 보세요.",
+          "meaningVn": "Hãy thử đi đôi giày này."
+        },
+        {
+          "korean": "새 신발을 신었어요.",
+          "meaningVn": "Tôi đã đi giày mới."
+        }
+      ]
+    },
+    {
+      "korean": "쓰다",
+      "romanization": "sseuda",
+      "meaningVn": "đội, đeo (mũ, kính, nhẫn)",
+      "meaningEn": "to wear (hat, glasses, ring)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "모자를 쓰세요.",
+          "meaningVn": "Hãy đội mũ lên."
+        },
+        {
+          "korean": "안경을 썼어요.",
+          "meaningVn": "Tôi đã đeo kính."
+        }
+      ]
+    },
+    {
+      "korean": "고르다",
+      "romanization": "goreuda",
+      "meaningVn": "chọn",
+      "meaningEn": "to choose",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "어떤 것으로 고르시겠어요?",
+          "meaningVn": "Bạn muốn chọn loại nào?"
+        },
+        {
+          "korean": "이것으로 고르겠어요.",
+          "meaningVn": "Tôi sẽ chọn cái này."
+        }
+      ]
+    },
+    {
+      "korean": "고맙습니다",
+      "romanization": "gomapseumnida",
+      "meaningVn": "cảm ơn (lịch sự)",
+      "meaningEn": "Thank you (formal)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "물건을 사 주셔서 고맙습니다.",
+          "meaningVn": "Cảm ơn đã mua đồ cho tôi."
+        },
+        {
+          "korean": "친절하게 대해 주셔서 고맙습니다.",
+          "meaningVn": "Cảm ơn vì đã đối xử tử tế."
+        }
+      ]
+    },
+    {
+      "korean": "죄송합니다",
+      "romanization": "joesonghamnida",
+      "meaningVn": "xin lỗi (lịch sự)",
+      "meaningEn": "Sorry (formal)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "시간을 못 맞춰서 죄송합니다.",
+          "meaningVn": "Xin lỗi vì không thể đến đúng giờ."
+        },
+        {
+          "korean": "이것은 못 입어요. 죄송합니다.",
+          "meaningVn": "Tôi không mặc được cái này. Xin lỗi."
+        }
+      ]
+    },
+    {
+      "korean": "주세요",
+      "romanization": "juseyo",
+      "meaningVn": "làm ơn cho tôi (yêu cầu lịch sự)",
+      "meaningEn": "Please give me",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이것 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cái này."
+        },
+        {
+          "korean": "물 한 잔 주세요.",
+          "meaningVn": "Làm ơn cho tôi một cốc nước."
+        }
+      ]
+    },
+    {
+      "korean": "사세요",
+      "romanization": "saseyo",
+      "meaningVn": "hãy mua đi (lệnh lịch sự)",
+      "meaningEn": "Please buy",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 옷 정말 예뻐요. 사세요.",
+          "meaningVn": "Bộ quần áo này thật đẹp. Hãy mua đi."
+        },
+        {
+          "korean": "이 신발이 마음에 들어요? 사세요.",
+          "meaningVn": "Bạn có thích đôi giày này không? Hãy mua đi."
+        }
+      ]
+    },
+    {
+      "korean": "입으세요",
+      "romanization": "ibeuseyo",
+      "meaningVn": "hãy mặc vào (lệnh lịch sự)",
+      "meaningEn": "Please wear (clothes)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 셔츠를 입으세요.",
+          "meaningVn": "Hãy mặc áo sơ mi này vào."
+        },
+        {
+          "korean": "밖에 추워요. 옷을 입으세요.",
+          "meaningVn": "Ngoài trời lạnh. Hãy mặc quần áo vào."
+        }
+      ]
+    },
+    {
+      "korean": "신으세요",
+      "romanization": "sineuseyo",
+      "meaningVn": "hãy đi vào (lệnh lịch sự cho giày, tất)",
+      "meaningEn": "Please wear (shoes, socks)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 구두를 신으세요.",
+          "meaningVn": "Hãy đi đôi giày này vào."
+        },
+        {
+          "korean": "안에 들어오세요. 신발을 벗으세요. 양말은 신으세요.",
+          "meaningVn": "Mời vào nhà. Hãy cởi giày ra. Hãy đi tất vào."
+        }
+      ]
+    },
+    {
+      "korean": "쓰세요",
+      "romanization": "sseuseyo",
+      "meaningVn": "hãy đội vào, hãy đeo vào (lệnh lịch sự cho mũ, kính)",
+      "meaningEn": "Please wear (hat, glasses)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "밖에 더우니까 모자를 쓰세요.",
+          "meaningVn": "Ngoài trời nóng, hãy đội mũ vào."
+        },
+        {
+          "korean": "햇빛이 강해요. 선글라스를 쓰세요.",
+          "meaningVn": "Nắng gắt quá. Hãy đeo kính râm vào."
+        }
+      ]
+    },
+    {
+      "korean": "좀",
+      "romanization": "jom",
+      "meaningVn": "một chút, làm ơn (thêm vào yêu cầu để giảm nhẹ giọng điệu)",
+      "meaningEn": "a little, please",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "이것 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cái này."
+        },
+        {
+          "korean": "조금만 기다려 주세요.",
+          "meaningVn": "Làm ơn đợi tôi một chút."
+        }
+      ]
+    },
+    {
+      "korean": "다",
+      "romanization": "da",
+      "meaningVn": "tất cả, hoàn toàn",
+      "meaningEn": "all, completely",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "모두 다 샀어요.",
+          "meaningVn": "Tôi đã mua tất cả."
+        },
+        {
+          "korean": "이 책은 다 읽었어요.",
+          "meaningVn": "Tôi đã đọc hết cuốn sách này rồi."
+        }
+      ]
+    },
+    {
+      "korean": "안",
+      "romanization": "an",
+      "meaningVn": "không (dùng với động từ, tính từ)",
+      "meaningEn": "not",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "이 옷은 안 비싸요.",
+          "meaningVn": "Quần áo này không đắt."
+        },
+        {
+          "korean": "저는 김치를 안 먹어요.",
+          "meaningVn": "Tôi không ăn kim chi."
+        }
+      ]
+    },
+    {
+      "korean": "너무",
+      "romanization": "neomu",
+      "meaningVn": "quá, rất",
+      "meaningEn": "too, very",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "이 옷은 너무 비싸요.",
+          "meaningVn": "Quần áo này đắt quá."
+        },
+        {
+          "korean": "날씨가 너무 좋아요.",
+          "meaningVn": "Thời tiết thật tốt."
+        }
+      ]
+    },
+    {
+      "korean": "아주",
+      "romanization": "aju",
+      "meaningVn": "rất, cực kỳ",
+      "meaningEn": "very",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "이 셔츠는 아주 좋아요.",
+          "meaningVn": "Áo sơ mi này rất tốt."
+        },
+        {
+          "korean": "저는 아주 피곤해요.",
+          "meaningVn": "Tôi rất mệt."
+        }
+      ]
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geureom",
+      "meaningVn": "vậy thì, thế thì",
+      "meaningEn": "then",
+      "pos": "conjunction",
+      "examples": [
+        {
+          "korean": "영화 볼까요? - 네, 좋아요. 그럼 같이 가요.",
+          "meaningVn": "Xem phim không? - Vâng, hay đấy. Vậy thì cùng đi nào."
+        },
+        {
+          "korean": "저는 지금 바빠요. 그럼 나중에 봐요.",
+          "meaningVn": "Tôi bận bây giờ. Vậy thì gặp lại sau nhé."
+        }
+      ]
+    },
+    {
+      "korean": "가게",
+      "romanization": "gage",
+      "meaningVn": "cửa hàng",
+      "meaningEn": "store",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 가게는 옷을 팔아요.",
+          "meaningVn": "Cửa hàng này bán quần áo."
+        },
+        {
+          "korean": "가게에 갑니다.",
+          "meaningVn": "Tôi đi đến cửa hàng."
+        }
+      ]
+    },
+    {
+      "korean": "백화점",
+      "romanization": "baekhwajeom",
+      "meaningVn": "trung tâm thương mại",
+      "meaningEn": "department store",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "백화점에서 이 가방을 샀어요.",
+          "meaningVn": "Tôi đã mua chiếc túi này ở trung tâm thương mại."
+        },
+        {
+          "korean": "백화점에 가고 싶어요.",
+          "meaningVn": "Tôi muốn đi trung tâm thương mại."
+        }
+      ]
+    },
+    {
+      "korean": "시장",
+      "romanization": "sijang",
+      "meaningVn": "chợ",
+      "meaningEn": "market",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 과일은 시장에서 샀어요.",
+          "meaningVn": "Tôi đã mua trái cây này ở chợ."
+        },
+        {
+          "korean": "시장에 가면 물건이 싸요.",
+          "meaningVn": "Đi chợ thì đồ rẻ lắm."
+        }
+      ]
+    },
+    {
+      "korean": "옷 가게",
+      "romanization": "ot gage",
+      "meaningVn": "cửa hàng quần áo",
+      "meaningEn": "clothing store",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 옷 가게에 가고 싶어요.",
+          "meaningVn": "Tôi muốn đến cửa hàng quần áo này."
+        },
+        {
+          "korean": "옷 가게에서 예쁜 치마를 샀어요.",
+          "meaningVn": "Tôi đã mua một chiếc váy đẹp ở cửa hàng quần áo."
+        }
+      ]
+    },
+    {
+      "korean": "신발 가게",
+      "romanization": "sinbal gage",
+      "meaningVn": "cửa hàng giày dép",
+      "meaningEn": "shoe store",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "새 신발 가게를 찾아요.",
+          "meaningVn": "Tôi đang tìm cửa hàng giày dép mới."
+        },
+        {
+          "korean": "신발 가게에서 마음에 드는 구두를 샀어요.",
+          "meaningVn": "Tôi đã mua được đôi giày ưng ý ở cửa hàng giày dép."
+        }
+      ]
+    },
+    {
+      "korean": "천",
+      "romanization": "cheon",
+      "meaningVn": "nghìn",
+      "meaningEn": "thousand",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "이 펜은 1천 원입니다.",
+          "meaningVn": "Cây bút này là 1 nghìn won."
+        },
+        {
+          "korean": "1천 명의 사람들이 모였습니다.",
+          "meaningVn": "Một nghìn người đã tập trung lại."
+        }
+      ]
+    },
+    {
+      "korean": "만",
+      "romanization": "man",
+      "meaningVn": "vạn",
+      "meaningEn": "ten thousand",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "이 가방은 3만 원입니다.",
+          "meaningVn": "Chiếc túi này là 30 nghìn won."
+        },
+        {
+          "korean": "10만 원을 모았습니다.",
+          "meaningVn": "Tôi đã tiết kiệm được 100 nghìn won."
+        }
+      ]
+    },
+    {
+      "korean": "원",
+      "romanization": "won",
+      "meaningVn": "won (đơn vị tiền tệ Hàn Quốc)",
+      "meaningEn": "won",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "이것 얼마예요? - 5천 원입니다.",
+          "meaningVn": "Cái này bao nhiêu tiền? - 5 nghìn won."
+        },
+        {
+          "korean": "전부 15,000원입니다.",
+          "meaningVn": "Tổng cộng là 15.000 won."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "이/그/저 + N",
+      "titleVn": "Đại từ chỉ định + Danh từ",
+      "explanationVn": "Dùng để chỉ người hoặc vật. '이' dùng khi chỉ vật ở gần người nói. '그' dùng khi chỉ vật ở gần người nghe. '저' dùng khi chỉ vật ở xa cả người nói và người nghe. Các đại từ này luôn đi kèm với danh từ.",
+      "rule": "이: gần người nói | 그: gần người nghe | 저: xa cả hai",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "이 가방 얼마예요?",
+          "meaningVn": "Cái túi này bao nhiêu tiền?"
+        },
+        {
+          "korean": "그 구두가 좋아요.",
+          "meaningVn": "Đôi giày đó đẹp."
+        },
+        {
+          "korean": "저 펜 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cây bút kia."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "(người bán hàng chỉ vào chiếc áo) ___ 셔츠 얼마예요?",
+          "answer": "이"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "(người mua hỏi về chiếc túi ở chỗ người bán) ___ 가방은 비싸요?",
+          "answer": "그",
+          "options": [
+            "이",
+            "그",
+            "저",
+            "모든"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Cái mũ kia thật rẻ.",
+          "answer": "저 모자는 정말 싸요.",
+          "options": [
+            "모자는",
+            "정말",
+            "저",
+            "싸요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "얼마예요?",
+      "titleVn": "Bao nhiêu tiền?",
+      "explanationVn": "Dùng để hỏi giá của một món đồ hoặc số lượng. Câu hỏi này thường đi kèm với các đại từ chỉ định (이/그/저) hoặc danh từ.",
+      "rule": "Hỏi giá tiền hoặc số lượng.",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "이것 얼마예요?",
+          "meaningVn": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "korean": "저 모자 얼마예요?",
+          "meaningVn": "Cái mũ kia bao nhiêu tiền?"
+        },
+        {
+          "korean": "축구공 얼마예요?",
+          "meaningVn": "Quả bóng đá bao nhiêu tiền?"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 구두 ___?",
+          "answer": "얼마예요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "_____?",
+          "answer": "얼마예요",
+          "options": [
+            "어때요",
+            "얼마예요",
+            "어떻습니까",
+            "어디예요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Cái ví này bao nhiêu tiền?",
+          "answer": "이 지갑 얼마예요?",
+          "options": [
+            "이",
+            "지갑",
+            "얼마예요",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "V-아/어요 (thân mật lịch sự)",
+      "titleVn": "Chia động từ/tính từ dạng 아/어요",
+      "explanationVn": "Đây là cách chia đuôi câu thân mật lịch sự cơ bản nhất. Nguyên tắc chia như sau: (1) Xem nguyên âm cuối của gốc động từ/tính từ là 'ㅏ' hoặc 'ㅗ' thì thêm '아요'. (2) Xem nguyên âm cuối là 'ㅏ' hoặc 'ㅗ' KHÔNG phải thì thêm '어요'. (3) Nếu gốc động từ/tính từ kết thúc bằng '하', thì chia thành '해요'. Có một số trường hợp bất quy tắc. Ví dụ: 보다 → 봐요, 하다 → 해요, 먹다 → 먹어요, 읽다 → 읽어요.",
+      "rule": "Nguyên âm cuối là ㅏ, ㅗ → 아요 | Nguyên âm cuối không phải ㅏ, ㅗ → 어요 | 하다 → 해요",
+      "pronunciationTip": "Trong văn nói, '아요' thường được rút gọn thành '와요'. Ví dụ: '가요' (đi) có thể được nghe thành '갸요' hoặc '꽈요'. '어여' thường được rút gọn thành '여'. Ví dụ: '해요' (làm) có thể được nghe thành '헤여'.",
+      "examples": [
+        {
+          "korean": "보다 → 봐요",
+          "meaningVn": "nhìn → nhìn"
+        },
+        {
+          "korean": "먹다 → 먹어요",
+          "meaningVn": "ăn → ăn"
+        },
+        {
+          "korean": "하다 → 해요",
+          "meaningVn": "làm → làm"
+        },
+        {
+          "korean": "싸다 → 싸요",
+          "meaningVn": "rẻ → rẻ"
+        },
+        {
+          "korean": "비싸다 → 비싸요",
+          "meaningVn": "đắt → đắt"
+        },
+        {
+          "korean": "사다 → 사요",
+          "meaningVn": "mua → mua"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "가다 → ___",
+          "answer": "가요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "읽다 → ?",
+          "answer": "읽어요",
+          "options": [
+            "읽아요",
+            "읽어요",
+            "읽해요",
+            "읽어요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi làm bài tập.",
+          "answer": "저는 숙제를 해요.",
+          "options": [
+            "저는",
+            "숙제를",
+            "해요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "V-지 않다",
+      "titleVn": "Phủ định: không V",
+      "explanationVn": "Dùng để phủ định một hành động hoặc tính chất. V-지 않다 được gắn vào gốc động từ/tính từ. Nếu gốc động từ/tính từ có nguyên âm cuối là 'ㅏ' hoặc 'ㅗ', thì thêm '-지 않다'. Nếu không, thì thêm '-지 않다'. Trường hợp '하다' thì dùng '하지 않다'.",
+      "rule": "Gốc V + 지 않다",
+      "pronunciationTip": "Trong văn nói, '않아요' thường được phát âm thành '나아요'. Ví dụ: '안 사요' có thể được nghe thành '안 사나 요'.",
+      "examples": [
+        {
+          "korean": "안 비싸요",
+          "meaningVn": "không đắt"
+        },
+        {
+          "korean": "안 먹어요",
+          "meaningVn": "không ăn"
+        },
+        {
+          "korean": "안 해요",
+          "meaningVn": "không làm"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 옷은 ___ 비싸요.",
+          "answer": "안"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저는 김치를 ___.",
+          "answer": "안 먹어요",
+          "options": [
+            "안 먹어요",
+            "먹지 않아요",
+            "먹어요",
+            "먹 안"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi không làm bài tập.",
+          "answer": "저는 숙제를 안 해요.",
+          "options": [
+            "저는",
+            "숙제를",
+            "안",
+            "해요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 5,
+      "pattern": "V-지 마세요",
+      "titleVn": "Mệnh lệnh phủ định: Đừng V",
+      "explanationVn": "Dùng để yêu cầu ai đó không làm một hành động nào đó một cách lịch sự. Được gắn vào gốc động từ. Trường hợp '하다' thì dùng '하지 마세요'.",
+      "rule": "Gốc V + 지 마세요",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "쓰지 마세요.",
+          "meaningVn": "Đừng viết."
+        },
+        {
+          "korean": "큰 소리로 말하지 마세요.",
+          "meaningVn": "Đừng nói to."
+        },
+        {
+          "korean": "뛰지 마세요.",
+          "meaningVn": "Đừng chạy."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "큰 소리로 말 ___.",
+          "answer": "하지 마세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "여기서 ___.",
+          "answer": "뛰지 마세요",
+          "options": [
+            "뛰세요",
+            "뛰지 마세요",
+            "뛰 안",
+            "뛰"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Đừng lo lắng.",
+          "answer": "걱정하지 마세요.",
+          "options": [
+            "걱정하지",
+            "마세요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 6,
+      "pattern": "V-(으)세요",
+      "titleVn": "Mệnh lệnh khẳng định: Hãy V",
+      "explanationVn": "Dùng để yêu cầu hoặc ra lệnh cho ai đó làm một hành động nào đó một cách lịch sự. Gốc động từ có 받침 thì thêm '으세요'. Gốc động từ không có 받침 thì thêm '세요'. Trường hợp '하다' thì dùng '하세요'.",
+      "rule": "Có 받침 → 으세요 | Không có 받침 → 세요 | 하다 → 하세요",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "입으세요.",
+          "meaningVn": "Hãy mặc vào."
+        },
+        {
+          "korean": "신으세요.",
+          "meaningVn": "Hãy đi vào (giày, tất)."
+        },
+        {
+          "korean": "쓰세요.",
+          "meaningVn": "Hãy đội (mũ), hãy viết."
+        },
+        {
+          "korean": "앉으세요.",
+          "meaningVn": "Hãy ngồi xuống."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 셔츠를 ___.",
+          "answer": "입으세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "어서 ___.",
+          "answer": "앉으세요",
+          "options": [
+            "앉으세요",
+            "앉아요",
+            "앉으세요",
+            "앉아요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Hãy viết tên của bạn.",
+          "answer": "이름을 쓰세요.",
+          "options": [
+            "이름을",
+            "쓰세요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 7,
+      "pattern": "V-아/어요/해요 (trợ động từ)",
+      "titleVn": "Các trợ động từ dạng 아/어요/해요",
+      "explanationVn": "Được gắn vào gốc động từ/tính từ để diễn tả các ý nghĩa khác nhau. Trong bài này, ta gặp các trợ động từ như '주세요' (làm ơn cho tôi), '사세요' (hãy mua đi), '입으세요' (hãy mặc vào), '신으세요' (hãy đi vào), '쓰세요' (hãy đội/viết).",
+      "rule": "Gốc V + trợ động từ dạng 아/어요/해요",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "이것 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cái này."
+        },
+        {
+          "korean": "이 구두를 신으세요.",
+          "meaningVn": "Hãy đi đôi giày này."
+        },
+        {
+          "korean": "모자를 쓰세요.",
+          "meaningVn": "Hãy đội mũ lên."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 셔츠를 ___.",
+          "answer": "입으세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "이것 ___.",
+          "answer": "주세요",
+          "options": [
+            "사세요",
+            "주세요",
+            "입으세요",
+            "쓰세요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Hãy mua chiếc váy này.",
+          "answer": "이 치마를 사세요.",
+          "options": [
+            "이",
+            "치마를",
+            "사세요."
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "이 가방 얼마예요?",
+          "meaningVn": "Cái túi này bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "korean": "5만원이에요.",
+          "meaningVn": "Là 50 nghìn won."
+        },
+        {
+          "speaker": "A",
+          "korean": "너무 비싸요. 못 사요.",
+          "meaningVn": "Đắt quá. Tôi không mua được."
+        },
+        {
+          "speaker": "B",
+          "korean": "그럼 이 가방은 얼마예요?",
+          "meaningVn": "Vậy thì, cái túi kia bao nhiêu tiền?"
+        },
+        {
+          "speaker": "A",
+          "korean": "이 가방은 3만원이에요. 싸요.",
+          "meaningVn": "Cái túi này là 30 nghìn won. Rẻ."
+        },
+        {
+          "speaker": "B",
+          "korean": "네, 이걸로 사겠어요. 고맙습니다.",
+          "meaningVn": "Vâng, tôi sẽ mua cái này. Cảm ơn."
+        }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "이 신발 얼마예요?",
+          "meaningVn": "Đôi giày này bao nhiêu tiền?"
+        },
+        {
+          "speaker": "B",
+          "korean": "10만원이에요.",
+          "meaningVn": "Là 100 nghìn won."
+        },
+        {
+          "speaker": "A",
+          "korean": "신발이 너무 비싸요. 안 사요.",
+          "meaningVn": "Giày đắt quá. Tôi không mua."
+        },
+        {
+          "speaker": "B",
+          "korean": "그러면 이 바지 얼마예요?",
+          "meaningVn": "Vậy thì, quần này bao nhiêu tiền?"
+        },
+        {
+          "speaker": "A",
+          "korean": "이 바지는 4만원이에요.",
+          "meaningVn": "Quần này là 40 nghìn won."
+        },
+        {
+          "speaker": "B",
+          "korean": "네, 그걸로 사겠어요. 고맙습니다.",
+          "meaningVn": "Vâng, tôi sẽ mua cái đó. Cảm ơn."
+        }
+      ]
+    }
+  ],
+  "pronunciationTip": [
+    {
+      "grammarPattern": "N은/는 N이에요/예요",
+      "tip": "이에요 sau 받침 đọc liên âm: 학생이에요 → [학생니에요]"
+    },
+    {
+      "grammarPattern": "V-아/어요",
+      "tip": "Trong văn nói, '아요' thường được rút gọn thành '와요'. Ví dụ: '가요' (đi) có thể được nghe thành '갸요' hoặc '꽈요'. '어여' thường được rút gọn thành '여'. Ví dụ: '해요' (làm) có thể được nghe thành '헤여'."
+    },
+    {
+      "grammarPattern": "V-지 않다",
+      "tip": "Trong văn nói, '않아요' thường được phát âm thành '나아요'. Ví dụ: '안 사요' có thể được nghe thành '안 사나 요'."
+    }
+  ]
+}

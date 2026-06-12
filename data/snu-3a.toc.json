@@ -1,0 +1,14 @@
+{
+  "slug": "snu-3a",
+  "pdf": "3/SNU3A.pdf",
+  "_pageNote": "PDF 269 trang. 7 units, mỗi bài ~33 trang.",
+  "units": [
+    { "number": 1, "titleKr": "저는 이 일이 적성에 맞아요", "titleVn": "Công việc này hợp với tôi", "topic": "Sở trường, Nghề nghiệp", "pages": "13-46" },
+    { "number": 2, "titleKr": "한국의 교육열은 높아요", "titleVn": "Nhiệt tình giáo dục của Hàn Quốc rất cao", "topic": "Giáo dục, Xã hội", "pages": "47-80" },
+    { "number": 3, "titleKr": "가족의 의미가 달라지고 있어요", "titleVn": "Ý nghĩa của gia đình đang thay đổi", "topic": "Gia đình, Xã hội hiện đại", "pages": "81-114" },
+    { "number": 4, "titleKr": "운동을 꾸준히 해야겠어요", "titleVn": "Tôi phải tập thể dục đều đặn", "topic": "Sức khoẻ, Thể dục", "pages": "115-148" },
+    { "number": 5, "titleKr": "한국의 음식 문화", "titleVn": "Văn hoá ẩm thực Hàn Quốc", "topic": "Ẩm thực, Văn hoá", "pages": "149-182" },
+    { "number": 6, "titleKr": "여행을 통해 세상을 배워요", "titleVn": "Học hỏi thế giới qua du lịch", "topic": "Du lịch, Trải nghiệm", "pages": "183-216" },
+    { "number": 7, "titleKr": "환경 문제와 해결 방안", "titleVn": "Vấn đề môi trường và giải pháp", "topic": "Môi trường, Xã hội", "pages": "217-250" }
+  ]
+}

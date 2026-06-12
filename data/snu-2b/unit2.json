@@ -1,0 +1,2639 @@
+{
+  "unit": 11,
+  "titleKr": "운동을 좀 해보는 게 어때요?",
+  "titleVn": "Sao bạn không thử tập thể dục xem sao?",
+  "topic": "Sức khỏe",
+  "vocabulary": [
+    {
+      "korean": "증상",
+      "romanization": "jeungsang",
+      "meaningVn": "triệu chứng",
+      "meaningEn": "symptom",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "감기 증상이 심해요.",
+          "meaningVn": "Triệu chứng cảm lạnh rất nặng."
+        },
+        {
+          "korean": "어떤 증상이 있어요?",
+          "meaningVn": "Bạn có những triệu chứng gì?"
+        }
+      ]
+    },
+    {
+      "korean": "병원",
+      "romanization": "byeongwon",
+      "meaningVn": "bệnh viện",
+      "meaningEn": "hospital",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "몸이 안 좋아서 병원에 갔어요.",
+          "meaningVn": "Tôi không khỏe nên đã đi bệnh viện."
+        },
+        {
+          "korean": "이 병원은 유명해요.",
+          "meaningVn": "Bệnh viện này nổi tiếng."
+        }
+      ]
+    },
+    {
+      "korean": "약",
+      "romanization": "yak",
+      "meaningVn": "thuốc",
+      "meaningEn": "medication",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "감기약을 먹어야 해요.",
+          "meaningVn": "Bạn phải uống thuốc cảm."
+        },
+        {
+          "korean": "이 약은 하루 세 번 드세요.",
+          "meaningVn": "Uống thuốc này ba lần một ngày."
+        }
+      ]
+    },
+    {
+      "korean": "맛",
+      "romanization": "mat",
+      "meaningVn": "vị",
+      "meaningEn": "taste",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 음식은 맛이 좋아요.",
+          "meaningVn": "Món ăn này có vị ngon."
+        },
+        {
+          "korean": "단맛, 쓴맛, 신맛, 짠맛이 있어요.",
+          "meaningVn": "Có vị ngọt, vị đắng, vị chua, vị mặn."
+        }
+      ]
+    },
+    {
+      "korean": "달다",
+      "romanization": "dalda",
+      "meaningVn": "ngọt",
+      "meaningEn": "to be sweet",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 케이크는 아주 달아요.",
+          "meaningVn": "Chiếc bánh này rất ngọt."
+        },
+        {
+          "korean": "달콤한 맛이 좋아요.",
+          "meaningVn": "Tôi thích vị ngọt ngào."
+        }
+      ]
+    },
+    {
+      "korean": "달다",
+      "romanization": "dalda",
+      "meaningVn": "ngọt",
+      "meaningEn": "to be sweet",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 케이크는 아주 달아요.",
+          "meaningVn": "Chiếc bánh này rất ngọt."
+        },
+        {
+          "korean": "달콤한 맛이 좋아요.",
+          "meaningVn": "Tôi thích vị ngọt ngào."
+        }
+      ]
+    },
+    {
+      "korean": "짜다",
+      "romanization": "jjada",
+      "meaningVn": "mặn",
+      "meaningEn": "to be salty",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 국은 너무 짜요.",
+          "meaningVn": "Món súp này quá mặn."
+        },
+        {
+          "korean": "짠 음식을 많이 먹으면 안 돼요.",
+          "meaningVn": "Không nên ăn nhiều đồ mặn."
+        }
+      ]
+    },
+    {
+      "korean": "쓰다",
+      "romanization": "sseuda",
+      "meaningVn": "đắng",
+      "meaningEn": "to be bitter",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 약은 써요.",
+          "meaningVn": "Thuốc này đắng."
+        },
+        {
+          "korean": "쓴 커피를 좋아해요.",
+          "meaningVn": "Tôi thích cà phê đắng."
+        }
+      ]
+    },
+    {
+      "korean": "시다",
+      "romanization": "sida",
+      "meaningVn": "chua",
+      "meaningEn": "to be sour",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "레몬은 신맛이 나요.",
+          "meaningVn": "Chanh có vị chua."
+        },
+        {
+          "korean": "이 과일은 너무 셔요.",
+          "meaningVn": "Trái cây này quá chua."
+        }
+      ]
+    },
+    {
+      "korean": "분위기",
+      "romanization": "bunwigi",
+      "meaningVn": "không khí, bầu không khí",
+      "meaningEn": "atmosphere",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "식당 분위기가 좋아요.",
+          "meaningVn": "Không khí của nhà hàng rất tốt."
+        },
+        {
+          "korean": "파티 분위기가 신나요.",
+          "meaningVn": "Bầu không khí của bữa tiệc thật sôi động."
+        }
+      ]
+    },
+    {
+      "korean": "시키다",
+      "romanization": "sikida",
+      "meaningVn": "bảo, sai khiến, làm cho",
+      "meaningEn": "to have someone do something",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "내가 할게, 너는 쉬어.",
+          "meaningVn": "Để tôi làm cho, bạn hãy nghỉ ngơi."
+        },
+        {
+          "korean": "동생에게 숙제를 시켰어요.",
+          "meaningVn": "Tôi đã sai em trai làm bài tập về nhà."
+        }
+      ]
+    },
+    {
+      "korean": "갖다 주다",
+      "romanization": "gatda juda",
+      "meaningVn": "mang đến, đưa cho",
+      "meaningEn": "to bring and give",
+      "pos": "verb phrase",
+      "examples": [
+        {
+          "korean": "물을 갖다 주세요.",
+          "meaningVn": "Xin hãy mang nước đến cho tôi."
+        },
+        {
+          "korean": "이 책을 친구에게 갖다 줬어요.",
+          "meaningVn": "Tôi đã mang quyển sách này đưa cho bạn."
+        }
+      ]
+    },
+    {
+      "korean": "돈이 아깝다",
+      "romanization": "doni appatda",
+      "meaningVn": "tiếc tiền, phí tiền",
+      "meaningEn": "to be a waste of money",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 옷은 비싸지만 돈이 아깝지 않아요.",
+          "meaningVn": "Chiếc áo này đắt nhưng không phí tiền."
+        },
+        {
+          "korean": "그렇게 해서 돈이 아까웠어요.",
+          "meaningVn": "Làm như vậy thật phí tiền."
+        }
+      ]
+    },
+    {
+      "korean": "동갑",
+      "romanization": "donggap",
+      "meaningVn": "cùng tuổi",
+      "meaningEn": "same age",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 스무 살이에요. 제 친구도 동갑이에요.",
+          "meaningVn": "Tôi 20 tuổi. Bạn tôi cũng bằng tuổi."
+        },
+        {
+          "korean": "우리 동갑인데 반말을 써도 될까요?",
+          "meaningVn": "Chúng ta bằng tuổi nhau, có thể nói chuyện suồng sã được không?"
+        }
+      ]
+    },
+    {
+      "korean": "반말",
+      "romanization": "banmal",
+      "meaningVn": "cách nói suồng sã, thân mật",
+      "meaningEn": "informal speech",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "친구와는 반말을 써요.",
+          "meaningVn": "Tôi nói chuyện suồng sã với bạn bè."
+        },
+        {
+          "korean": "처음 보는 사람에게 반말을 하면 안 돼요.",
+          "meaningVn": "Không được nói chuyện suồng sã với người lần đầu gặp."
+        }
+      ]
+    },
+    {
+      "korean": "입에 맞다",
+      "romanization": "ibe matda",
+      "meaningVn": "hợp khẩu vị",
+      "meaningEn": "to suit one's taste",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "한국 음식이 제 입에 잘 맞아요.",
+          "meaningVn": "Món ăn Hàn Quốc rất hợp khẩu vị của tôi."
+        },
+        {
+          "korean": "이 음식은 입에 맞아요?",
+          "meaningVn": "Món ăn này có hợp khẩu vị của bạn không?"
+        }
+      ]
+    },
+    {
+      "korean": "말을 놓다",
+      "romanization": "mareul nota",
+      "meaningVn": "bắt đầu nói chuyện thân mật (suồng sã)",
+      "meaningEn": "to start speaking informally",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "우리는 동갑이라서 말을 놓기로 했어요.",
+          "meaningVn": "Vì chúng tôi bằng tuổi nên đã quyết định nói chuyện thân mật."
+        },
+        {
+          "korean": "처음에는 존댓말을 쓰다가 나중에는 말을 놓았어요.",
+          "meaningVn": "Ban đầu chúng tôi dùng kính ngữ, sau đó thì nói chuyện thân mật."
+        }
+      ]
+    },
+    {
+      "korean": "김치찌개",
+      "romanization": "kimchi jjigae",
+      "meaningVn": "canh kim chi",
+      "meaningEn": "kimchi stew",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "김치찌개는 한국의 대표적인 음식입니다.",
+          "meaningVn": "Canh kim chi là món ăn đại diện của Hàn Quốc."
+        },
+        {
+          "korean": "오늘 점심은 김치찌개예요.",
+          "meaningVn": "Bữa trưa hôm nay là canh kim chi."
+        }
+      ]
+    },
+    {
+      "korean": "된장찌개",
+      "romanization": "doenjang jjigae",
+      "meaningVn": "canh tương đậu",
+      "meaningEn": "doenjang jjigae",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "된장찌개는 구수한 맛이 나요.",
+          "meaningVn": "Canh tương đậu có vị thơm ngon."
+        },
+        {
+          "korean": "밥이랑 된장찌개를 같이 먹었어요.",
+          "meaningVn": "Tôi đã ăn cơm cùng với canh tương đậu."
+        }
+      ]
+    },
+    {
+      "korean": "순두부찌개",
+      "romanization": "sundubu jjigae",
+      "meaningVn": "canh đậu phụ non",
+      "meaningEn": "soft tofu stew",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "순두부찌개는 매콤하고 부드러워요.",
+          "meaningVn": "Canh đậu phụ non cay và mềm."
+        },
+        {
+          "korean": "저는 순두부찌개를 좋아해요.",
+          "meaningVn": "Tôi thích canh đậu phụ non."
+        }
+      ]
+    },
+    {
+      "korean": "감자탕",
+      "romanization": "gamjatang",
+      "meaningVn": "canh xương heo hầm khoai tây",
+      "meaningEn": "potato stew with pork",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "감자탕은 든든한 음식이에요.",
+          "meaningVn": "Canh xương heo hầm khoai tây là món ăn bổ dưỡng."
+        },
+        {
+          "korean": "비 오는 날에는 감자탕을 먹고 싶어요.",
+          "meaningVn": "Vào ngày mưa, tôi muốn ăn canh xương heo hầm khoai tây."
+        }
+      ]
+    },
+    {
+      "korean": "매운탕",
+      "romanization": "maeuntang",
+      "meaningVn": "canh cá cay",
+      "meaningEn": "spicy fish stew",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "매운탕은 얼큰해서 해장용으로 좋아요.",
+          "meaningVn": "Canh cá cay rất tỉnh rượu nên tốt cho việc giải rượu."
+        },
+        {
+          "korean": "이 집 매운탕이 맛있어요.",
+          "meaningVn": "Canh cá cay ở quán này rất ngon."
+        }
+      ]
+    },
+    {
+      "korean": "설렁탕",
+      "romanization": "seolleongtang",
+      "meaningVn": "canh bò hầm",
+      "meaningEn": "stock soup of bone and stew meat",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "설렁탕은 맑은 국물에 밥을 말아 먹어요.",
+          "meaningVn": "Canh bò hầm được ăn với cơm chan vào nước dùng trong."
+        },
+        {
+          "korean": "아침 식사로 설렁탕을 먹었어요.",
+          "meaningVn": "Tôi đã ăn canh bò hầm cho bữa sáng."
+        }
+      ]
+    },
+    {
+      "korean": "냉면",
+      "romanization": "naengmyeon",
+      "meaningVn": "mì lạnh",
+      "meaningEn": "cold noodles",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여름에는 냉면을 자주 먹어요.",
+          "meaningVn": "Vào mùa hè, tôi thường ăn mì lạnh."
+        },
+        {
+          "korean": "냉면이 시원하고 맛있어요.",
+          "meaningVn": "Mì lạnh rất mát và ngon."
+        }
+      ]
+    },
+    {
+      "korean": "칼국수",
+      "romanization": "kalguksu",
+      "meaningVn": "mì sợi dày",
+      "meaningEn": "handmade chopped noodles",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "칼국수는 면이 쫄깃해요.",
+          "meaningVn": "Mì sợi dày có sợi dai."
+        },
+        {
+          "korean": "비 오는 날에는 칼국수를 먹으면 좋아요.",
+          "meaningVn": "Vào ngày mưa, ăn mì sợi dày thì tốt."
+        }
+      ]
+    },
+    {
+      "korean": "비빔국수",
+      "romanization": "bibim guksu",
+      "meaningVn": "mì trộn",
+      "meaningEn": "noodles mixed with vegetables and red pepper sauce",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "비빔국수는 매콤달콤해요.",
+          "meaningVn": "Mì trộn có vị cay ngọt."
+        },
+        {
+          "korean": "이 비빔국수는 채소가 많이 들어가요.",
+          "meaningVn": "Mì trộn này có nhiều rau củ."
+        }
+      ]
+    },
+    {
+      "korean": "삼겹살",
+      "romanization": "samgyeopsal",
+      "meaningVn": "ba chỉ heo nướng",
+      "meaningEn": "pork belly",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 삼겹살을 좋아해요.",
+          "meaningVn": "Tôi thích ba chỉ heo nướng."
+        },
+        {
+          "korean": "삼겹살을 구워서 쌈 싸 먹었어요.",
+          "meaningVn": "Tôi đã nướng ba chỉ heo và cuốn với rau để ăn."
+        }
+      ]
+    },
+    {
+      "korean": "떡갈비",
+      "romanization": "tteokgalbi",
+      "meaningVn": "sườn heo băm nướng",
+      "meaningEn": "marinated ground rib meat on the bone",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "떡갈비는 부드럽고 맛있어요.",
+          "meaningVn": "Sườn heo băm nướng mềm và ngon."
+        },
+        {
+          "korean": "떡갈비는 특별한 날에 먹는 음식이에요.",
+          "meaningVn": "Sườn heo băm nướng là món ăn thường ăn vào những ngày đặc biệt."
+        }
+      ]
+    },
+    {
+      "korean": "갈비찜",
+      "romanization": "galbijjim",
+      "meaningVn": "sườn heo hầm",
+      "meaningEn": "short-rib stew",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "갈비찜은 달콤짭짤해서 인기가 많아요.",
+          "meaningVn": "Sườn heo hầm có vị ngọt mặn nên rất được ưa chuộng."
+        },
+        {
+          "korean": "집에서 갈비찜을 만들어 봤어요.",
+          "meaningVn": "Tôi đã thử làm sườn heo hầm tại nhà."
+        }
+      ]
+    },
+    {
+      "korean": "속이 안 좋다",
+      "romanization": "sogi an jota",
+      "meaningVn": "không khỏe trong người, khó chịu trong bụng",
+      "meaningEn": "to not feel well in one's stomach",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어젯밤에 많이 먹었더니 속이 안 좋아요.",
+          "meaningVn": "Tôi đã ăn quá nhiều tối qua nên cảm thấy khó chịu trong bụng."
+        },
+        {
+          "korean": "속이 안 좋을 때는 죽을 먹으세요.",
+          "meaningVn": "Khi cảm thấy khó chịu trong bụng, hãy ăn cháo."
+        }
+      ]
+    },
+    {
+      "korean": "몸살이 나다",
+      "romanization": "momsari nada",
+      "meaningVn": "bị ốm, cảm cúm",
+      "meaningEn": "to have aches and pains due to the flu or fatigue",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "몸살이 나서 아무것도 하기 싫어요.",
+          "meaningVn": "Tôi bị ốm nên không muốn làm gì cả."
+        },
+        {
+          "korean": "몸살이 나면 푹 쉬어야 해요.",
+          "meaningVn": "Nếu bị ốm, bạn cần nghỉ ngơi đầy đủ."
+        }
+      ]
+    },
+    {
+      "korean": "다리를 다치다",
+      "romanization": "darireul dachida",
+      "meaningVn": "bị thương ở chân",
+      "meaningEn": "to hurt one's leg",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "넘어져서 다리를 다쳤어요.",
+          "meaningVn": "Tôi bị ngã và bị thương ở chân."
+        },
+        {
+          "korean": "축구를 하다가 다리를 다치면 병원에 가야 해요.",
+          "meaningVn": "Nếu bị thương ở chân khi chơi bóng đá, bạn phải đi bệnh viện."
+        }
+      ]
+    },
+    {
+      "korean": "소화가 안 되다",
+      "romanization": "sohwaga an doeda",
+      "meaningVn": "khó tiêu",
+      "meaningEn": "to have indigestion",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "기름진 음식을 많이 먹었더니 소화가 안 돼요.",
+          "meaningVn": "Tôi đã ăn nhiều đồ dầu mỡ nên bị khó tiêu."
+        },
+        {
+          "korean": "소화가 안 될 때는 매실차를 마시는 것이 좋아요.",
+          "meaningVn": "Khi bị khó tiêu, uống trà mận rất tốt."
+        }
+      ]
+    },
+    {
+      "korean": "배탈이 나다",
+      "romanization": "baetari nada",
+      "meaningVn": "bị đau bụng",
+      "meaningEn": "to have an upset stomach",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "상한 음식을 먹어서 배탈이 났어요.",
+          "meaningVn": "Tôi bị đau bụng vì ăn phải đồ ăn ôi thiu."
+        },
+        {
+          "korean": "배탈이 나면 설사를 할 수도 있어요.",
+          "meaningVn": "Nếu bị đau bụng, bạn có thể bị tiêu chảy."
+        }
+      ]
+    },
+    {
+      "korean": "토하다",
+      "romanization": "tohada",
+      "meaningVn": "nôn, ói",
+      "meaningEn": "to vomit",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "멀미를 해서 토했어요.",
+          "meaningVn": "Tôi bị say tàu xe nên đã nôn."
+        },
+        {
+          "korean": "음식이 너무 매워서 토할 것 같아요.",
+          "meaningVn": "Đồ ăn quá cay nên tôi cảm thấy buồn nôn."
+        }
+      ]
+    },
+    {
+      "korean": "어지럽다",
+      "romanization": "eojireopda",
+      "meaningVn": "chóng mặt",
+      "meaningEn": "to be dizzy",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "갑자기 어지러워서 앉았어요.",
+          "meaningVn": "Tôi đột nhiên cảm thấy chóng mặt nên đã ngồi xuống."
+        },
+        {
+          "korean": "너무 피곤해서 어지러워요.",
+          "meaningVn": "Tôi mệt quá nên cảm thấy chóng mặt."
+        }
+      ]
+    },
+    {
+      "korean": "멀미를 하다",
+      "romanization": "meolmireul hada",
+      "meaningVn": "say tàu xe",
+      "meaningEn": "to have motion sickness",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "저는 차를 타면 멀미를 해요.",
+          "meaningVn": "Tôi bị say xe khi đi ô tô."
+        },
+        {
+          "korean": "배를 탈 때 멀미약을 미리 먹었어요.",
+          "meaningVn": "Tôi đã uống thuốc chống say tàu xe trước khi đi thuyền."
+        }
+      ]
+    },
+    {
+      "korean": "입맛이 없다",
+      "romanization": "immasi eopda",
+      "meaningVn": "không có cảm giác thèm ăn",
+      "meaningEn": "to have no appetite",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "몸이 안 좋아서 입맛이 없어요.",
+          "meaningVn": "Tôi không khỏe nên không có cảm giác thèm ăn."
+        },
+        {
+          "korean": "더울 때는 입맛이 없어요.",
+          "meaningVn": "Khi trời nóng, tôi không có cảm giác thèm ăn."
+        }
+      ]
+    },
+    {
+      "korean": "기운이 없다",
+      "romanization": "giuni eopda",
+      "meaningVn": "không có sức lực, mệt mỏi",
+      "meaningEn": "to feel feeble/down",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어제 너무 늦게 잤더니 기운이 없어요.",
+          "meaningVn": "Tôi ngủ quá muộn hôm qua nên không có sức lực."
+        },
+        {
+          "korean": "기운이 없을 때는 과일을 먹는 것이 좋아요.",
+          "meaningVn": "Khi không có sức lực, ăn trái cây rất tốt."
+        }
+      ]
+    },
+    {
+      "korean": "잠을 잘 못 자다",
+      "romanization": "jameul jal mot jada",
+      "meaningVn": "không ngủ được ngon giấc",
+      "meaningEn": "to not sleep well",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "걱정이 많아서 잠을 잘 못 잤어요.",
+          "meaningVn": "Tôi lo lắng nhiều nên đã không ngủ được ngon giấc."
+        },
+        {
+          "korean": "잠을 잘 못 자면 다음 날 피곤해요.",
+          "meaningVn": "Nếu không ngủ ngon giấc, ngày hôm sau sẽ mệt mỏi."
+        }
+      ]
+    },
+    {
+      "korean": "내과",
+      "romanization": "naegwa",
+      "meaningVn": "khoa nội",
+      "meaningEn": "internal medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "속이 안 좋아서 내과에 갔어요.",
+          "meaningVn": "Tôi cảm thấy khó chịu trong bụng nên đã đến khoa nội."
+        },
+        {
+          "korean": "내과 진료를 받으세요.",
+          "meaningVn": "Hãy khám khoa nội."
+        }
+      ]
+    },
+    {
+      "korean": "안과",
+      "romanization": "angwa",
+      "meaningVn": "khoa mắt",
+      "meaningEn": "ophthalmology",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "눈이 아파서 안과에 갔어요.",
+          "meaningVn": "Tôi bị đau mắt nên đã đến khoa mắt."
+        },
+        {
+          "korean": "안과에서 안약을 처방받았어요.",
+          "meaningVn": "Tôi đã được kê đơn thuốc nhỏ mắt tại khoa mắt."
+        }
+      ]
+    },
+    {
+      "korean": "치과",
+      "romanization": "chigwa",
+      "meaningVn": "khoa răng hàm mặt",
+      "meaningEn": "the dentist",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이가 아파서 치과에 예약했어요.",
+          "meaningVn": "Tôi bị đau răng nên đã đặt lịch hẹn với nha sĩ."
+        },
+        {
+          "korean": "치과에서는 이를 깨끗하게 닦으라고 해요.",
+          "meaningVn": "Ở nha khoa, họ khuyên nên đánh răng sạch sẽ."
+        }
+      ]
+    },
+    {
+      "korean": "피부과",
+      "romanization": "pibugwa",
+      "meaningVn": "khoa da liễu",
+      "meaningEn": "dermatology",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "얼굴에 뭐가 나서 피부과에 갔어요.",
+          "meaningVn": "Trên mặt tôi có mụn nên đã đi khám khoa da liễu."
+        },
+        {
+          "korean": "피부과 의사가 피부 관리에 대해 조언해 줬어요.",
+          "meaningVn": "Bác sĩ da liễu đã cho lời khuyên về chăm sóc da."
+        }
+      ]
+    },
+    {
+      "korean": "정형외과",
+      "romanization": "jeonghyeongwoegwa",
+      "meaningVn": "khoa chỉnh hình",
+      "meaningEn": "orthopedics",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "넘어져서 다리를 다쳐서 정형외과에 갔어요.",
+          "meaningVn": "Tôi bị ngã và chấn thương chân nên đã đến khoa chỉnh hình."
+        },
+        {
+          "korean": "정형외과에서는 뼈와 근육을 치료해요.",
+          "meaningVn": "Khoa chỉnh hình điều trị xương và cơ."
+        }
+      ]
+    },
+    {
+      "korean": "이비인후과",
+      "romanization": "ibiinhugwa",
+      "meaningVn": "khoa tai mũi họng",
+      "meaningEn": "ear-nose-and-throat department",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "목이 아파서 이비인후과에 갔어요.",
+          "meaningVn": "Tôi bị đau họng nên đã đến khoa tai mũi họng."
+        },
+        {
+          "korean": "감기에 걸리면 이비인후과에 가기도 해요.",
+          "meaningVn": "Khi bị cảm, đôi khi người ta cũng đi khám khoa tai mũi họng."
+        }
+      ]
+    },
+    {
+      "korean": "감기약",
+      "romanization": "gamgiyak",
+      "meaningVn": "thuốc cảm",
+      "meaningEn": "cold medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "감기약은 졸음이 올 수 있어요.",
+          "meaningVn": "Thuốc cảm có thể gây buồn ngủ."
+        },
+        {
+          "korean": "약사님, 감기약 하나 주세요.",
+          "meaningVn": "Dược sĩ ơi, cho tôi một lọ thuốc cảm."
+        }
+      ]
+    },
+    {
+      "korean": "두통약",
+      "romanization": "dutongnyak",
+      "meaningVn": "thuốc đau đầu",
+      "meaningEn": "headache pill",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "머리가 아플 때는 두통약을 먹어요.",
+          "meaningVn": "Khi bị đau đầu, tôi uống thuốc đau đầu."
+        },
+        {
+          "korean": "이 두통약은 효과가 빨라요.",
+          "meaningVn": "Thuốc đau đầu này có tác dụng nhanh."
+        }
+      ]
+    },
+    {
+      "korean": "멀미약",
+      "romanization": "meolmiyak",
+      "meaningVn": "thuốc chống say tàu xe",
+      "meaningEn": "motion sickness medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여행 가기 전에 멀미약을 샀어요.",
+          "meaningVn": "Tôi đã mua thuốc chống say tàu xe trước khi đi du lịch."
+        },
+        {
+          "korean": "멀미약을 먹으면 졸릴 수 있어요.",
+          "meaningVn": "Nếu uống thuốc chống say tàu xe, bạn có thể buồn ngủ."
+        }
+      ]
+    },
+    {
+      "korean": "소화제",
+      "romanization": "sohwaje",
+      "meaningVn": "thuốc tiêu hóa",
+      "meaningEn": "digestive medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "소화가 안 될 때 소화제를 먹어요.",
+          "meaningVn": "Khi bị khó tiêu, tôi uống thuốc tiêu hóa."
+        },
+        {
+          "korean": "이 소화제는 효과가 좋아요.",
+          "meaningVn": "Thuốc tiêu hóa này có hiệu quả tốt."
+        }
+      ]
+    },
+    {
+      "korean": "해열제",
+      "romanization": "haeyeolje",
+      "meaningVn": "thuốc hạ sốt",
+      "meaningEn": "fever reducer",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "열이 날 때는 해열제를 먹어야 해요.",
+          "meaningVn": "Khi bị sốt, bạn phải uống thuốc hạ sốt."
+        },
+        {
+          "korean": "어린이용 해열제는 따로 있어요.",
+          "meaningVn": "Có loại thuốc hạ sốt riêng cho trẻ em."
+        }
+      ]
+    },
+    {
+      "korean": "안약",
+      "romanization": "anyang",
+      "meaningVn": "thuốc nhỏ mắt",
+      "meaningEn": "eye drops",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "눈이 건조해서 안약을 넣고 있어요.",
+          "meaningVn": "Mắt tôi bị khô nên tôi đang nhỏ thuốc nhỏ mắt."
+        },
+        {
+          "korean": "안약을 넣을 때는 손을 깨끗하게 씻으세요.",
+          "meaningVn": "Khi nhỏ thuốc nhỏ mắt, hãy rửa tay sạch sẽ."
+        }
+      ]
+    },
+    {
+      "korean": "파스",
+      "romanization": "paseu",
+      "meaningVn": "miếng dán giảm đau",
+      "meaningEn": "pain relief patch",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "어깨가 아파서 파스를 붙였어요.",
+          "meaningVn": "Vai tôi bị đau nên tôi đã dán miếng dán giảm đau."
+        },
+        {
+          "korean": "운동 후에 근육통에는 파스가 좋아요.",
+          "meaningVn": "Sau khi tập thể dục, miếng dán giảm đau rất tốt cho chứng đau cơ."
+        }
+      ]
+    },
+    {
+      "korean": "연고",
+      "romanization": "yeongo",
+      "meaningVn": "thuốc mỡ, thuốc bôi",
+      "meaningEn": "ointment",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "벌레에 물린 곳에 연고를 발랐어요.",
+          "meaningVn": "Tôi đã bôi thuốc mỡ vào chỗ bị côn trùng cắn."
+        },
+        {
+          "korean": "피부 트러블에는 연고가 효과적이에요.",
+          "meaningVn": "Thuốc mỡ có hiệu quả đối với các vấn đề về da."
+        }
+      ]
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meokda",
+      "meaningVn": "ăn",
+      "meaningEn": "to eat",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "밥을 맛있게 먹어요.",
+          "meaningVn": "Tôi ăn cơm ngon lành."
+        },
+        {
+          "korean": "약을 먹어야 해요.",
+          "meaningVn": "Tôi phải uống thuốc."
+        }
+      ]
+    },
+    {
+      "korean": "넣다",
+      "romanization": "neota",
+      "meaningVn": "cho vào, bỏ vào",
+      "meaningEn": "to put in",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "설탕을 커피에 넣으세요.",
+          "meaningVn": "Hãy cho đường vào cà phê."
+        },
+        {
+          "korean": "안약을 눈에 넣었어요.",
+          "meaningVn": "Tôi đã nhỏ thuốc nhỏ mắt vào mắt."
+        }
+      ]
+    },
+    {
+      "korean": "붙이다",
+      "romanization": "butida",
+      "meaningVn": "dán",
+      "meaningEn": "to attach",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "우표를 편지에 붙이세요.",
+          "meaningVn": "Hãy dán tem lên thư."
+        },
+        {
+          "korean": "아픈 곳에 파스를 붙였어요.",
+          "meaningVn": "Tôi đã dán miếng dán giảm đau vào chỗ đau."
+        }
+      ]
+    },
+    {
+      "korean": "바르다",
+      "romanization": "bareuda",
+      "meaningVn": "bôi, thoa",
+      "meaningEn": "to apply",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "얼굴에 크림을 발라요.",
+          "meaningVn": "Tôi bôi kem lên mặt."
+        },
+        {
+          "korean": "상처에 연고를 발랐어요.",
+          "meaningVn": "Tôi đã bôi thuốc mỡ lên vết thương."
+        }
+      ]
+    },
+    {
+      "korean": "습관",
+      "romanization": "seupgwan",
+      "meaningVn": "thói quen",
+      "meaningEn": "habit",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "건강한 생활 습관을 가지세요.",
+          "meaningVn": "Hãy có thói quen sinh hoạt lành mạnh."
+        },
+        {
+          "korean": "늦게 자는 습관이 있어요.",
+          "meaningVn": "Tôi có thói quen ngủ muộn."
+        }
+      ]
+    },
+    {
+      "korean": "외출하다",
+      "romanization": "oechulhada",
+      "meaningVn": "đi ra ngoài",
+      "meaningEn": "to go out",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구를 만나러 외출했어요.",
+          "meaningVn": "Tôi đã đi ra ngoài để gặp bạn."
+        },
+        {
+          "korean": "오늘 외출할 거예요?",
+          "meaningVn": "Hôm nay bạn có định đi ra ngoài không?"
+        }
+      ]
+    },
+    {
+      "korean": "예방하다",
+      "romanization": "yebanghada",
+      "meaningVn": "phòng ngừa, ngăn chặn",
+      "meaningEn": "to prevent",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "손을 자주 씻으면 감기를 예방할 수 있어요.",
+          "meaningVn": "Nếu rửa tay thường xuyên, bạn có thể phòng ngừa cảm lạnh."
+        },
+        {
+          "korean": "건강 검진은 질병을 예방하는 데 도움이 돼요.",
+          "meaningVn": "Khám sức khỏe định kỳ giúp phòng ngừa bệnh tật."
+        }
+      ]
+    },
+    {
+      "korean": "감사합니다",
+      "romanization": "gamsahamnida",
+      "meaningVn": "cảm ơn",
+      "meaningEn": "thank you",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "도와주셔서 감사합니다.",
+          "meaningVn": "Cảm ơn bạn đã giúp đỡ."
+        },
+        {
+          "korean": "선물 정말 감사합니다.",
+          "meaningVn": "Cảm ơn món quà rất nhiều."
+        }
+      ]
+    },
+    {
+      "korean": "안녕히 계세요",
+      "romanization": "annyeonghi gyeseyo",
+      "meaningVn": "tạm biệt (người ở lại nói)",
+      "meaningEn": "goodbye (said by the person leaving)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "먼저 들어가겠습니다. 안녕히 계세요.",
+          "meaningVn": "Tôi xin phép về trước. Tạm biệt."
+        },
+        {
+          "korean": "나중에 봐요. 안녕히 계세요.",
+          "meaningVn": "Hẹn gặp lại sau. Tạm biệt."
+        }
+      ]
+    },
+    {
+      "korean": "얼굴에 뭐가 나다",
+      "romanization": "eolgure mwoga nada",
+      "meaningVn": "nổi mụn trên mặt",
+      "meaningEn": "to have something break out on one's face",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "스트레스 때문에 얼굴에 뭐가 났어요.",
+          "meaningVn": "Tôi bị nổi mụn trên mặt vì căng thẳng."
+        },
+        {
+          "korean": "얼굴에 뭐가 나면 피부과에 가세요.",
+          "meaningVn": "Nếu bị nổi mụn trên mặt, hãy đi khám da liễu."
+        }
+      ]
+    },
+    {
+      "korean": "머리가 아프다",
+      "romanization": "meoriga apeuda",
+      "meaningVn": "đau đầu",
+      "meaningEn": "to have a headache",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "밤새 공부했더니 머리가 아파요.",
+          "meaningVn": "Tôi đã học cả đêm nên bị đau đầu."
+        },
+        {
+          "korean": "머리가 아플 때는 쉬어야 해요.",
+          "meaningVn": "Khi bị đau đầu, bạn cần nghỉ ngơi."
+        }
+      ]
+    },
+    {
+      "korean": "열이 나다",
+      "romanization": "yeori nada",
+      "meaningVn": "bị sốt",
+      "meaningEn": "to have a fever",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "열이 나는데 병원에 가봐야겠어요.",
+          "meaningVn": "Tôi bị sốt nên phải đi khám bệnh."
+        },
+        {
+          "korean": "열이 나면 해열제를 드세요.",
+          "meaningVn": "Nếu bị sốt, hãy uống thuốc hạ sốt."
+        }
+      ]
+    },
+    {
+      "korean": "감기에 걸리다",
+      "romanization": "gamgie geollida",
+      "meaningVn": "bị cảm lạnh",
+      "meaningEn": "to catch a cold",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "날씨가 추워서 감기에 걸렸어요.",
+          "meaningVn": "Thời tiết lạnh nên tôi bị cảm lạnh."
+        },
+        {
+          "korean": "감기에 걸리지 않도록 조심하세요.",
+          "meaningVn": "Hãy cẩn thận để không bị cảm lạnh."
+        }
+      ]
+    },
+    {
+      "korean": "눈이 아프다",
+      "romanization": "nuni apeuda",
+      "meaningVn": "đau mắt",
+      "meaningEn": "to have sore eyes",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "컴퓨터를 오래 했더니 눈이 아파요.",
+          "meaningVn": "Tôi đã dùng máy tính quá lâu nên bị đau mắt."
+        },
+        {
+          "korean": "눈이 아프면 안약을 넣으세요.",
+          "meaningVn": "Nếu bị đau mắt, hãy nhỏ thuốc nhỏ mắt."
+        }
+      ]
+    },
+    {
+      "korean": "다리를 다치다",
+      "romanization": "darireul dachida",
+      "meaningVn": "bị thương ở chân",
+      "meaningEn": "to hurt one's leg",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "운동하다가 다리를 다쳤어요.",
+          "meaningVn": "Tôi bị chấn thương chân khi tập thể dục."
+        },
+        {
+          "korean": "다리를 다쳤으면 병원에 가야 해요.",
+          "meaningVn": "Nếu bị thương ở chân, bạn phải đi bệnh viện."
+        }
+      ]
+    },
+    {
+      "korean": "소화제",
+      "romanization": "sohwaje",
+      "meaningVn": "thuốc tiêu hóa",
+      "meaningEn": "digestive medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "소화가 안 될 때 소화제를 먹어요.",
+          "meaningVn": "Khi bị khó tiêu, tôi uống thuốc tiêu hóa."
+        },
+        {
+          "korean": "이 소화제는 효과가 좋아요.",
+          "meaningVn": "Thuốc tiêu hóa này có hiệu quả tốt."
+        }
+      ]
+    },
+    {
+      "korean": "두통약",
+      "romanization": "dutongnyak",
+      "meaningVn": "thuốc đau đầu",
+      "meaningEn": "headache pill",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "머리가 아플 때는 두통약을 먹어요.",
+          "meaningVn": "Khi bị đau đầu, tôi uống thuốc đau đầu."
+        },
+        {
+          "korean": "이 두통약은 효과가 빨라요.",
+          "meaningVn": "Thuốc đau đầu này có tác dụng nhanh."
+        }
+      ]
+    },
+    {
+      "korean": "해열제",
+      "romanization": "haeyeolje",
+      "meaningVn": "thuốc hạ sốt",
+      "meaningEn": "fever reducer",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "열이 날 때는 해열제를 먹어야 해요.",
+          "meaningVn": "Khi bị sốt, bạn phải uống thuốc hạ sốt."
+        },
+        {
+          "korean": "어린이용 해열제는 따로 있어요.",
+          "meaningVn": "Có loại thuốc hạ sốt riêng cho trẻ em."
+        }
+      ]
+    },
+    {
+      "korean": "감기약",
+      "romanization": "gamgiyak",
+      "meaningVn": "thuốc cảm",
+      "meaningEn": "cold medicine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "감기약은 졸음이 올 수 있어요.",
+          "meaningVn": "Thuốc cảm có thể gây buồn ngủ."
+        },
+        {
+          "korean": "약사님, 감기약 하나 주세요.",
+          "meaningVn": "Dược sĩ ơi, cho tôi một lọ thuốc cảm."
+        }
+      ]
+    },
+    {
+      "korean": "파스",
+      "romanization": "paseu",
+      "meaningVn": "miếng dán giảm đau",
+      "meaningEn": "pain relief patch",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "어깨가 아파서 파스를 붙였어요.",
+          "meaningVn": "Vai tôi bị đau nên tôi đã dán miếng dán giảm đau."
+        },
+        {
+          "korean": "운동 후에 근육통에는 파스가 좋아요.",
+          "meaningVn": "Sau khi tập thể dục, miếng dán giảm đau rất tốt cho chứng đau cơ."
+        }
+      ]
+    },
+    {
+      "korean": "안약",
+      "romanization": "anyang",
+      "meaningVn": "thuốc nhỏ mắt",
+      "meaningEn": "eye drops",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "눈이 건조해서 안약을 넣고 있어요.",
+          "meaningVn": "Mắt tôi bị khô nên tôi đang nhỏ thuốc nhỏ mắt."
+        },
+        {
+          "korean": "안약을 넣을 때는 손을 깨끗하게 씻으세요.",
+          "meaningVn": "Khi nhỏ thuốc nhỏ mắt, hãy rửa tay sạch sẽ."
+        }
+      ]
+    },
+    {
+      "korean": "연고",
+      "romanization": "yeongo",
+      "meaningVn": "thuốc mỡ, thuốc bôi",
+      "meaningEn": "ointment",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "벌레에 물린 곳에 연고를 발랐어요.",
+          "meaningVn": "Tôi đã bôi thuốc mỡ vào chỗ bị côn trùng cắn."
+        },
+        {
+          "korean": "피부 트러블에는 연고가 효과적이에요.",
+          "meaningVn": "Thuốc mỡ có hiệu quả đối với các vấn đề về da."
+        }
+      ]
+    },
+    {
+      "korean": "식후",
+      "romanization": "sikhu",
+      "meaningVn": "sau bữa ăn",
+      "meaningEn": "after a meal",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "식후에 꼭 약을 드세요.",
+          "meaningVn": "Hãy uống thuốc sau bữa ăn."
+        },
+        {
+          "korean": "식후 30분 뒤에 산책하는 것이 좋습니다.",
+          "meaningVn": "Nên đi dạo 30 phút sau bữa ăn."
+        }
+      ]
+    },
+    {
+      "korean": "그래도",
+      "romanization": "geuraedo",
+      "meaningVn": "tuy nhiên, dù vậy",
+      "meaningEn": "but still",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "아팠지만 그래도 참았어요.",
+          "meaningVn": "Tôi đã bị đau nhưng vẫn cố chịu đựng."
+        },
+        {
+          "korean": "비가 왔어요. 그래도 우리는 나갔어요.",
+          "meaningVn": "Trời đã mưa. Tuy nhiên chúng tôi vẫn ra ngoài."
+        }
+      ]
+    },
+    {
+      "korean": "낫다",
+      "romanization": "natda",
+      "meaningVn": "khỏi bệnh, tốt hơn",
+      "meaningEn": "to recover",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "감기가 빨리 나았으면 좋겠어요.",
+          "meaningVn": "Tôi mong cảm lạnh mau khỏi."
+        },
+        {
+          "korean": "약을 먹었더니 조금 나은 것 같아요.",
+          "meaningVn": "Uống thuốc có vẻ đã đỡ hơn một chút."
+        }
+      ]
+    },
+    {
+      "korean": "기침",
+      "romanization": "gichim",
+      "meaningVn": "ho",
+      "meaningEn": "cough",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "기침이 계속 나요.",
+          "meaningVn": "Tôi bị ho liên tục."
+        },
+        {
+          "korean": "목이 아파서 기침이 나와요.",
+          "meaningVn": "Tôi bị đau họng nên ho."
+        }
+      ]
+    },
+    {
+      "korean": "계속",
+      "romanization": "gyesok",
+      "meaningVn": "liên tục, tiếp tục",
+      "meaningEn": "continuously",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "계속 연습하면 잘하게 될 거예요.",
+          "meaningVn": "Nếu tiếp tục luyện tập, bạn sẽ giỏi lên."
+        },
+        {
+          "korean": "기침이 계속 나요.",
+          "meaningVn": "Tôi bị ho liên tục."
+        }
+      ]
+    },
+    {
+      "korean": "붓다",
+      "romanization": "butda",
+      "meaningVn": "sưng lên",
+      "meaningEn": "to swell",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "발이 부었어요.",
+          "meaningVn": "Chân bị sưng lên."
+        },
+        {
+          "korean": "모기 물린 데가 부었어요.",
+          "meaningVn": "Chỗ bị muỗi đốt bị sưng lên."
+        }
+      ]
+    },
+    {
+      "korean": "짓다",
+      "romanization": "jitda",
+      "meaningVn": "xây dựng (tòa nhà), đặt tên",
+      "meaningEn": "to build (a building), to name",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "새 집을 짓고 있어요.",
+          "meaningVn": "Họ đang xây nhà mới."
+        },
+        {
+          "korean": "아이 이름을 예쁘게 지었어요.",
+          "meaningVn": "Họ đã đặt một cái tên thật đẹp cho em bé."
+        }
+      ]
+    },
+    {
+      "korean": "젓다",
+      "romanization": "jeotda",
+      "meaningVn": "khuấy",
+      "meaningEn": "to stir",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "커피에 설탕을 넣고 잘 저으세요.",
+          "meaningVn": "Cho đường vào cà phê và khuấy đều."
+        },
+        {
+          "korean": "국을 젓다가 쏟았어요.",
+          "meaningVn": "Tôi đã làm đổ canh khi đang khuấy."
+        }
+      ]
+    },
+    {
+      "korean": "날마다",
+      "romanization": "nalmada",
+      "meaningVn": "hàng ngày",
+      "meaningEn": "every day",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "저는 날마다 운동해요.",
+          "meaningVn": "Tôi tập thể dục hàng ngày."
+        },
+        {
+          "korean": "날마다 같은 시간에 일어나요.",
+          "meaningVn": "Tôi thức dậy vào cùng một giờ mỗi ngày."
+        }
+      ]
+    },
+    {
+      "korean": "마다",
+      "romanization": "mada",
+      "meaningVn": "mỗi",
+      "meaningEn": "each, every",
+      "pos": "particle",
+      "examples": [
+        {
+          "korean": "매일 아침마다 운동해요.",
+          "meaningVn": "Tôi tập thể dục mỗi sáng."
+        },
+        {
+          "korean": "나라마다 문화가 달라요.",
+          "meaningVn": "Văn hóa mỗi nước khác nhau."
+        }
+      ]
+    },
+    {
+      "korean": "수영을 하다",
+      "romanization": "suyeongeul hada",
+      "meaningVn": "bơi",
+      "meaningEn": "to swim",
+      "pos": "verb phrase",
+      "examples": [
+        {
+          "korean": "아침마다 수영을 해요.",
+          "meaningVn": "Tôi bơi mỗi sáng."
+        },
+        {
+          "korean": "여름에는 수영을 자주 해요.",
+          "meaningVn": "Vào mùa hè, tôi thường đi bơi."
+        }
+      ]
+    },
+    {
+      "korean": "주말",
+      "romanization": "jumal",
+      "meaningVn": "cuối tuần",
+      "meaningEn": "weekend",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "주말에 뭐 할 거예요?",
+          "meaningVn": "Cuối tuần bạn sẽ làm gì?"
+        },
+        {
+          "korean": "주말에는 친구를 만날 거예요.",
+          "meaningVn": "Vào cuối tuần, tôi sẽ gặp bạn bè."
+        }
+      ]
+    },
+    {
+      "korean": "쉬는 시간",
+      "romanization": "swineun sigan",
+      "meaningVn": "thời gian nghỉ ngơi",
+      "meaningEn": "break time",
+      "pos": "noun phrase",
+      "examples": [
+        {
+          "korean": "쉬는 시간에 친구와 이야기했어요.",
+          "meaningVn": "Trong giờ nghỉ, tôi đã nói chuyện với bạn."
+        },
+        {
+          "korean": "쉬는 시간이 너무 짧아요.",
+          "meaningVn": "Thời gian nghỉ ngơi quá ngắn."
+        }
+      ]
+    },
+    {
+      "korean": "방학 때",
+      "romanization": "banghak ttae",
+      "meaningVn": "trong kỳ nghỉ",
+      "meaningEn": "during vacation",
+      "pos": "noun phrase",
+      "examples": [
+        {
+          "korean": "방학 때 여행을 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi du lịch trong kỳ nghỉ."
+        },
+        {
+          "korean": "방학 때 한국어를 공부할 거예요.",
+          "meaningVn": "Tôi sẽ học tiếng Hàn trong kỳ nghỉ."
+        }
+      ]
+    },
+    {
+      "korean": "심심할 때",
+      "romanization": "simsimhal ttae",
+      "meaningVn": "khi thấy chán",
+      "meaningEn": "when bored",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "심심할 때 책을 읽어요.",
+          "meaningVn": "Khi thấy chán, tôi đọc sách."
+        },
+        {
+          "korean": "심심할 때 뭘 하는 게 좋아요?",
+          "meaningVn": "Khi chán, nên làm gì thì tốt?"
+        }
+      ]
+    },
+    {
+      "korean": "시간이 날 때",
+      "romanization": "sigani nal ttae",
+      "meaningVn": "khi có thời gian rảnh",
+      "meaningEn": "when one has free time",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "시간이 날 때 친구를 만나려고 해요.",
+          "meaningVn": "Tôi định gặp bạn khi có thời gian rảnh."
+        },
+        {
+          "korean": "시간이 날 때마다 운동을 하세요.",
+          "meaningVn": "Hãy tập thể dục mỗi khi có thời gian rảnh."
+        }
+      ]
+    },
+    {
+      "korean": "약사",
+      "romanization": "yaksa",
+      "meaningVn": "dược sĩ",
+      "meaningEn": "pharmacist",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "약사에게 약에 대해 물어봤어요.",
+          "meaningVn": "Tôi đã hỏi dược sĩ về thuốc."
+        },
+        {
+          "korean": "이 약은 언제 먹어야 돼요? 약사님께 물어봤어요.",
+          "meaningVn": "Uống thuốc này khi nào? Tôi đã hỏi dược sĩ."
+        }
+      ]
+    },
+    {
+      "korean": "나나",
+      "romanization": "Nana",
+      "meaningVn": "Nana (tên người)",
+      "meaningEn": "Nana",
+      "pos": "proper noun",
+      "examples": [
+        {
+          "korean": "나나가 아파요.",
+          "meaningVn": "Nana bị ốm."
+        },
+        {
+          "korean": "나나 씨는 친절해요.",
+          "meaningVn": "Chị Nana thật tốt bụng."
+        }
+      ]
+    },
+    {
+      "korean": "배가 아프다",
+      "romanization": "bega apeuda",
+      "meaningVn": "đau bụng",
+      "meaningEn": "to have a stomachache",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "배가 아파서 병원에 갔어요.",
+          "meaningVn": "Tôi bị đau bụng nên đã đi bệnh viện."
+        },
+        {
+          "korean": "배가 아플 때는 따뜻한 물을 마시는 것이 좋아요.",
+          "meaningVn": "Khi bị đau bụng, uống nước ấm rất tốt."
+        }
+      ]
+    },
+    {
+      "korean": "토할 것 같다",
+      "romanization": "tohal geot gatda",
+      "meaningVn": "buồn nôn",
+      "meaningEn": "to feel like vomiting",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "멀미가 나서 토할 것 같아요.",
+          "meaningVn": "Tôi bị say tàu xe nên cảm thấy buồn nôn."
+        },
+        {
+          "korean": "음식이 너무 느끼해서 토할 것 같아요.",
+          "meaningVn": "Thức ăn quá ngấy nên tôi cảm thấy buồn nôn."
+        }
+      ]
+    },
+    {
+      "korean": "안 낫다",
+      "romanization": "an natda",
+      "meaningVn": "không khỏi",
+      "meaningEn": "not better",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "약도 먹었는데 왜 안 나요?",
+          "meaningVn": "Tôi đã uống thuốc rồi mà sao vẫn không khỏi?"
+        },
+        {
+          "korean": "증상이 계속 안 나으면 병원에 가세요.",
+          "meaningVn": "Nếu triệu chứng cứ không đỡ, hãy đi bệnh viện."
+        }
+      ]
+    },
+    {
+      "korean": "몸살이 난 것 같다",
+      "romanization": "momsari nan geot gatda",
+      "meaningVn": "có vẻ bị ốm",
+      "meaningEn": "seems to have aches and pains",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "몸살이 난 것 같아서 일찍 집에 왔어요.",
+          "meaningVn": "Tôi có vẻ bị ốm nên đã về nhà sớm."
+        },
+        {
+          "korean": "몸살이 난 것 같으면 따뜻하게 옷을 입으세요.",
+          "meaningVn": "Nếu có vẻ bị ốm, hãy mặc quần áo ấm áp."
+        }
+      ]
+    },
+    {
+      "korean": "열이 나다",
+      "romanization": "yeori nada",
+      "meaningVn": "bị sốt",
+      "meaningEn": "to have a fever",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "열이 나는데 병원에 가봐야겠어요.",
+          "meaningVn": "Tôi bị sốt nên phải đi khám bệnh."
+        },
+        {
+          "korean": "열이 나면 해열제를 드세요.",
+          "meaningVn": "Nếu bị sốt, hãy uống thuốc hạ sốt."
+        }
+      ]
+    },
+    {
+      "korean": "목도 부었다",
+      "romanization": "mokdo bueotda",
+      "meaningVn": "cổ cũng bị sưng",
+      "meaningEn": "neck is also swollen",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "감기 때문에 목도 부었고 열도 나요.",
+          "meaningVn": "Vì bị cảm nên cổ cũng bị sưng và bị sốt."
+        },
+        {
+          "korean": "목이 아프고 목도 부었어요.",
+          "meaningVn": "Tôi bị đau họng và cổ cũng bị sưng."
+        }
+      ]
+    },
+    {
+      "korean": "계속 아프다",
+      "romanization": "gyesok apeuda",
+      "meaningVn": "tiếp tục đau",
+      "meaningEn": "to continue to be sick",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "약도 먹었는데 계속 아파요.",
+          "meaningVn": "Tôi đã uống thuốc rồi nhưng vẫn tiếp tục đau."
+        },
+        {
+          "korean": "배가 계속 아프면 병원에 가세요.",
+          "meaningVn": "Nếu bụng tiếp tục đau, hãy đi bệnh viện."
+        }
+      ]
+    },
+    {
+      "korean": "취침",
+      "romanization": "chwichim",
+      "meaningVn": "đi ngủ",
+      "meaningEn": "going to bed",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오늘 밤은 일찍 취침하세요.",
+          "meaningVn": "Tối nay hãy đi ngủ sớm."
+        },
+        {
+          "korean": "취침 전에 책을 읽는 습관이 있어요.",
+          "meaningVn": "Tôi có thói quen đọc sách trước khi đi ngủ."
+        }
+      ]
+    },
+    {
+      "korean": "건강",
+      "romanization": "geongang",
+      "meaningVn": "sức khỏe",
+      "meaningEn": "health",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "건강이 제일 중요해요.",
+          "meaningVn": "Sức khỏe là quan trọng nhất."
+        },
+        {
+          "korean": "건강을 위해서 운동을 해요.",
+          "meaningVn": "Tôi tập thể dục vì sức khỏe."
+        }
+      ]
+    },
+    {
+      "korean": "생활 습관",
+      "romanization": "saenghwal seupgwan",
+      "meaningVn": "thói quen sinh hoạt",
+      "meaningEn": "lifestyle habit",
+      "pos": "noun phrase",
+      "examples": [
+        {
+          "korean": "건강한 생활 습관을 가지는 것이 중요해요.",
+          "meaningVn": "Có thói quen sinh hoạt lành mạnh là quan trọng."
+        },
+        {
+          "korean": "불규칙한 생활 습관은 건강에 안 좋아요.",
+          "meaningVn": "Thói quen sinh hoạt không điều độ không tốt cho sức khỏe."
+        }
+      ]
+    },
+    {
+      "korean": "영양제",
+      "romanization": "yeongyangje",
+      "meaningVn": "thực phẩm chức năng, vitamin",
+      "meaningEn": "nutritional supplement",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "건강을 위해 영양제를 먹고 있어요.",
+          "meaningVn": "Tôi đang uống thực phẩm chức năng vì sức khỏe."
+        },
+        {
+          "korean": "이 영양제는 피로 회복에 좋아요.",
+          "meaningVn": "Thực phẩm chức năng này tốt cho việc phục hồi sức lực."
+        }
+      ]
+    },
+    {
+      "korean": "채소",
+      "romanization": "chaeso",
+      "meaningVn": "rau củ",
+      "meaningEn": "vegetable",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "매일 채소를 충분히 먹어야 해요.",
+          "meaningVn": "Bạn cần ăn đủ rau củ mỗi ngày."
+        },
+        {
+          "korean": "이 요리에는 신선한 채소가 많이 들어갔어요.",
+          "meaningVn": "Món ăn này có nhiều rau củ tươi."
+        }
+      ]
+    },
+    {
+      "korean": "모든",
+      "romanization": "modeun",
+      "meaningVn": "tất cả",
+      "meaningEn": "all",
+      "pos": "determiner",
+      "examples": [
+        {
+          "korean": "모든 사람이 이 소식을 듣고 놀랐어요.",
+          "meaningVn": "Mọi người đều ngạc nhiên khi nghe tin này."
+        },
+        {
+          "korean": "모든 질문에 답해 주세요.",
+          "meaningVn": "Xin hãy trả lời tất cả các câu hỏi."
+        }
+      ]
+    },
+    {
+      "korean": "노력하다",
+      "romanization": "noryeokada",
+      "meaningVn": "cố gắng",
+      "meaningEn": "to make an effort",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "목표를 이루기 위해 노력했어요.",
+          "meaningVn": "Tôi đã cố gắng để đạt được mục tiêu."
+        },
+        {
+          "korean": "더 열심히 노력해야 해요.",
+          "meaningVn": "Bạn cần phải cố gắng chăm chỉ hơn nữa."
+        }
+      ]
+    },
+    {
+      "korean": "신선하다",
+      "romanization": "sinseonhada",
+      "meaningVn": "tươi, tươi mới",
+      "meaningEn": "fresh",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "오늘 산 생선이 아주 신선해요.",
+          "meaningVn": "Cá mua hôm nay rất tươi."
+        },
+        {
+          "korean": "신선한 공기를 마시니 기분이 좋아요.",
+          "meaningVn": "Hít thở không khí trong lành khiến tôi cảm thấy dễ chịu."
+        }
+      ]
+    },
+    {
+      "korean": "예방하다",
+      "romanization": "yebanghada",
+      "meaningVn": "phòng ngừa, ngăn chặn",
+      "meaningEn": "to prevent",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "손을 자주 씻으면 감기를 예방할 수 있어요.",
+          "meaningVn": "Nếu rửa tay thường xuyên, bạn có thể phòng ngừa cảm lạnh."
+        },
+        {
+          "korean": "건강 검진은 질병을 예방하는 데 도움이 돼요.",
+          "meaningVn": "Khám sức khỏe định kỳ giúp phòng ngừa bệnh tật."
+        }
+      ]
+    },
+    {
+      "korean": "자주",
+      "romanization": "jaju",
+      "meaningVn": "thường xuyên",
+      "meaningEn": "often",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "저는 자주 친구를 만나요.",
+          "meaningVn": "Tôi thường gặp bạn bè."
+        },
+        {
+          "korean": "자주 와 주세요.",
+          "meaningVn": "Xin hãy đến thường xuyên."
+        }
+      ]
+    },
+    {
+      "korean": "돌아오다",
+      "romanization": "doraoda",
+      "meaningVn": "trở về",
+      "meaningEn": "to return",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "여행에서 돌아왔어요.",
+          "meaningVn": "Tôi đã trở về từ chuyến du lịch."
+        },
+        {
+          "korean": "집에 일찍 돌아오세요.",
+          "meaningVn": "Hãy về nhà sớm."
+        }
+      ]
+    },
+    {
+      "korean": "식사",
+      "romanization": "siksa",
+      "meaningVn": "bữa ăn",
+      "meaningEn": "meal",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아침 식사는 했어요?",
+          "meaningVn": "Bạn đã ăn sáng chưa?"
+        },
+        {
+          "korean": "식사 후에 양치질을 하세요.",
+          "meaningVn": "Hãy đánh răng sau bữa ăn."
+        }
+      ]
+    },
+    {
+      "korean": "아침",
+      "romanization": "achim",
+      "meaningVn": "buổi sáng",
+      "meaningEn": "morning",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아침에 일찍 일어나요.",
+          "meaningVn": "Tôi thức dậy sớm vào buổi sáng."
+        },
+        {
+          "korean": "아침 식사로 빵을 먹었어요.",
+          "meaningVn": "Tôi đã ăn bánh mì cho bữa sáng."
+        }
+      ]
+    },
+    {
+      "korean": "저녁",
+      "romanization": "jeonyeok",
+      "meaningVn": "buổi tối",
+      "meaningEn": "evening",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저녁에 친구를 만날 거예요.",
+          "meaningVn": "Tôi sẽ gặp bạn bè vào buổi tối."
+        },
+        {
+          "korean": "저녁 식사를 같이 할까요?",
+          "meaningVn": "Chúng ta ăn tối cùng nhau nhé?"
+        }
+      ]
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaningVn": "tốt, giỏi",
+      "meaningEn": "well",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "한국어를 잘해요.",
+          "meaningVn": "Tôi nói tiếng Hàn giỏi."
+        },
+        {
+          "korean": "잠을 잘 자세요.",
+          "meaningVn": "Hãy ngủ ngon giấc."
+        }
+      ]
+    },
+    {
+      "korean": "무엇",
+      "romanization": "mueot",
+      "meaningVn": "cái gì",
+      "meaningEn": "what",
+      "pos": "pronoun",
+      "examples": [
+        {
+          "korean": "무엇을 좋아해요?",
+          "meaningVn": "Bạn thích cái gì?"
+        },
+        {
+          "korean": "무엇이 필요해요?",
+          "meaningVn": "Bạn cần cái gì?"
+        }
+      ]
+    },
+    {
+      "korean": "설명하다",
+      "romanization": "seolmyeonghada",
+      "meaningVn": "giải thích",
+      "meaningEn": "to explain",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "선생님이 문제를 설명해 주셨어요.",
+          "meaningVn": "Cô giáo đã giải thích bài toán."
+        },
+        {
+          "korean": "이것이 무엇인지 설명해 주세요.",
+          "meaningVn": "Xin hãy giải thích đây là cái gì."
+        }
+      ]
+    },
+    {
+      "korean": "준비하다",
+      "romanization": "junbihada",
+      "meaningVn": "chuẩn bị",
+      "meaningEn": "to prepare",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "시험 공부를 준비하고 있어요.",
+          "meaningVn": "Tôi đang chuẩn bị học bài cho kỳ thi."
+        },
+        {
+          "korean": "여행을 떠나기 전에 짐을 준비했어요.",
+          "meaningVn": "Tôi đã chuẩn bị hành lý trước khi khởi hành chuyến du lịch."
+        }
+      ]
+    },
+    {
+      "korean": "주의사항",
+      "romanization": "juuisahang",
+      "meaningVn": "lưu ý, điều cần chú ý",
+      "meaningEn": "precautions",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 약은 주의사항을 잘 읽어보고 드세요.",
+          "meaningVn": "Hãy đọc kỹ các lưu ý và uống thuốc này."
+        },
+        {
+          "korean": "운전할 때 주의사항을 잘 지켜야 해요.",
+          "meaningVn": "Khi lái xe, bạn phải tuân thủ nghiêm ngặt các quy tắc an toàn."
+        }
+      ]
+    },
+    {
+      "korean": "처방",
+      "romanization": "cheobang",
+      "meaningVn": "đơn thuốc",
+      "meaningEn": "prescription",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "의사에게 처방을 받았어요.",
+          "meaningVn": "Tôi đã nhận được đơn thuốc từ bác sĩ."
+        },
+        {
+          "korean": "이 약은 의사의 처방이 있어야 살 수 있어요.",
+          "meaningVn": "Thuốc này chỉ có thể mua được khi có đơn của bác sĩ."
+        }
+      ]
+    },
+    {
+      "korean": "만지다",
+      "romanization": "manjida",
+      "meaningVn": "chạm vào, sờ vào",
+      "meaningEn": "to touch",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "아픈 곳을 만지지 마세요.",
+          "meaningVn": "Đừng chạm vào chỗ bị đau."
+        },
+        {
+          "korean": "아기 얼굴을 만지고 싶어요.",
+          "meaningVn": "Tôi muốn sờ lên khuôn mặt em bé."
+        }
+      ]
+    },
+    {
+      "korean": "조심하다",
+      "romanization": "josimhada",
+      "meaningVn": "cẩn thận",
+      "meaningEn": "to be careful",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "길을 건널 때 조심하세요.",
+          "meaningVn": "Hãy cẩn thận khi qua đường."
+        },
+        {
+          "korean": "건강을 조심하세요.",
+          "meaningVn": "Hãy giữ gìn sức khỏe."
+        }
+      ]
+    },
+    {
+      "korean": "값",
+      "romanization": "gap",
+      "meaningVn": "giá",
+      "meaningEn": "price",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 옷은 값이 얼마예요?",
+          "meaningVn": "Chiếc áo này giá bao nhiêu?"
+        },
+        {
+          "korean": "물건 값이 너무 비싸요.",
+          "meaningVn": "Giá của món đồ này quá đắt."
+        }
+      ]
+    },
+    {
+      "korean": "교통",
+      "romanization": "gyotong",
+      "meaningVn": "giao thông",
+      "meaningEn": "traffic",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울은 교통이 복잡해요.",
+          "meaningVn": "Giao thông ở Seoul rất phức tạp."
+        },
+        {
+          "korean": "교통 사고가 났어요.",
+          "meaningVn": "Đã xảy ra tai nạn giao thông."
+        }
+      ]
+    },
+    {
+      "korean": "서비스",
+      "romanization": "seobiseu",
+      "meaningVn": "dịch vụ",
+      "meaningEn": "service",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 식당은 서비스가 좋아요.",
+          "meaningVn": "Nhà hàng này có dịch vụ tốt."
+        },
+        {
+          "korean": "고객 서비스 센터에 전화했어요.",
+          "meaningVn": "Tôi đã gọi đến trung tâm dịch vụ khách hàng."
+        }
+      ]
+    },
+    {
+      "korean": "분위기",
+      "romanization": "bunwigi",
+      "meaningVn": "bầu không khí",
+      "meaningEn": "atmosphere",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "카페 분위기가 아늑해요.",
+          "meaningVn": "Bầu không khí của quán cà phê thật ấm cúng."
+        },
+        {
+          "korean": "그 방의 분위기가 좀 이상해요.",
+          "meaningVn": "Bầu không khí trong căn phòng đó hơi lạ."
+        }
+      ]
+    },
+    {
+      "korean": "달다",
+      "romanization": "dalda",
+      "meaningVn": "ngọt",
+      "meaningEn": "to be sweet",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 케이크는 아주 달아요.",
+          "meaningVn": "Chiếc bánh này rất ngọt."
+        },
+        {
+          "korean": "달콤한 맛이 좋아요.",
+          "meaningVn": "Tôi thích vị ngọt ngào."
+        }
+      ]
+    },
+    {
+      "korean": "짜다",
+      "romanization": "jjada",
+      "meaningVn": "mặn",
+      "meaningEn": "to be salty",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 국은 너무 짜요.",
+          "meaningVn": "Món súp này quá mặn."
+        },
+        {
+          "korean": "짠 음식을 많이 먹으면 안 돼요.",
+          "meaningVn": "Không nên ăn nhiều đồ mặn."
+        }
+      ]
+    },
+    {
+      "korean": "쓰다",
+      "romanization": "sseuda",
+      "meaningVn": "đắng",
+      "meaningEn": "to be bitter",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 약은 써요.",
+          "meaningVn": "Thuốc này đắng."
+        },
+        {
+          "korean": "쓴 커피를 좋아해요.",
+          "meaningVn": "Tôi thích cà phê đắng."
+        }
+      ]
+    },
+    {
+      "korean": "시다",
+      "romanization": "sida",
+      "meaningVn": "chua",
+      "meaningEn": "to be sour",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "레몬은 신맛이 나요.",
+          "meaningVn": "Chanh có vị chua."
+        },
+        {
+          "korean": "이 과일은 너무 셔요.",
+          "meaningVn": "Trái cây này quá chua."
+        }
+      ]
+    },
+    {
+      "korean": "맵다",
+      "romanization": "maepda",
+      "meaningVn": "cay",
+      "meaningEn": "to be spicy",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "김치찌개는 매우면서 맛있어요.",
+          "meaningVn": "Canh kim chi vừa cay vừa ngon."
+        },
+        {
+          "korean": "매운 음식을 잘 못 먹어요.",
+          "meaningVn": "Tôi không ăn được đồ cay."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "A-아/어 보이다",
+      "titleVn": "Trông có vẻ là... / Có vẻ là...",
+      "explanationVn": "Dùng để diễn tả ngoại hình hoặc tình trạng của một người hoặc vật nào đó mà người nói quan sát được. Đuôi '아/어' của động từ/tính từ gốc được chia, sau đó nối với '보다' (nhìn) và '-이/히/리' (biến âm) để tạo thành '보이다'. Nếu gốc động từ/tính từ kết thúc bằng '아/오', ta dùng '아 보이다'. Nếu kết thúc bằng các nguyên âm khác, ta dùng '어 보이다'. Nếu gốc động từ/tính từ có '하다', ta dùng '하여 보이다' -> '해 보이다'.",
+      "rule": "Động từ/Tính từ gốc + 아/어 보이다\n- 아/오 + 보이다 → 아 보이다\n- 그 외 + 보이다 → 어 보이다\n- 하다 → 해 보이다",
+      "pronunciationTip": "Khi động từ/tính từ có '아/오' kết hợp với '아 보이다', đọc nối âm. Ví dụ: 좋다 + 아 보이다 → 좋아 보이다 [조아보이다]",
+      "examples": [
+        {
+          "korean": "스티븐 씨, 오늘 기분이 아주 좋아 보이네요.",
+          "meaningVn": "Steven, trông bạn hôm nay rất vui."
+        },
+        {
+          "korean": "네, 수업 끝나고 데이트가 있어요.",
+          "meaningVn": "Vâng, tôi có buổi hẹn sau khi kết thúc lớp học."
+        },
+        {
+          "korean": "그 옷은 비싸 보여요.",
+          "meaningVn": "Chiếc áo đó trông có vẻ đắt."
+        },
+        {
+          "korean": "그는 많이 피곤해 보여요.",
+          "meaningVn": "Trông anh ấy có vẻ rất mệt mỏi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "그 남자는 키가 ____.",
+          "answer": "커 보여요",
+          "options": [
+            "커 보여요",
+            "작아 보여요",
+            "멋져 보여요",
+            "어려 보여요"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "이 구두를 신으니까 키가 ____.",
+          "answer": "커 보여요",
+          "options": [
+            "커 보여요",
+            "작아 보여요",
+            "뚱뚱해 보여요",
+            "날씬해 보여요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Trông có vẻ là thông minh.",
+          "answer": "똑똑해 보여요",
+          "options": [
+            "똑똑해",
+            "보여요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N처럼[같이]",
+      "titleVn": "Giống như là N / Như là N",
+      "explanationVn": "Dùng để so sánh một người hoặc vật với một người hoặc vật khác có đặc điểm tương đồng. '처럼' và '같이' đều có nghĩa tương tự và có thể thay thế cho nhau trong nhiều trường hợp.",
+      "rule": "Danh từ + 처럼/같이",
+      "pronunciationTip": "Không có lưu ý phát âm đặc biệt.",
+      "examples": [
+        {
+          "korean": "이 사람은 누구예요?",
+          "meaningVn": "Người này là ai?"
+        },
+        {
+          "korean": "제일 친한 친구예요. 어릴 때부터 가족처럼 지냈어요.",
+          "meaningVn": "Là bạn thân nhất của tôi. Chúng tôi đã sống với nhau như gia đình từ khi còn nhỏ."
+        },
+        {
+          "korean": "켈리 씨는 가수처럼 노래를 잘해요.",
+          "meaningVn": "Kelly hát hay như một ca sĩ."
+        },
+        {
+          "korean": "제 동생은 열 살인데 어른같이 말해요.",
+          "meaningVn": "Em trai tôi mười tuổi nhưng nói chuyện như người lớn."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "나나 씨는 인형 ____ 생겼어요.",
+          "answer": "같이",
+          "options": [
+            "처럼",
+            "같이",
+            "만큼",
+            "보다"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "그는 천사 ____ 보여요.",
+          "answer": "처럼",
+          "options": [
+            "처럼",
+            "같이",
+            "이",
+            "은"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Em tôi cư xử như trẻ con.",
+          "answer": "제 동생은 아이처럼 행동해요.",
+          "options": [
+            "제",
+            "동생은",
+            "아이처럼",
+            "행동해요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "A-(으)ㄴ 편이다. V-는 편이다",
+      "titleVn": "Có xu hướng là... / Nghiêng về phía...",
+      "explanationVn": "Dùng để diễn tả một đặc điểm, tính cách hoặc tình trạng có xu hướng nghiêng về một phía nào đó, không hoàn toàn tuyệt đối nhưng có thể nhận thấy rõ. Đối với tính từ, ta dùng -(으)ㄴ 편이다. Đối với động từ, ta dùng -는 편이다.",
+      "rule": "- tính từ: -(으)ㄴ 편이다 (예: 키가 크다 → 큰 편이다)\n- động từ: -는 편이다 (예: 먹다 → 먹는 편이다)",
+      "pronunciationTip": "Không có lưu ý phát âm đặc biệt.",
+      "examples": [
+        {
+          "korean": "저는 좀 조용한 편이에요.",
+          "meaningVn": "Tôi có xu hướng hơi trầm tính."
+        },
+        {
+          "korean": "그는 말수가 적은 편이에요.",
+          "meaningVn": "Anh ấy có xu hướng ít nói."
+        },
+        {
+          "korean": "저는 먹는 편이에요.",
+          "meaningVn": "Tôi có xu hướng ăn (nhiều/ít, tùy ngữ cảnh)."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 밤에 잠을 잘 ____.",
+          "answer": "못 자는 편이에요",
+          "options": [
+            "못 자는 편이에요",
+            "잘 자는 편이에요",
+            "자는 편이에요",
+            "안 자는 편이에요"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "그녀는 성격이 ____ 편이에요.",
+          "answer": "활발한",
+          "options": [
+            "활발한",
+            "내성적인",
+            "급한",
+            "꼼꼼한"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi có xu hướng ăn ít.",
+          "answer": "저는 먹는 편이에요.",
+          "options": [
+            "저는",
+            "먹는",
+            "편이에요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "A-게",
+      "titleVn": "Diễn tả cách thức, phương thức",
+      "explanationVn": "Dùng để diễn tả một hành động hoặc trạng thái được thực hiện theo một cách thức, phương thức nào đó. Nó thường đi kèm với các động từ chỉ cách thức như '만들다', '하다', '되다'.",
+      "rule": "Động từ gốc + 게",
+      "pronunciationTip": "Không có lưu ý phát âm đặc biệt.",
+      "examples": [
+        {
+          "korean": "음식을 맛있게 만들었어요.",
+          "meaningVn": "Tôi đã làm món ăn thật ngon."
+        },
+        {
+          "korean": "열심히 공부해서 시험에 합격했어요.",
+          "meaningVn": "Tôi đã học hành chăm chỉ và đỗ kỳ thi."
+        },
+        {
+          "korean": "얼굴이 하얗게 변했어요.",
+          "meaningVn": "Khuôn mặt đã trở nên trắng hơn."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "옷을 깨끗____ 빨았어요.",
+          "answer": "하게",
+          "options": [
+            "하게",
+            "게",
+            "이",
+            "히"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "그녀는 노래를 ____ 불러요.",
+          "answer": "아름답게",
+          "options": [
+            "아름답게",
+            "아름다운",
+            "아름다워",
+            "아름다운게"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Hãy làm việc chăm chỉ.",
+          "answer": "열심히 일하세요.",
+          "options": [
+            "열심히",
+            "일하세요."
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "말하기 1",
+      "lines": [
+        {
+          "speaker": "마리코",
+          "korean": "여기가 내 방이야.",
+          "meaningVn": "Đây là phòng của tớ."
+        },
+        {
+          "speaker": "나나",
+          "korean": "책이 많네요. 이건 친구들 사진이에요?",
+          "meaningVn": "Có nhiều sách nhỉ. Đây là ảnh bạn bè của cậu à?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "응, 작년 크리스마스 때 찍었어.",
+          "meaningVn": "Ừ, tớ chụp vào dịp Giáng sinh năm ngoái."
+        },
+        {
+          "speaker": "나나",
+          "korean": "참 즐거워 보여요. 언니 옆에 있는 사람은 누구예요?",
+          "meaningVn": "Trông thật vui vẻ. Người đứng cạnh chị là ai vậy?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "나하고 제일 친한 친구야. 어릴 때부터 자매처럼 지냈어.",
+          "meaningVn": "Là bạn thân nhất của tớ. Tụi tớ sống với nhau như chị em từ nhỏ."
+        },
+        {
+          "speaker": "나나",
+          "korean": "그래요? 언니하고 얼굴도 닮은 것 같아요.",
+          "meaningVn": "Vậy ạ? Trông hai người có vẻ giống nhau cả khuôn mặt nữa."
+        },
+        {
+          "speaker": "마리코",
+          "korean": "그런 말 많이 들어. 우리 둘 다 이마가 넓고 눈이 커서 그런 것 같아.",
+          "meaningVn": "Nhiều người nói vậy. Chắc là vì cả hai đứa đều có trán rộng và mắt to."
+        },
+        {
+          "speaker": "나나",
+          "korean": "성격도 비슷해요?",
+          "meaningVn": "Tính cách cũng giống nhau à?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "아니, 성격은 정말 달라. 나는 활발한 성격인데 내 친구는 내성적이야.",
+          "meaningVn": "Không, tính cách thì hoàn toàn khác. Tớ thì hoạt bát còn bạn tớ thì hướng nội."
+        }
+      ]
+    },
+    {
+      "title": "연습 1",
+      "lines": [
+        {
+          "speaker": "1)",
+          "korean": "작년 크리스마스",
+          "meaningVn": "Giáng sinh năm ngoái"
+        },
+        {
+          "speaker": "즐겁다",
+          "korean": "즐겁다",
+          "meaningVn": "vui vẻ"
+        },
+        {
+          "speaker": "자매",
+          "korean": "자매",
+          "meaningVn": "chị em gái"
+        },
+        {
+          "speaker": "이마가 넓다 / 눈이 크다",
+          "korean": "이마가 넓다 / 눈이 크다",
+          "meaningVn": "trán rộng / mắt to"
+        },
+        {
+          "speaker": "2)",
+          "korean": "대학교 졸업식",
+          "meaningVn": "Lễ tốt nghiệp đại học"
+        },
+        {
+          "speaker": "행복하다",
+          "korean": "행복하다",
+          "meaningVn": "hạnh phúc"
+        },
+        {
+          "speaker": "가족",
+          "korean": "가족",
+          "meaningVn": "gia đình"
+        },
+        {
+          "speaker": "안경을 쓰다 / 머리 모양이 비슷하다",
+          "korean": "안경을 쓰다 / 머리 모양이 비슷하다",
+          "meaningVn": "đeo kính / kiểu tóc giống nhau"
+        }
+      ]
+    },
+    {
+      "title": "연습 2",
+      "lines": [
+        {
+          "speaker": "질문",
+          "korean": "이 사진은 언제 찍은 거예요?",
+          "meaningVn": "Bức ảnh này chụp khi nào vậy?"
+        },
+        {
+          "speaker": "답변",
+          "korean": "작년 여름에 친구들하고 제주도에 여행 가서 찍은 사진이에요.",
+          "meaningVn": "Đây là ảnh chụp khi tôi đi du lịch Jeju cùng bạn bè vào mùa hè năm ngoái."
+        },
+        {
+          "speaker": "질문",
+          "korean": "옆에 있는 사람은 누구예요?",
+          "meaningVn": "Người đứng bên cạnh là ai vậy?"
+        },
+        {
+          "speaker": "답변",
+          "korean": "성격이 좋아 보이네요.",
+          "meaningVn": "Trông có vẻ tính cách tốt nhỉ."
+        },
+        {
+          "speaker": "질문",
+          "korean": "베트남에서 온 친구인데 아주 활발하고 재미있어요.",
+          "meaningVn": "Là bạn đến từ Việt Nam, bạn ấy rất năng động và vui tính."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "title": "받침 'ㅇ'",
+      "description": "Khi 'ㅇ' ở cuối một âm tiết và theo sau là một nguyên âm, nó được nối âm. Ví dụ: '이' + '영' = '이영' [이영]. '이' + '야' = '이야' [이야]. '이' + '요' = '이요' [이요].",
+      "examples": [
+        {
+          "korean": "이상하다",
+          "romanization": "isanghada",
+          "meaningVn": "kỳ lạ",
+          "pronunciation": "[이샹하다]",
+          "note": "Khi 'ㅅ' gặp 'ㅇ' ở âm tiết sau, 'ㅅ' bị ảnh hưởng và đọc giống 'ㅇ' hoặc 'ㅇ' được thêm vào."
+        },
+        {
+          "korean": "이영",
+          "romanization": "iyeong",
+          "meaningVn": "tên riêng",
+          "pronunciation": "[이영]"
+        },
+        {
+          "korean": "음식",
+          "romanization": "umsik",
+          "meaningVn": "thức ăn",
+          "pronunciation": "[음식]"
+        }
+      ]
+    }
+  ]
+}

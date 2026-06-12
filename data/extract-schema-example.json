@@ -1,0 +1,50 @@
+{
+  "unit": 1,
+  "titleKr": "안녕하세요?",
+  "titleVn": "Xin chào",
+  "topic": "Quốc tịch, Nghề nghiệp",
+  "vocabulary": [
+    {
+      "korean": "학생",
+      "romanization": "haksaeng",
+      "meaningVn": "học sinh",
+      "meaningEn": "student",
+      "pos": "noun",
+      "note": "ghi chú nếu có (tuỳ chọn)",
+      "examples": [
+        { "korean": "저는 학생이에요.", "meaningVn": "Tôi là học sinh." },
+        { "korean": "학생이 많아요.", "meaningVn": "Có nhiều học sinh." }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N은/는 N이에요/예요",
+      "titleVn": "Câu khẳng định: N là N (thân mật lịch sự)",
+      "explanationVn": "Dùng để giới thiệu hoặc định nghĩa chủ thể. 은/는 là trợ từ chủ đề gắn vào chủ ngữ; 이에요/예요 là vị ngữ nghĩa là 'là'. Chọn 은/이에요 khi danh từ có 받침, chọn 는/예요 khi danh từ không có 받침.",
+      "rule": "받침 có → 은 / 이에요 | 받침 không → 는 / 예요",
+      "pronunciationTip": "이에요 sau 받침 đọc liên âm: 학생이에요 → [학생니에요]",
+      "examples": [
+        { "korean": "저는 학생이에요.", "meaningVn": "Tôi là học sinh." },
+        { "korean": "저는 의사예요.", "meaningVn": "Tôi là bác sĩ." },
+        { "korean": "이분은 선생님이에요.", "meaningVn": "Người này là giáo viên." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "저___ 학생이에요. (trợ từ chủ đề)", "answer": "는" },
+        { "type": "multiple_choice", "question": "저는 가수___.", "answer": "예요", "options": ["예요", "이에요", "은", "가"] },
+        { "type": "reorder", "question": "Sắp xếp: Tôi là bác sĩ", "answer": "저는 의사예요", "options": ["저는", "의사예요"] }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        { "speaker": "A", "korean": "안녕하세요?", "meaningVn": "Xin chào?" },
+        { "speaker": "B", "korean": "안녕하세요. 저는 민수예요.", "meaningVn": "Xin chào. Tôi là Minsu." },
+        { "speaker": "A", "korean": "만나서 반갑습니다.", "meaningVn": "Rất vui được gặp bạn." }
+      ]
+    }
+  ]
+}

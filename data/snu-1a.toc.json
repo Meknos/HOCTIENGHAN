@@ -1,0 +1,11 @@
+{
+  "slug": "snu-1a",
+  "pdf": "1/SNU 1A.pdf",
+  "_pageNote": "PDF 261 trang. Unit mỗi bài ~27 trang. Units 1-4 đã có data, chỉ extract 5-8.",
+  "units": [
+    { "number": 5, "titleKr": "주말에 친구를 만났어요", "titleVn": "Gặp bạn cuối tuần", "topic": "Số đếm, Ngày trong tuần", "pages": "145-172" },
+    { "number": 6, "titleKr": "얼마예요?", "titleVn": "Bao nhiêu tiền?", "topic": "Đồ ăn, Tiền", "pages": "173-200" },
+    { "number": 7, "titleKr": "날씨가 어떻습니까?", "titleVn": "Thời tiết thế nào?", "topic": "Thời tiết, Mùa", "pages": "201-228" },
+    { "number": 8, "titleKr": "영화 볼까요?", "titleVn": "Xem phim nhé?", "topic": "Giải trí", "pages": "229-256" }
+  ]
+}

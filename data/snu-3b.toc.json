@@ -1,0 +1,14 @@
+{
+  "slug": "snu-3b",
+  "pdf": "3/SNU3B.pdf",
+  "_pageNote": "PDF 280 trang. 7 units, mỗi bài ~34 trang.",
+  "units": [
+    { "number": 1, "titleKr": "현대인의 생활 방식", "titleVn": "Phong cách sống của người hiện đại", "topic": "Lối sống, Xã hội", "pages": "13-46" },
+    { "number": 2, "titleKr": "한국의 역사와 문화유산", "titleVn": "Lịch sử và di sản văn hoá Hàn Quốc", "topic": "Lịch sử, Di sản", "pages": "47-80" },
+    { "number": 3, "titleKr": "인터넷과 현대 사회", "titleVn": "Internet và xã hội hiện đại", "topic": "Công nghệ, Truyền thông", "pages": "81-114" },
+    { "number": 4, "titleKr": "경제와 소비 생활", "titleVn": "Kinh tế và đời sống tiêu dùng", "topic": "Kinh tế, Tiêu dùng", "pages": "115-148" },
+    { "number": 5, "titleKr": "다문화 사회", "titleVn": "Xã hội đa văn hoá", "topic": "Đa văn hoá, Hội nhập", "pages": "149-182" },
+    { "number": 6, "titleKr": "예술과 문화", "titleVn": "Nghệ thuật và văn hoá", "topic": "Nghệ thuật, Sáng tạo", "pages": "183-216" },
+    { "number": 7, "titleKr": "미래 사회의 변화", "titleVn": "Những thay đổi của xã hội tương lai", "topic": "Tương lai, Công nghệ", "pages": "217-250" }
+  ]
+}

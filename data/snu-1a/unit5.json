@@ -1,0 +1,1692 @@
+{
+  "unit": 6,
+  "titleKr": "얼마예요?",
+  "titleVn": "Bao nhiêu tiền?",
+  "topic": "Hỏi giá, Mua bán",
+  "vocabulary": [
+    {
+      "korean": "갈비탕",
+      "romanization": "galbitang",
+      "meaningVn": "súp sườn bò",
+      "meaningEn": "beef rib soup",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "갈비탕 하나 주세요.",
+          "meaningVn": "Cho tôi một bát súp sườn bò."
+        },
+        {
+          "korean": "이 갈비탕은 맛있어요.",
+          "meaningVn": "Bát súp sườn bò này ngon."
+        }
+      ]
+    },
+    {
+      "korean": "김밥",
+      "romanization": "gimbap",
+      "meaningVn": "cơm cuộn rong biển",
+      "meaningEn": "seaweed-wrapped roll",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "김밥을 싸고 있어요.",
+          "meaningVn": "Tôi đang gói cơm cuộn."
+        },
+        {
+          "korean": "김밥이 맛있어요.",
+          "meaningVn": "Cơm cuộn rất ngon."
+        }
+      ]
+    },
+    {
+      "korean": "김치",
+      "romanization": "kimchi",
+      "meaningVn": "kim chi",
+      "meaningEn": "kimchi",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "김치를 좋아해요.",
+          "meaningVn": "Tôi thích kim chi."
+        },
+        {
+          "korean": "김치를 많이 먹어요.",
+          "meaningVn": "Tôi ăn nhiều kim chi."
+        }
+      ]
+    },
+    {
+      "korean": "김치찌개",
+      "romanization": "kimchi jjigae",
+      "meaningVn": "canh kim chi",
+      "meaningEn": "kimchi stew",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "김치찌개를 끓였어요.",
+          "meaningVn": "Tôi đã nấu canh kim chi."
+        },
+        {
+          "korean": "김치찌개가 매워요.",
+          "meaningVn": "Canh kim chi rất cay."
+        }
+      ]
+    },
+    {
+      "korean": "냉면",
+      "romanization": "naengmyeon",
+      "meaningVn": "mì lạnh",
+      "meaningEn": "cold noodles",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여름에는 냉면을 먹어요.",
+          "meaningVn": "Vào mùa hè, tôi ăn mì lạnh."
+        },
+        {
+          "korean": "이 냉면은 시원해요.",
+          "meaningVn": "Bát mì lạnh này mát lạnh."
+        }
+      ]
+    },
+    {
+      "korean": "라면",
+      "romanization": "ramyeon",
+      "meaningVn": "mì ăn liền",
+      "meaningEn": "ramen / instant noodles",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "라면 하나 주세요.",
+          "meaningVn": "Cho tôi một gói mì ăn liền."
+        },
+        {
+          "korean": "라면이 끓고 있어요.",
+          "meaningVn": "Mì ăn liền đang sôi."
+        }
+      ]
+    },
+    {
+      "korean": "불고기",
+      "romanization": "bulgogi",
+      "meaningVn": "thịt bò nướng",
+      "meaningEn": "(sliced and seasoned) barbequed beef",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "불고기를 좋아해요.",
+          "meaningVn": "Tôi thích thịt bò nướng."
+        },
+        {
+          "korean": "이 불고기는 달아요.",
+          "meaningVn": "Miếng thịt bò nướng này ngọt."
+        }
+      ]
+    },
+    {
+      "korean": "비빔밥",
+      "romanization": "bibimbap",
+      "meaningVn": "cơm trộn",
+      "meaningEn": "cooked rice with vegetables and meat",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "비빔밥 한 그릇 주세요.",
+          "meaningVn": "Cho tôi một bát cơm trộn."
+        },
+        {
+          "korean": "저는 비빔밥을 잘 만들어요.",
+          "meaningVn": "Tôi làm cơm trộn ngon."
+        }
+      ]
+    },
+    {
+      "korean": "샌드위치",
+      "romanization": "saendeuwichi",
+      "meaningVn": "bánh mì kẹp",
+      "meaningEn": "sandwich",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "샌드위치 하나 주세요.",
+          "meaningVn": "Cho tôi một cái bánh mì kẹp."
+        },
+        {
+          "korean": "이 샌드위치는 신선해요.",
+          "meaningVn": "Bánh mì kẹp này tươi ngon."
+        }
+      ]
+    },
+    {
+      "korean": "스파게티",
+      "romanization": "seupageti",
+      "meaningVn": "mì Ý",
+      "meaningEn": "spaghetti",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "스파게티를 먹고 싶어요.",
+          "meaningVn": "Tôi muốn ăn mì Ý."
+        },
+        {
+          "korean": "이 스파게티는 어때요?",
+          "meaningVn": "Món mì Ý này thế nào?"
+        }
+      ]
+    },
+    {
+      "korean": "피자",
+      "romanization": "pija",
+      "meaningVn": "pizza",
+      "meaningEn": "pizza",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "피자 한 판 주세요.",
+          "meaningVn": "Cho tôi một bánh pizza."
+        },
+        {
+          "korean": "피자가 나왔어요.",
+          "meaningVn": "Pizza đã ra lò rồi."
+        }
+      ]
+    },
+    {
+      "korean": "햄버거",
+      "romanization": "haembeogeo",
+      "meaningVn": "bánh mì kẹp thịt",
+      "meaningEn": "hamburger",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "햄버거 두 개 주세요.",
+          "meaningVn": "Cho tôi hai cái bánh mì kẹp thịt."
+        },
+        {
+          "korean": "이 햄버거는 커요.",
+          "meaningVn": "Cái bánh mì kẹp thịt này to."
+        }
+      ]
+    },
+    {
+      "korean": "귤",
+      "romanization": "gyul",
+      "meaningVn": "quýt",
+      "meaningEn": "mandarin orange",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "귤을 몇 개 샀어요?",
+          "meaningVn": "Bạn đã mua bao nhiêu quả quýt?"
+        },
+        {
+          "korean": "이 귤은 달아요.",
+          "meaningVn": "Quả quýt này ngọt."
+        }
+      ]
+    },
+    {
+      "korean": "딸기",
+      "romanization": "ttalgi",
+      "meaningVn": "dâu tây",
+      "meaningEn": "strawberry",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "딸기 주스를 주세요.",
+          "meaningVn": "Cho tôi nước ép dâu tây."
+        },
+        {
+          "korean": "딸기가 빨개요.",
+          "meaningVn": "Dâu tây đỏ mọng."
+        }
+      ]
+    },
+    {
+      "korean": "사과",
+      "romanization": "sagwa",
+      "meaningVn": "táo",
+      "meaningEn": "apple",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "사과 한 개 주세요.",
+          "meaningVn": "Cho tôi một quả táo."
+        },
+        {
+          "korean": "이 사과는 맛있어요.",
+          "meaningVn": "Quả táo này ngon."
+        }
+      ]
+    },
+    {
+      "korean": "수박",
+      "romanization": "subak",
+      "meaningVn": "dưa hấu",
+      "meaningEn": "watermelon",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "수박이 정말 커요.",
+          "meaningVn": "Dưa hấu thực sự rất to."
+        },
+        {
+          "korean": "수박을 같이 먹어요.",
+          "meaningVn": "Chúng ta cùng ăn dưa hấu nhé."
+        }
+      ]
+    },
+    {
+      "korean": "얼마",
+      "romanization": "eolma",
+      "meaningVn": "bao nhiêu",
+      "meaningEn": "how much",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "이것은 얼마예요?",
+          "meaningVn": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "korean": "얼마나 기다렸어요?",
+          "meaningVn": "Bạn đã đợi bao lâu rồi?"
+        }
+      ]
+    },
+    {
+      "korean": "하나",
+      "romanization": "hana",
+      "meaningVn": "một",
+      "meaningEn": "one",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "한 개 주세요.",
+          "meaningVn": "Cho tôi một cái."
+        },
+        {
+          "korean": "하나, 둘, 셋.",
+          "meaningVn": "Một, hai, ba."
+        }
+      ]
+    },
+    {
+      "korean": "둘",
+      "romanization": "dul",
+      "meaningVn": "hai",
+      "meaningEn": "two",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "두 개 주세요.",
+          "meaningVn": "Cho tôi hai cái."
+        },
+        {
+          "korean": "둘이 같이 가요.",
+          "meaningVn": "Hai người cùng đi."
+        }
+      ]
+    },
+    {
+      "korean": "셋",
+      "romanization": "set",
+      "meaningVn": "ba",
+      "meaningEn": "three",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "셋이서 먹어요.",
+          "meaningVn": "Ba người cùng ăn."
+        },
+        {
+          "korean": "셋 중에 하나를 골라요.",
+          "meaningVn": "Chọn một trong ba."
+        }
+      ]
+    },
+    {
+      "korean": "넷",
+      "romanization": "net",
+      "meaningVn": "bốn",
+      "meaningEn": "four",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "네 사람이 모였어요.",
+          "meaningVn": "Bốn người đã tụ tập."
+        },
+        {
+          "korean": "넷째 아들이에요.",
+          "meaningVn": "Đó là con trai thứ tư."
+        }
+      ]
+    },
+    {
+      "korean": "다섯",
+      "romanization": "daseot",
+      "meaningVn": "năm",
+      "meaningEn": "five",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "다섯 시에 만나요.",
+          "meaningVn": "Chúng ta gặp nhau lúc năm giờ."
+        },
+        {
+          "korean": "다섯 손가락이 있어요.",
+          "meaningVn": "Có năm ngón tay."
+        }
+      ]
+    },
+    {
+      "korean": "여섯",
+      "romanization": "yeoseot",
+      "meaningVn": "sáu",
+      "meaningEn": "six",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여섯 시에 전화했어요.",
+          "meaningVn": "Tôi đã gọi điện lúc sáu giờ."
+        },
+        {
+          "korean": "여섯 명이 왔어요.",
+          "meaningVn": "Sáu người đã đến."
+        }
+      ]
+    },
+    {
+      "korean": "일곱",
+      "romanization": "ilgop",
+      "meaningVn": "bảy",
+      "meaningEn": "seven",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "일곱 권의 책이 있어요.",
+          "meaningVn": "Có bảy cuốn sách."
+        },
+        {
+          "korean": "일곱 살이에요.",
+          "meaningVn": "Tôi bảy tuổi."
+        }
+      ]
+    },
+    {
+      "korean": "여덟",
+      "romanization": "yeodeol",
+      "meaningVn": "tám",
+      "meaningEn": "eight",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여덟 시까지 기다릴게요.",
+          "meaningVn": "Tôi sẽ đợi đến tám giờ."
+        },
+        {
+          "korean": "여덟 송이 장미를 샀어요.",
+          "meaningVn": "Tôi đã mua tám bông hồng."
+        }
+      ]
+    },
+    {
+      "korean": "아홉",
+      "romanization": "ahop",
+      "meaningVn": "chín",
+      "meaningEn": "nine",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아홉 시에 일어나요.",
+          "meaningVn": "Tôi thức dậy lúc chín giờ."
+        },
+        {
+          "korean": "아홉 명이 회의에 참석했어요.",
+          "meaningVn": "Chín người đã tham dự cuộc họp."
+        }
+      ]
+    },
+    {
+      "korean": "열",
+      "romanization": "yeol",
+      "meaningVn": "mười",
+      "meaningEn": "ten",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "열 개 주세요.",
+          "meaningVn": "Cho tôi mười cái."
+        },
+        {
+          "korean": "열 시까지 공부했어요.",
+          "meaningVn": "Tôi đã học đến mười giờ."
+        }
+      ]
+    },
+    {
+      "korean": "원",
+      "romanization": "won",
+      "meaningVn": "won (đơn vị tiền tệ Hàn Quốc)",
+      "meaningEn": "won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이것은 500원이에요.",
+          "meaningVn": "Cái này là 500 won."
+        },
+        {
+          "korean": "만원짜리 지폐를 냈어요.",
+          "meaningVn": "Tôi đã đưa tờ 10.000 won."
+        }
+      ]
+    },
+    {
+      "korean": "십원",
+      "romanization": "siw-on",
+      "meaningVn": "10 won",
+      "meaningEn": "10 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "십 원짜리 동전이 있어요?",
+          "meaningVn": "Bạn có đồng xu 10 won nào không?"
+        }
+      ]
+    },
+    {
+      "korean": "오십 원",
+      "romanization": "osip won",
+      "meaningVn": "50 won",
+      "meaningEn": "50 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오십 원이면 충분해요.",
+          "meaningVn": "50 won là đủ rồi."
+        }
+      ]
+    },
+    {
+      "korean": "백원",
+      "romanization": "baeg-won",
+      "meaningVn": "100 won",
+      "meaningEn": "100 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "백 원짜리 사탕을 샀어요.",
+          "meaningVn": "Tôi đã mua kẹo giá 100 won."
+        }
+      ]
+    },
+    {
+      "korean": "오백 원",
+      "romanization": "obaeg won",
+      "meaningVn": "500 won",
+      "meaningEn": "500 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오백 원만 주세요.",
+          "meaningVn": "Cho tôi xin 500 won."
+        }
+      ]
+    },
+    {
+      "korean": "천원",
+      "romanization": "cheon won",
+      "meaningVn": "1.000 won",
+      "meaningEn": "1,000 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "천 원짜리 커피를 마셨어요.",
+          "meaningVn": "Tôi đã uống cà phê giá 1.000 won."
+        }
+      ]
+    },
+    {
+      "korean": "오천 원",
+      "romanization": "ocheon won",
+      "meaningVn": "5.000 won",
+      "meaningEn": "5,000 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오천 원 빌려 줄 수 있어요?",
+          "meaningVn": "Bạn có thể cho tôi mượn 5.000 won không?"
+        }
+      ]
+    },
+    {
+      "korean": "만원",
+      "romanization": "man-won",
+      "meaningVn": "10.000 won",
+      "meaningEn": "10,000 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 책은 만 원이에요.",
+          "meaningVn": "Cuốn sách này giá 10.000 won."
+        }
+      ]
+    },
+    {
+      "korean": "오만 원",
+      "romanization": "oman won",
+      "meaningVn": "50.000 won",
+      "meaningEn": "50,000 won",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오만 원짜리 옷을 샀어요.",
+          "meaningVn": "Tôi đã mua bộ quần áo giá 50.000 won."
+        }
+      ]
+    },
+    {
+      "korean": "개",
+      "romanization": "gae",
+      "meaningVn": "cái (đơn vị đếm cho vật)",
+      "meaningEn": "counter for general items",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "사과 다섯 개 주세요.",
+          "meaningVn": "Cho tôi năm quả táo."
+        },
+        {
+          "korean": "이것은 몇 개예요?",
+          "meaningVn": "Cái này là mấy cái?"
+        }
+      ]
+    },
+    {
+      "korean": "그릇",
+      "romanization": "geureut",
+      "meaningVn": "bát (đơn vị đếm cho thức ăn trong bát)",
+      "meaningEn": "bowl",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "비빔밥 두 그릇 주세요.",
+          "meaningVn": "Cho tôi hai bát cơm trộn."
+        },
+        {
+          "korean": "밥 한 그릇 더 주세요.",
+          "meaningVn": "Cho tôi thêm một bát cơm nữa."
+        }
+      ]
+    },
+    {
+      "korean": "병",
+      "romanization": "byeong",
+      "meaningVn": "chai (đơn vị đếm cho chai)",
+      "meaningEn": "bottle",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "콜라 몇 병 샀어요?",
+          "meaningVn": "Bạn đã mua bao nhiêu chai cola?"
+        },
+        {
+          "korean": "물 두 병 주세요.",
+          "meaningVn": "Cho tôi hai chai nước."
+        }
+      ]
+    },
+    {
+      "korean": "잔",
+      "romanization": "jan",
+      "meaningVn": "cốc, ly (đơn vị đếm cho đồ uống)",
+      "meaningEn": "cup, glass",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "커피 세 잔 마셨어요.",
+          "meaningVn": "Tôi đã uống ba cốc cà phê."
+        },
+        {
+          "korean": "차 한 잔 주세요.",
+          "meaningVn": "Cho tôi một cốc trà."
+        }
+      ]
+    },
+    {
+      "korean": "맛있다",
+      "romanization": "masitda",
+      "meaningVn": "ngon",
+      "meaningEn": "delicious",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "음식이 정말 맛있어요.",
+          "meaningVn": "Thức ăn thực sự rất ngon."
+        },
+        {
+          "korean": "이 케이크는 맛있어요.",
+          "meaningVn": "Bánh kem này ngon."
+        }
+      ]
+    },
+    {
+      "korean": "복잡하다",
+      "romanization": "bokjapada",
+      "meaningVn": "phức tạp, đông đúc",
+      "meaningEn": "complicated, crowded",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "서울역은 복잡해요.",
+          "meaningVn": "Ga Seoul rất đông đúc."
+        },
+        {
+          "korean": "길이 복잡해요.",
+          "meaningVn": "Con đường này phức tạp."
+        }
+      ]
+    },
+    {
+      "korean": "싸다",
+      "romanization": "ssada",
+      "meaningVn": "rẻ",
+      "meaningEn": "cheap",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 옷은 아주 싸요.",
+          "meaningVn": "Bộ quần áo này rất rẻ."
+        },
+        {
+          "korean": "그 가게는 물건이 싸요.",
+          "meaningVn": "Cửa hàng đó bán đồ rẻ."
+        }
+      ]
+    },
+    {
+      "korean": "좋다",
+      "romanization": "jota",
+      "meaningVn": "tốt, thích",
+      "meaningEn": "good, like",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "날씨가 좋아요.",
+          "meaningVn": "Thời tiết tốt."
+        },
+        {
+          "korean": "저는 그 사람을 좋아해요.",
+          "meaningVn": "Tôi thích người đó."
+        }
+      ]
+    },
+    {
+      "korean": "좋아하다",
+      "romanization": "joahada",
+      "meaningVn": "thích",
+      "meaningEn": "to like",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "무엇을 좋아해요?",
+          "meaningVn": "Bạn thích cái gì?"
+        },
+        {
+          "korean": "저는 한국 음식을 좋아해요.",
+          "meaningVn": "Tôi thích món ăn Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "받침",
+      "romanization": "batchim",
+      "meaningVn": "phụ âm cuối",
+      "meaningEn": "final consonant",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "학생은 받침이 있어요.",
+          "meaningVn": "Từ '학생' có phụ âm cuối."
+        },
+        {
+          "korean": "이 단어는 받침이 없어요.",
+          "meaningVn": "Từ này không có phụ âm cuối."
+        }
+      ]
+    },
+    {
+      "korean": "주다",
+      "romanization": "juda",
+      "meaningVn": "cho, đưa",
+      "meaningEn": "to give",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구에게 선물을 줬어요.",
+          "meaningVn": "Tôi đã tặng quà cho bạn."
+        },
+        {
+          "korean": "이것을 받아 주세요.",
+          "meaningVn": "Xin hãy nhận cái này."
+        }
+      ]
+    },
+    {
+      "korean": "깎다",
+      "romanization": "kkakta",
+      "meaningVn": "giảm giá, gọt",
+      "meaningEn": "to cut price, to peel",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "가격을 좀 깎아 주세요.",
+          "meaningVn": "Xin hãy giảm giá một chút."
+        },
+        {
+          "korean": "사과를 깎고 있어요.",
+          "meaningVn": "Tôi đang gọt táo."
+        }
+      ]
+    },
+    {
+      "korean": "기다리다",
+      "romanization": "gidarida",
+      "meaningVn": "chờ đợi",
+      "meaningEn": "to wait",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "잠깐만 기다리세요.",
+          "meaningVn": "Xin hãy đợi một chút."
+        },
+        {
+          "korean": "버스를 기다려요.",
+          "meaningVn": "Tôi đợi xe buýt."
+        }
+      ]
+    },
+    {
+      "korean": "주세요",
+      "romanization": "juseyo",
+      "meaningVn": "làm ơn cho tôi",
+      "meaningEn": "please give me",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "물 한 잔 주세요.",
+          "meaningVn": "Cho tôi một cốc nước."
+        },
+        {
+          "korean": "이것 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cái này."
+        }
+      ]
+    },
+    {
+      "korean": "얼마예요?",
+      "romanization": "eolmayeyo?",
+      "meaningVn": "Bao nhiêu tiền?",
+      "meaningEn": "How much is it?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 셔츠는 얼마예요?",
+          "meaningVn": "Chiếc áo sơ mi này bao nhiêu tiền?"
+        },
+        {
+          "korean": "이 빵은 얼마예요?",
+          "meaningVn": "Chiếc bánh này bao nhiêu tiền?"
+        }
+      ]
+    },
+    {
+      "korean": "비싸다",
+      "romanization": "bissada",
+      "meaningVn": "đắt",
+      "meaningEn": "expensive",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "이 가방은 너무 비싸요.",
+          "meaningVn": "Cái túi này quá đắt."
+        },
+        {
+          "korean": "그 식당은 음식이 비싸요.",
+          "meaningVn": "Đồ ăn ở nhà hàng đó đắt."
+        }
+      ]
+    },
+    {
+      "korean": "너무",
+      "romanization": "neomu",
+      "meaningVn": "quá, rất",
+      "meaningEn": "too, very",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "날씨가 너무 더워요.",
+          "meaningVn": "Thời tiết quá nóng."
+        },
+        {
+          "korean": "이 책은 너무 재미있어요.",
+          "meaningVn": "Cuốn sách này rất thú vị."
+        }
+      ]
+    },
+    {
+      "korean": "좀",
+      "romanization": "jom",
+      "meaningVn": "một chút, làm ơn (yêu cầu nhẹ nhàng)",
+      "meaningEn": "a little, please (softening a request)",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "좀 더 깎아 주세요.",
+          "meaningVn": "Xin hãy giảm giá thêm một chút."
+        },
+        {
+          "korean": "천천히 좀 말해주세요.",
+          "meaningVn": "Xin hãy nói chậm lại một chút."
+        }
+      ]
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geureom",
+      "meaningVn": "vậy thì, thế thì",
+      "meaningEn": "then, in that case",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "그럼 200원 주세요.",
+          "meaningVn": "Vậy thì cho tôi 200 won."
+        },
+        {
+          "korean": "그럼 안녕히 가세요.",
+          "meaningVn": "Vậy thì, tạm biệt."
+        }
+      ]
+    },
+    {
+      "korean": "사과",
+      "romanization": "sagwa",
+      "meaningVn": "táo",
+      "meaningEn": "apple",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "사과 다섯 개 주세요.",
+          "meaningVn": "Cho tôi năm quả táo."
+        },
+        {
+          "korean": "사과가 맛있어요.",
+          "meaningVn": "Táo rất ngon."
+        }
+      ]
+    },
+    {
+      "korean": "비빔밥",
+      "romanization": "bibimbap",
+      "meaningVn": "cơm trộn",
+      "meaningEn": "bibimbap",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "비빔밥 두 그릇 먹었어요.",
+          "meaningVn": "Tôi đã ăn hai bát cơm trộn."
+        },
+        {
+          "korean": "비빔밥 한 그릇 얼마예요?",
+          "meaningVn": "Một bát cơm trộn bao nhiêu tiền?"
+        }
+      ]
+    },
+    {
+      "korean": "배",
+      "romanization": "bae",
+      "meaningVn": "lê",
+      "meaningEn": "pear",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "배 두 개 주세요.",
+          "meaningVn": "Cho tôi hai quả lê."
+        },
+        {
+          "korean": "이 배는 달아요.",
+          "meaningVn": "Quả lê này ngọt."
+        }
+      ]
+    },
+    {
+      "korean": "키위",
+      "romanization": "kiwi",
+      "meaningVn": "kiwi",
+      "meaningEn": "kiwi",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "키위 한 개 주세요.",
+          "meaningVn": "Cho tôi một quả kiwi."
+        }
+      ]
+    },
+    {
+      "korean": "파인애플",
+      "romanization": "painaepeul",
+      "meaningVn": "dứa",
+      "meaningEn": "pineapple",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "파인애플 한 통 주세요.",
+          "meaningVn": "Cho tôi một quả dứa."
+        }
+      ]
+    },
+    {
+      "korean": "박스",
+      "romanization": "bakseu",
+      "meaningVn": "hộp (đơn vị đếm)",
+      "meaningEn": "box",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "사과 한 박스 주세요.",
+          "meaningVn": "Cho tôi một hộp táo."
+        }
+      ]
+    },
+    {
+      "korean": "멜론",
+      "romanization": "mellon",
+      "meaningVn": "dưa lưới",
+      "meaningEn": "melon",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "멜론 한 개 주세요.",
+          "meaningVn": "Cho tôi một quả dưa lưới."
+        }
+      ]
+    },
+    {
+      "korean": "맥주",
+      "romanization": "maekju",
+      "meaningVn": "bia",
+      "meaningEn": "beer",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "맥주 네 병 주세요.",
+          "meaningVn": "Cho tôi bốn chai bia."
+        }
+      ]
+    },
+    {
+      "korean": "또",
+      "romanization": "tto",
+      "meaningVn": "lại, nữa",
+      "meaningEn": "again",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "또 만나요.",
+          "meaningVn": "Hẹn gặp lại."
+        },
+        {
+          "korean": "오늘 또 비가 와요.",
+          "meaningVn": "Hôm nay trời lại mưa nữa."
+        }
+      ]
+    },
+    {
+      "korean": "에",
+      "romanization": "e",
+      "meaningVn": "vào, tại (chỉ địa điểm, thời gian)",
+      "meaningEn": "at, in, on (location, time)",
+      "pos": "particle",
+      "examples": [
+        {
+          "korean": "서울에 가요.",
+          "meaningVn": "Tôi đi Seoul."
+        },
+        {
+          "korean": "오후 두 시에 만나요.",
+          "meaningVn": "Chúng ta gặp nhau lúc hai giờ chiều."
+        }
+      ]
+    },
+    {
+      "korean": "모두",
+      "romanization": "modu",
+      "meaningVn": "tất cả",
+      "meaningEn": "all, everyone",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "모두 앉으세요.",
+          "meaningVn": "Tất cả hãy ngồi xuống."
+        },
+        {
+          "korean": "이것은 모두 얼마예요?",
+          "meaningVn": "Tổng cộng tất cả cái này là bao nhiêu?"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N개 [병, 잔, 그릇]",
+      "titleVn": "Đếm số lượng đồ vật",
+      "explanationVn": "Khi muốn nói số lượng của một danh từ (N), chúng ta dùng số thuần Hàn theo sau là các danh từ chỉ đơn vị đếm tương ứng. '개' dùng cho hầu hết các đồ vật chung chung, '병' cho chai, '잔' cho cốc/ly, '그릇' cho bát.",
+      "rule": "Số thuần Hàn + đơn vị đếm",
+      "pronunciationTip": "Khi số thuần Hàn kết thúc bằng 'ㅅ' hoặc 'ㄱ' và đi với đơn vị đếm, có thể có sự biến đổi âm hoặc đọc lướt. Ví dụ: 다섯 병 → [다서병]",
+      "examples": [
+        {
+          "korean": "빵 한 개 주세요.",
+          "meaningVn": "Cho tôi một cái bánh mì."
+        },
+        {
+          "korean": "콜라 두 병 샀어요.",
+          "meaningVn": "Tôi đã mua hai chai cola."
+        },
+        {
+          "korean": "오늘 커피를 세 잔 마셨어요.",
+          "meaningVn": "Hôm nay tôi đã uống ba cốc cà phê."
+        },
+        {
+          "korean": "냉면 네 그릇 주세요.",
+          "meaningVn": "Cho tôi bốn bát mì lạnh."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "사과 다섯 (___) 주세요.",
+          "answer": "개"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "물 두 (___) 주세요.",
+          "answer": "병",
+          "options": [
+            "개",
+            "병",
+            "잔",
+            "그릇"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Cho tôi một cái bánh mì.",
+          "answer": "빵 한 개 주세요",
+          "options": [
+            "빵",
+            "한",
+            "개",
+            "주세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N (으)로",
+      "titleVn": "Chỉ phương tiện, cách thức",
+      "explanationVn": "Liên từ '-(으)로' gắn vào sau danh từ để chỉ phương tiện, cách thức, hoặc hướng di chuyển. Chọn '-(으)로' khi danh từ có patchim, và '-(으)로' khi danh từ không có patchim.",
+      "rule": "받침 có → -(으)로 | 받침 không → -로",
+      "pronunciationTip": "Khi '-(으)로' đi với một số động từ có thể có biến âm nhẹ.",
+      "examples": [
+        {
+          "korean": "버스로 왔어요.",
+          "meaningVn": "Tôi đã đến bằng xe buýt."
+        },
+        {
+          "korean": "손으로 만들었어요.",
+          "meaningVn": "Tôi đã làm bằng tay."
+        },
+        {
+          "korean": "서울로 가요.",
+          "meaningVn": "Tôi đi đến Seoul."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "친구하고 (___) 같이 가요. (phương tiện)",
+          "answer": "같이"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "기차 (___) 가요.",
+          "answer": "로",
+          "options": [
+            "로",
+            "으로",
+            "은",
+            "는"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đến bằng tàu hỏa.",
+          "answer": "기차로 왔어요",
+          "options": [
+            "기차로",
+            "왔어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "V-고",
+      "titleVn": "Nối hai hành động, trạng thái liên tiếp hoặc song song",
+      "explanationVn": "Đuôi câu '-고' được gắn vào thân động từ hoặc tính từ để nối hai mệnh đề, thể hiện hai hành động hoặc trạng thái xảy ra liên tiếp hoặc cùng lúc. Nó không phụ thuộc vào patchim.",
+      "rule": "Thân động từ/tính từ + -고",
+      "pronunciationTip": "Khi '-고' đi liền sau một nguyên âm, âm 'ㄱ' có thể được đọc nhẹ hơn.",
+      "examples": [
+        {
+          "korean": "밥을 먹고 커피를 마셔요.",
+          "meaningVn": "Tôi ăn cơm rồi uống cà phê."
+        },
+        {
+          "korean": "책을 읽고 있어요.",
+          "meaningVn": "Tôi đang đọc sách."
+        },
+        {
+          "korean": "오늘은 덥고 내일은 추워요.",
+          "meaningVn": "Hôm nay nóng và ngày mai thì lạnh."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "먼저 빵을 먹고 (___) 물을 마셨어요. (hành động tiếp theo)",
+          "answer": "그다음"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "친구를 만나 (___) 영화를 봤어요.",
+          "answer": "고",
+          "options": [
+            "고",
+            "지만",
+            "니까",
+            "아"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi ăn cơm và uống nước.",
+          "answer": "밥을 먹고 물을 마셔요",
+          "options": [
+            "밥을",
+            "먹고",
+            "물을",
+            "마셔요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "N (이)랑",
+      "titleVn": "Nối hai danh từ (thân mật)",
+      "explanationVn": "Danh từ nối '- (이)랑' được sử dụng để nối hai danh từ hoặc liệt kê các danh từ trong văn nói thân mật. Chọn '-이랑' khi danh từ có patchim và '-랑' khi danh từ không có patchim.",
+      "rule": "받침 có → -이랑 | 받침 không → -랑",
+      "pronunciationTip": "Phát âm có thể hơi biến đổi tùy thuộc vào danh từ đi trước và sau nó.",
+      "examples": [
+        {
+          "korean": "친구랑 같이 영화를 봤어요.",
+          "meaningVn": "Tôi đã xem phim cùng với bạn."
+        },
+        {
+          "korean": "사과랑 배를 샀어요.",
+          "meaningVn": "Tôi đã mua táo và lê."
+        },
+        {
+          "korean": "이거랑 저거 주세요.",
+          "meaningVn": "Cho tôi cái này và cái kia."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "오렌지 (___) 사과도 주세요. (liệt kê)",
+          "answer": "랑"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "언니 (___) 쇼핑하러 갔어요.",
+          "answer": "랑",
+          "options": [
+            "랑",
+            "이랑",
+            "도",
+            "만"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đi cùng mẹ.",
+          "answer": "엄마랑 같이 가요",
+          "options": [
+            "엄마랑",
+            "같이",
+            "가요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 5,
+      "pattern": "V-(으)세요",
+      "titleVn": "Yêu cầu, mệnh lệnh lịch sự",
+      "explanationVn": "Đuôi câu '- (으)세요' được gắn vào sau thân động từ để diễn tả một yêu cầu hoặc mệnh lệnh một cách lịch sự. Chọn '-으세요' khi thân động từ có patchim, và '-세요' khi thân động từ không có patchim.",
+      "rule": "받침 có → -으세요 | 받침 không → -세요",
+      "pronunciationTip": "Khi động từ có phụ âm cuối là 'ㅎ', quy tắc biến âm có thể áp dụng. Ví dụ: 좋아요 → [조아요]. Tuy nhiên, khi dùng '-으세요' thì thường giữ nguyên âm. Ví dụ: 앉으세요.",
+      "examples": [
+        {
+          "korean": "어서 오세요.",
+          "meaningVn": "Mời vào ạ."
+        },
+        {
+          "korean": "여기 앉으세요.",
+          "meaningVn": "Xin mời ngồi đây."
+        },
+        {
+          "korean": "숙제를 하세요.",
+          "meaningVn": "Hãy làm bài tập về nhà."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "천천히 (___). (yêu cầu lịch sự)",
+          "answer": "말하세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "창문을 (___).",
+          "answer": "여세요",
+          "options": [
+            "여세요",
+            "여으세요",
+            "시오",
+            "아"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Xin mời vào.",
+          "answer": "어서 오세요",
+          "options": [
+            "어서",
+            "오세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 6,
+      "pattern": "N (이)가 A-아요/어요",
+      "titleVn": "Tính từ mô tả đặc điểm, trạng thái",
+      "explanationVn": "Cấu trúc này dùng để mô tả đặc điểm, trạng thái của một danh từ (N). Trợ từ chủ ngữ -(이)가 đi kèm với danh từ. Chọn '-(이)가' khi danh từ có patchim, và '-가' khi danh từ không có patchim. Đuôi '-아요/어요' là dạng đuôi câu lịch sự thân mật của tính từ.",
+      "rule": "Danh từ có patchim + -(이)가 | Danh từ không có patchim + -가 + -아요/어요",
+      "pronunciationTip": "Khi '-(이)가' đi sau danh từ có patchim, âm 'ㄱ' có thể biến đổi nhẹ.",
+      "examples": [
+        {
+          "korean": "오렌지가 싸요.",
+          "meaningVn": "Cam thì rẻ."
+        },
+        {
+          "korean": "학교가 좋아요.",
+          "meaningVn": "Trường học thì tốt."
+        },
+        {
+          "korean": "길이 복잡해요.",
+          "meaningVn": "Đường thì phức tạp."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 옷은 (___). (giá rẻ)",
+          "answer": "싸요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "이 음식 (___).",
+          "answer": "맛있어요",
+          "options": [
+            "맛있어요",
+            "맛있어요",
+            "맛있어요",
+            "맛없어요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Cái bánh này ngon.",
+          "answer": "이 빵이 맛있어요",
+          "options": [
+            "이",
+            "빵이",
+            "맛있어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 7,
+      "pattern": "N도",
+      "titleVn": "Cũng, cũng vậy",
+      "explanationVn": "Trợ từ '-도' gắn vào sau danh từ để diễn tả ý nghĩa 'cũng', 'cũng vậy'. Nó có thể thay thế cho trợ từ chủ ngữ -(이)가 hoặc tân ngữ -을/를.",
+      "rule": "Danh từ + -도",
+      "pronunciationTip": "Khi '-도' đi sau một danh từ có patchim, cách phát âm có thể hơi biến đổi.",
+      "examples": [
+        {
+          "korean": "저는 학생이에요. 켈리 씨도 학생이에요.",
+          "meaningVn": "Tôi là học sinh. Kelly cũng là học sinh."
+        },
+        {
+          "korean": "불고기가 맛있어요. 냉면도 맛있어요.",
+          "meaningVn": "Thịt bò nướng ngon. Mì lạnh cũng ngon."
+        },
+        {
+          "korean": "어제 바지를 샀어요. 그리고 운동화도 샀어요.",
+          "meaningVn": "Hôm qua tôi đã mua quần. Và tôi cũng đã mua giày thể thao."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "나도 (___) 갈 거예요. (cũng đi)",
+          "answer": "갈"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저도 (___) 좋아해요.",
+          "answer": "커피를",
+          "options": [
+            "커피를",
+            "커피도",
+            "커피가",
+            "커피는"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi cũng thích cái này.",
+          "answer": "저도 이걸 좋아해요",
+          "options": [
+            "저도",
+            "이걸",
+            "좋아해요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 8,
+      "pattern": "V-는 것",
+      "titleVn": "Danh từ hóa động từ (việc, cái việc)",
+      "explanationVn": "Cấu trúc '-는 것' được gắn vào sau thân động từ để biến động từ thành một danh từ, diễn tả 'việc làm hành động đó'. Khi đứng trước trợ từ '이/가' hoặc '을/를', '것' có thể rút gọn thành '거'.",
+      "rule": "Thân động từ + -는 것 (hoặc -는 거)",
+      "pronunciationTip": "Khi '-는 것' đi liền sau một động từ, âm 'ㄱ' có thể được đọc nhẹ hơn hoặc biến âm.",
+      "examples": [
+        {
+          "korean": "텔레비전을 보는 것을 좋아해요.",
+          "meaningVn": "Tôi thích việc xem tivi."
+        },
+        {
+          "korean": "한국어를 배우는 것이 재미있어요.",
+          "meaningVn": "Việc học tiếng Hàn rất thú vị."
+        },
+        {
+          "korean": "빨리 가는 것이 좋아요.",
+          "meaningVn": "Đi nhanh thì tốt hơn."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이 책을 (___) 재미있어요. (đọc)",
+          "answer": "읽는 것"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "김치를 (___) 어려워요.",
+          "answer": "만드는",
+          "options": [
+            "만드는",
+            "만들",
+            "만들어요",
+            "만들고"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Việc học tiếng Hàn thú vị.",
+          "answer": "한국어 배우는 것이 재미있어요",
+          "options": [
+            "한국어",
+            "배우는",
+            "것이",
+            "재미있어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 9,
+      "pattern": "V-(으)ㄹ 때",
+      "titleVn": "Khi (chỉ thời điểm)",
+      "explanationVn": "Cấu trúc '- (으)ㄹ 때' được gắn vào thân động từ để chỉ thời điểm xảy ra một hành động hoặc trạng thái khác. Chọn '-을 때' khi thân động từ có patchim và '-ㄹ 때' khi thân động từ không có patchim.",
+      "rule": "받침 có → -을 때 | 받침 không → -ㄹ 때",
+      "pronunciationTip": "Khi '-을 때' đi sau danh từ có patchim, có thể có sự biến đổi âm nhẹ.",
+      "examples": [
+        {
+          "korean": "집에 갈 때 전화했어요.",
+          "meaningVn": "Tôi đã gọi điện khi về nhà."
+        },
+        {
+          "korean": "밥을 먹을 때 말을 하지 마세요.",
+          "meaningVn": "Đừng nói chuyện khi ăn cơm."
+        },
+        {
+          "korean": "돈이 없을 때 힘들었어요.",
+          "meaningVn": "Tôi đã gặp khó khăn khi không có tiền."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "학교에 (___) 친구를 만났어요. (đi)",
+          "answer": "갈"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "아침 (___) 빵을 먹어요.",
+          "answer": "먹을",
+          "options": [
+            "먹을",
+            "먹을 때",
+            "먹을",
+            "먹을"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Khi tôi học bài, tôi nghe nhạc.",
+          "answer": "공부할 때 음악을 들어요",
+          "options": [
+            "공부할",
+            "때",
+            "음악을",
+            "들어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 10,
+      "pattern": "N보다",
+      "titleVn": "So với N",
+      "explanationVn": "Trợ từ '-보다' gắn vào sau danh từ để so sánh hai đối tượng. Nó diễn tả đối tượng đứng trước nó được so sánh với đối tượng đứng sau nó.",
+      "rule": "Danh từ + -보다",
+      "pronunciationTip": "Phát âm có thể hơi biến đổi tùy thuộc vào danh từ đi trước nó.",
+      "examples": [
+        {
+          "korean": "이 사과는 저 사과보다 더 맛있어요.",
+          "meaningVn": "Quả táo này ngon hơn quả táo kia."
+        },
+        {
+          "korean": "한국은 중국보다 가까워요.",
+          "meaningVn": "Hàn Quốc gần hơn Trung Quốc."
+        },
+        {
+          "korean": "저는 친구보다 키가 커요.",
+          "meaningVn": "Tôi cao hơn bạn tôi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이것은 저것 (___) 더 싸요. (so với)",
+          "answer": "보다"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "서울 (___) 부산이 더 커요.",
+          "answer": "보다",
+          "options": [
+            "보다",
+            "는",
+            "가",
+            "도"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi thích trà hơn cà phê.",
+          "answer": "커피보다 차를 더 좋아해요",
+          "options": [
+            "커피보다",
+            "차를",
+            "더",
+            "좋아해요"
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "말하기 1",
+      "lines": [
+        {
+          "speaker": "Server",
+          "korean": "어서 오세요. 여기 앉으세요.",
+          "meaningVn": "Mời vào ạ. Xin mời ngồi đây."
+        },
+        {
+          "speaker": "Steven",
+          "korean": "메뉴 좀 주세요.",
+          "meaningVn": "Cho tôi xem menu ạ."
+        },
+        {
+          "speaker": "Server",
+          "korean": "네, 여기 있어요.",
+          "meaningVn": "Vâng, đây ạ."
+        },
+        {
+          "speaker": "Steven",
+          "korean": "유진 씨는 뭐 좋아해요?",
+          "meaningVn": "Yujin, bạn thích món gì?"
+        },
+        {
+          "speaker": "Yujin",
+          "korean": "저는 비빔밥을 좋아해요.",
+          "meaningVn": "Tôi thích bibimbap."
+        },
+        {
+          "speaker": "Steven",
+          "korean": "그럼, 비빔밥 한 그릇 하고 갈비탕 한 그릇 주세요.",
+          "meaningVn": "Vậy thì, cho chúng tôi một bát bibimbap và một bát galbitang."
+        },
+        {
+          "speaker": "Server",
+          "korean": "네, 잠깐만 기다리세요.",
+          "meaningVn": "Vâng, xin quý khách vui lòng đợi một lát."
+        }
+      ]
+    },
+    {
+      "title": "말하기 2",
+      "lines": [
+        {
+          "speaker": "Mariko",
+          "korean": "아저씨, 오렌지 얼마예요?",
+          "meaningVn": "Bác ơi, cam bao nhiêu tiền ạ?"
+        },
+        {
+          "speaker": "Salesperson",
+          "korean": "여섯 개에 오천 원이에요.",
+          "meaningVn": "Sáu quả là 5.000 won ạ."
+        },
+        {
+          "speaker": "Mariko",
+          "korean": "사과는 얼마예요?",
+          "meaningVn": "Táo bao nhiêu tiền ạ?"
+        },
+        {
+          "speaker": "Salesperson",
+          "korean": "세 개에 이천 원이에요.",
+          "meaningVn": "Ba quả là 2.000 won ạ."
+        },
+        {
+          "speaker": "Mariko",
+          "korean": "뭐가 맛있어요?",
+          "meaningVn": "Món gì ngon ạ?"
+        },
+        {
+          "speaker": "Salesperson",
+          "korean": "모두 맛있어요.",
+          "meaningVn": "Tất cả đều ngon ạ."
+        },
+        {
+          "speaker": "Mariko",
+          "korean": "그럼 오렌지 여섯 개 주세요. 사과도 세 개 주세요.",
+          "meaningVn": "Vậy thì cho tôi sáu quả cam. Và ba quả táo nữa ạ."
+        },
+        {
+          "speaker": "Salesperson",
+          "korean": "네, 여기 있어요. 또 오세요.",
+          "meaningVn": "Vâng, đây ạ. Lần sau lại đến nhé."
+        }
+      ]
+    }
+  ],
+  "pronunciation": [
+    {
+      "pattern": "V-세요",
+      "tip": "Khi động từ có phụ âm cuối là 'ㅎ', quy tắc biến âm có thể áp dụng. Ví dụ: 좋아요 → [조아요]. Tuy nhiên, khi dùng '-으세요' thì thường giữ nguyên âm. Ví dụ: 앉으세요."
+    },
+    {
+      "pattern": "N (이)가",
+      "tip": "Khi '-(이)가' đi sau danh từ có patchim, âm 'ㄱ' có thể biến đổi nhẹ."
+    },
+    {
+      "pattern": "V-는 것",
+      "tip": "Khi '-는 것' đi liền sau một động từ, âm 'ㄱ' có thể được đọc nhẹ hơn hoặc biến âm."
+    },
+    {
+      "pattern": "V-(으)ㄹ 때",
+      "tip": "Khi '-을 때' đi sau danh từ có patchim, có thể có sự biến đổi âm nhẹ."
+    }
+  ]
+}

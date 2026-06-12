@@ -1,0 +1,147 @@
+// Prisma schema — Web học tiếng Hàn 서울대 1A
+// Local dev dùng SQLite (file:./dev.db) để chạy $0 không cần Supabase.
+// Khi deploy: đổi provider = "postgresql" + DATABASE_URL Supabase/Neon.
+// Lưu ý SQLite: không có kiểu Json/enum → dùng String (lưu JSON dạng text).
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Book {
+  id    String @id @default(cuid())
+  name  String // "서울대 한국어 1A"
+  slug  String @unique // "snu-1a"
+  level String // "beginner"
+  units Unit[]
+}
+
+model Unit {
+  id       String     @id @default(cuid())
+  bookId   String
+  number   Int // 1-8, 0 = 한글 배우기
+  titleKr  String // "안녕하세요?"
+  titleVn  String // "Xin chào"
+  topic    String // chủ đề
+  book     Book       @relation(fields: [bookId], references: [id], onDelete: Cascade)
+  vocab    Vocab[]
+  grammar  Grammar[]
+  dialogs  Dialog[]
+  progress Progress[]
+
+  @@unique([bookId, number])
+}
+
+// Hội thoại 대화
+model Dialog {
+  id     String       @id @default(cuid())
+  unitId String
+  title  String // "대화 1"
+  order  Int          @default(0)
+  unit   Unit         @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  lines  DialogLine[]
+}
+
+model DialogLine {
+  id        String  @id @default(cuid())
+  dialogId  String
+  order     Int
+  speaker   String // "A" | "B" | tên nhân vật
+  korean    String
+  meaningVn String
+  audioPath String?
+  dialog    Dialog  @relation(fields: [dialogId], references: [id], onDelete: Cascade)
+}
+
+model Vocab {
+  id           String    @id @default(cuid())
+  unitId       String
+  korean       String // "학생"
+  romanization String // "hak-saeng"
+  meaningVn    String // "học sinh"
+  meaningEn    String // "student"
+  pos          String // "noun" | "verb" | "adjective" | "expression"
+  audioPath    String? // "/audio/unit1/학생.mp3"
+  imagePath    String? // "/images/unit1/학생.jpg"
+  unit         Unit      @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  examples     Example[]
+  srsCard      SrsCard?
+}
+
+model Example {
+  id        String  @id @default(cuid())
+  vocabId   String
+  korean    String // "저는 학생이에요."
+  meaningVn String // "Tôi là học sinh."
+  audioPath String?
+  vocab     Vocab   @relation(fields: [vocabId], references: [id], onDelete: Cascade)
+}
+
+model Grammar {
+  id               String           @id @default(cuid())
+  unitId           String
+  orderInUnit      Int // 1 hoặc 2 (문법과 표현 1/2)
+  pattern          String // "N은/는 N이에요/예요"
+  titleVn          String // "Câu khẳng định: N là N"
+  explanationVn    String // giải thích chi tiết
+  rule             String // quy tắc chia
+  pronunciationTip String? // lưu ý phát âm (liên âm, biến âm, v.v.)
+  unit             Unit             @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  examples         GrammarExample[]
+  exercises        Exercise[]
+}
+
+model GrammarExample {
+  id        String  @id @default(cuid())
+  grammarId String
+  korean    String
+  meaningVn String
+  audioPath String?
+  grammar   Grammar @relation(fields: [grammarId], references: [id], onDelete: Cascade)
+}
+
+model Exercise {
+  id        String  @id @default(cuid())
+  grammarId String
+  type      String // "fill_blank" | "multiple_choice" | "reorder"
+  question  String
+  answer    String
+  options   String? // JSON text: ["옵션1","옵션2",...]  (SQLite không có Json)
+  grammar   Grammar @relation(fields: [grammarId], references: [id], onDelete: Cascade)
+}
+
+// SRS — Spaced Repetition (không cần userId vì 1 người dùng)
+model SrsCard {
+  id           String    @id @default(cuid())
+  vocabId      String    @unique
+  easeFactor   Float     @default(2.5) // SM-2: 1.3 → 2.5
+  interval     Int       @default(1) // ngày
+  repetitions  Int       @default(0)
+  nextReviewAt DateTime  @default(now())
+  lastReviewAt DateTime?
+  vocab        Vocab     @relation(fields: [vocabId], references: [id], onDelete: Cascade)
+}
+
+// Tiến độ học
+model Progress {
+  id          String    @id @default(cuid())
+  unitId      String
+  lessonType  String // "vocab" | "grammar" | "review"
+  completed   Boolean   @default(false)
+  score       Int? // % đúng
+  completedAt DateTime?
+  unit        Unit      @relation(fields: [unitId], references: [id], onDelete: Cascade)
+
+  @@unique([unitId, lessonType])
+}
+
+// Streak
+model Streak {
+  id       String   @id @default(cuid())
+  date     DateTime @unique
+  reviewed Int      @default(0) // số thẻ đã ôn
+}

@@ -1,0 +1,2134 @@
+{
+  "unit": 5,
+  "titleKr": "오늘 어디에 가요?",
+  "titleVn": "Hôm nay đi đâu?",
+  "topic": "Địa điểm, Phương tiện di chuyển",
+  "vocabulary": [
+    {
+      "korean": "어디",
+      "romanization": "eodi",
+      "meaningVn": "đâu",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "어디에 가요?",
+          "meaningVn": "Đi đâu?"
+        },
+        {
+          "korean": "어디에서 왔어요?",
+          "meaningVn": "Bạn đến từ đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "오늘",
+      "romanization": "oneul",
+      "meaningVn": "hôm nay",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오늘 날씨가 좋아요.",
+          "meaningVn": "Thời tiết hôm nay đẹp."
+        },
+        {
+          "korean": "오늘 뭐 할 거예요?",
+          "meaningVn": "Hôm nay bạn sẽ làm gì?"
+        }
+      ]
+    },
+    {
+      "korean": "오후",
+      "romanization": "ohu",
+      "meaningVn": "chiều",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오후 세 시에 만나요.",
+          "meaningVn": "Gặp nhau lúc 3 giờ chiều."
+        },
+        {
+          "korean": "오늘 오후에는 시간이 있어요?",
+          "meaningVn": "Chiều nay bạn có thời gian không?"
+        }
+      ]
+    },
+    {
+      "korean": "방학",
+      "romanization": "banghak",
+      "meaningVn": "kỳ nghỉ, kỳ nghỉ hè/đông",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "방학에 고향에 갈 거예요.",
+          "meaningVn": "Tôi sẽ về quê nghỉ hè."
+        },
+        {
+          "korean": "방학 동안 무엇을 할 거예요?",
+          "meaningVn": "Bạn sẽ làm gì trong kỳ nghỉ?"
+        }
+      ]
+    },
+    {
+      "korean": "주말",
+      "romanization": "jumal",
+      "meaningVn": "cuối tuần",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "주말에 뭐 할 거예요?",
+          "meaningVn": "Cuối tuần bạn sẽ làm gì?"
+        },
+        {
+          "korean": "이번 주말에 친구를 만날 거예요.",
+          "meaningVn": "Cuối tuần này tôi sẽ gặp bạn."
+        }
+      ]
+    },
+    {
+      "korean": "계획",
+      "romanization": "gyehwek",
+      "meaningVn": "kế hoạch",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "오늘 계획이 있어요?",
+          "meaningVn": "Bạn có kế hoạch gì hôm nay không?"
+        },
+        {
+          "korean": "휴가 계획을 세우고 있어요.",
+          "meaningVn": "Tôi đang lên kế hoạch cho kỳ nghỉ."
+        }
+      ]
+    },
+    {
+      "korean": "하다",
+      "romanization": "hada",
+      "meaningVn": "làm",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "뭐 해요?",
+          "meaningVn": "Bạn làm gì?"
+        },
+        {
+          "korean": "숙제를 해요.",
+          "meaningVn": "Tôi làm bài tập về nhà."
+        }
+      ]
+    },
+    {
+      "korean": "가다",
+      "romanization": "gada",
+      "meaningVn": "đi",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "학교에 가요.",
+          "meaningVn": "Tôi đi học."
+        },
+        {
+          "korean": "집에 갈 거예요.",
+          "meaningVn": "Tôi sẽ về nhà."
+        }
+      ]
+    },
+    {
+      "korean": "여행",
+      "romanization": "yeohaeng",
+      "meaningVn": "du lịch",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "여행을 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi du lịch."
+        },
+        {
+          "korean": "여행 사진을 보여 주세요.",
+          "meaningVn": "Hãy cho tôi xem ảnh du lịch."
+        }
+      ]
+    },
+    {
+      "korean": "서울",
+      "romanization": "Seoul",
+      "meaningVn": "Seoul",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울에 가고 싶어요.",
+          "meaningVn": "Tôi muốn đi Seoul."
+        },
+        {
+          "korean": "서울역까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đi đến ga Seoul?"
+        }
+      ]
+    },
+    {
+      "korean": "부산",
+      "romanization": "Busan",
+      "meaningVn": "Busan",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "부산으로 여행 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi du lịch đến Busan."
+        },
+        {
+          "korean": "부산에 살아본 적 있어요?",
+          "meaningVn": "Bạn đã từng sống ở Busan chưa?"
+        }
+      ]
+    },
+    {
+      "korean": "기차",
+      "romanization": "gicha",
+      "meaningVn": "tàu hỏa",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "기차를 타고 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi bằng tàu hỏa."
+        },
+        {
+          "korean": "기차역은 어디예요?",
+          "meaningVn": "Ga tàu hỏa ở đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "버스",
+      "romanization": "beoseu",
+      "meaningVn": "xe buýt",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "버스 정류장이 어디예요?",
+          "meaningVn": "Bến xe buýt ở đâu?"
+        },
+        {
+          "korean": "버스를 타고 가요.",
+          "meaningVn": "Đi bằng xe buýt."
+        }
+      ]
+    },
+    {
+      "korean": "택시",
+      "romanization": "taeksi",
+      "meaningVn": "taxi",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "택시를 불러 주세요.",
+          "meaningVn": "Hãy gọi taxi cho tôi."
+        },
+        {
+          "korean": "택시비가 얼마예요?",
+          "meaningVn": "Phí taxi là bao nhiêu?"
+        }
+      ]
+    },
+    {
+      "korean": "비행기",
+      "romanization": "bihaenggi",
+      "meaningVn": "máy bay",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "비행기를 타고 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi bằng máy bay."
+        },
+        {
+          "korean": "비행기표를 예약했어요.",
+          "meaningVn": "Tôi đã đặt vé máy bay."
+        }
+      ]
+    },
+    {
+      "korean": "도착하다",
+      "romanization": "dochakhada",
+      "meaningVn": "đến, tới",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "몇 시에 도착해요?",
+          "meaningVn": "Bạn đến lúc mấy giờ?"
+        },
+        {
+          "korean": "드디어 목적지에 도착했습니다.",
+          "meaningVn": "Cuối cùng đã đến đích."
+        }
+      ]
+    },
+    {
+      "korean": "걸리다",
+      "romanization": "geollida",
+      "meaningVn": "mất (thời gian)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu?"
+        },
+        {
+          "korean": "서울까지 두 시간 걸려요.",
+          "meaningVn": "Mất hai tiếng để đến Seoul."
+        }
+      ]
+    },
+    {
+      "korean": "보통",
+      "romanization": "botong",
+      "meaningVn": "thường",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "보통 몇 시에 일어나요?",
+          "meaningVn": "Bạn thường thức dậy lúc mấy giờ?"
+        },
+        {
+          "korean": "저는 보통 아침을 간단히 먹어요.",
+          "meaningVn": "Tôi thường ăn sáng đơn giản."
+        }
+      ]
+    },
+    {
+      "korean": "얼마나",
+      "romanization": "eolmana",
+      "meaningVn": "bao nhiêu (chỉ thời gian, khoảng cách, số lượng)",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "여기서 얼마나 멀어요?",
+          "meaningVn": "Ở đây có xa không?"
+        },
+        {
+          "korean": "얼마나 기다렸어요?",
+          "meaningVn": "Bạn đã đợi bao lâu rồi?"
+        }
+      ]
+    },
+    {
+      "korean": "세우다",
+      "romanization": "seuda",
+      "meaningVn": "dừng lại",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "여기 좀 세워 주세요.",
+          "meaningVn": "Làm ơn dừng lại ở đây một chút."
+        },
+        {
+          "korean": "택시를 세우고 내렸어요.",
+          "meaningVn": "Tôi đã dừng taxi và xuống xe."
+        }
+      ]
+    },
+    {
+      "korean": "고맙다",
+      "romanization": "gomapda",
+      "meaningVn": "biết ơn, cảm ơn",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "정말 고마워요.",
+          "meaningVn": "Thực sự cảm ơn bạn."
+        },
+        {
+          "korean": "도와주셔서 고맙습니다.",
+          "meaningVn": "Cảm ơn bạn đã giúp đỡ."
+        }
+      ]
+    },
+    {
+      "korean": "신촌",
+      "romanization": "Sinchon",
+      "meaningVn": "Sinchon (tên địa danh)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "신촌역에서 내려 주세요.",
+          "meaningVn": "Làm ơn cho tôi xuống ở ga Sinchon."
+        },
+        {
+          "korean": "신촌에 맛있는 식당이 많아요.",
+          "meaningVn": "Có nhiều nhà hàng ngon ở Sinchon."
+        }
+      ]
+    },
+    {
+      "korean": "서울역",
+      "romanization": "Seoulyeok",
+      "meaningVn": "Ga Seoul",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울역까지 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Ga Seoul cho tôi."
+        },
+        {
+          "korean": "서울역에서 기차를 탈 거예요.",
+          "meaningVn": "Tôi sẽ đi tàu từ Ga Seoul."
+        }
+      ]
+    },
+    {
+      "korean": "강남역",
+      "romanization": "Gangnamyeok",
+      "meaningVn": "Ga Gangnam",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "강남역에서 만나요.",
+          "meaningVn": "Gặp nhau ở Ga Gangnam."
+        },
+        {
+          "korean": "강남역으로 가는 버스가 있어요?",
+          "meaningVn": "Có xe buýt đi đến Ga Gangnam không?"
+        }
+      ]
+    },
+    {
+      "korean": "교대역",
+      "romanization": "Gyodaeyeok",
+      "meaningVn": "Ga Gyodae",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "교대역에서 갈아타야 해요.",
+          "meaningVn": "Tôi phải chuyển tàu ở Ga Gyodae."
+        },
+        {
+          "korean": "교대역까지 몇 정거장이에요?",
+          "meaningVn": "Từ đây đến Ga Gyodae có bao nhiêu bến?"
+        }
+      ]
+    },
+    {
+      "korean": "동대문",
+      "romanization": "Dongdaemun",
+      "meaningVn": "Dongdaemun (tên địa danh)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "동대문에 쇼핑하러 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi mua sắm ở Dongdaemun."
+        },
+        {
+          "korean": "동대문시장은 언제까지 열어요?",
+          "meaningVn": "Chợ Dongdaemun mở cửa đến mấy giờ?"
+        }
+      ]
+    },
+    {
+      "korean": "고속버스 터미널",
+      "romanization": "gosokbeoseu teomineol",
+      "meaningVn": "Bến xe khách liên tỉnh",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "고속버스 터미널에서 만나요.",
+          "meaningVn": "Gặp nhau ở bến xe khách liên tỉnh."
+        },
+        {
+          "korean": "고속버스 터미널까지 어떻게 가요?",
+          "meaningVn": "Làm thế nào để đi đến bến xe khách liên tỉnh?"
+        }
+      ]
+    },
+    {
+      "korean": "기차역",
+      "romanization": "gichayeok",
+      "meaningVn": "nhà ga tàu hỏa",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "기차역이 어디에 있어요?",
+          "meaningVn": "Nhà ga tàu hỏa ở đâu?"
+        },
+        {
+          "korean": "기차역까지 걸어서 가요.",
+          "meaningVn": "Tôi đi bộ đến nhà ga tàu hỏa."
+        }
+      ]
+    },
+    {
+      "korean": "버스 정류장",
+      "romanization": "beoseu jeongnyujang",
+      "meaningVn": "bến xe buýt",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "버스 정류장에서 기다려요.",
+          "meaningVn": "Tôi đợi ở bến xe buýt."
+        },
+        {
+          "korean": "버스 정류장까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đi đến bến xe buýt?"
+        }
+      ]
+    },
+    {
+      "korean": "지하철역",
+      "romanization": "jihacheolyeok",
+      "meaningVn": "ga tàu điện ngầm",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "지하철역에서 내려요.",
+          "meaningVn": "Tôi xuống ở ga tàu điện ngầm."
+        },
+        {
+          "korean": "가장 가까운 지하철역은 어디예요?",
+          "meaningVn": "Ga tàu điện ngầm gần nhất ở đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "경복궁",
+      "romanization": "Gyeongbokgung",
+      "meaningVn": "Cung Gyeongbok",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "경복궁에 가고 싶어요.",
+          "meaningVn": "Tôi muốn đi Cung Gyeongbok."
+        },
+        {
+          "korean": "경복궁까지 어떻게 가요?",
+          "meaningVn": "Làm thế nào để đi đến Cung Gyeongbok?"
+        }
+      ]
+    },
+    {
+      "korean": "동대문시장",
+      "romanization": "Dongdaemun Sijang",
+      "meaningVn": "Chợ Dongdaemun",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "동대문시장에서 옷을 사고 싶어요.",
+          "meaningVn": "Tôi muốn mua quần áo ở Chợ Dongdaemun."
+        },
+        {
+          "korean": "동대문시장은 밤에도 열어요?",
+          "meaningVn": "Chợ Dongdaemun có mở cửa vào ban đêm không?"
+        }
+      ]
+    },
+    {
+      "korean": "롯데월드",
+      "romanization": "Loteworld",
+      "meaningVn": "Lotte World",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "롯데월드에 놀러 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi chơi ở Lotte World."
+        },
+        {
+          "korean": "롯데월드 입장료는 얼마예요?",
+          "meaningVn": "Vé vào cửa Lotte World là bao nhiêu?"
+        }
+      ]
+    },
+    {
+      "korean": "홍대거리",
+      "romanization": "Hongdaegeori",
+      "meaningVn": "Phố Hongdae",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "홍대거리에서 친구를 만날 거예요.",
+          "meaningVn": "Tôi sẽ gặp bạn ở Phố Hongdae."
+        },
+        {
+          "korean": "홍대거리에는 젊은이들이 많아요.",
+          "meaningVn": "Có nhiều người trẻ ở Phố Hongdae."
+        }
+      ]
+    },
+    {
+      "korean": "서울대공원",
+      "romanization": "Seoul Daegongwon",
+      "meaningVn": "Công viên Seoul",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울대공원에서 동물들을 봤어요.",
+          "meaningVn": "Tôi đã xem động vật ở Công viên Seoul."
+        },
+        {
+          "korean": "서울대공원에 가려면 어떻게 가야 돼요?",
+          "meaningVn": "Làm thế nào để đi đến Công viên Seoul?"
+        }
+      ]
+    },
+    {
+      "korean": "서울대학교",
+      "romanization": "Seoul Daehakgyo",
+      "meaningVn": "Đại học Quốc gia Seoul",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울대학교까지 어떻게 가요?",
+          "meaningVn": "Làm thế nào để đi đến Đại học Quốc gia Seoul?"
+        },
+        {
+          "korean": "서울대학교에 다니고 있어요.",
+          "meaningVn": "Tôi đang học tại Đại học Quốc gia Seoul."
+        }
+      ]
+    },
+    {
+      "korean": "지하철",
+      "romanization": "jihacheol",
+      "meaningVn": "tàu điện ngầm",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "지하철을 타고 가요.",
+          "meaningVn": "Đi bằng tàu điện ngầm."
+        },
+        {
+          "korean": "지하철 노선도를 보세요.",
+          "meaningVn": "Hãy xem bản đồ tuyến tàu điện ngầm."
+        }
+      ]
+    },
+    {
+      "korean": "갈아타다",
+      "romanization": "garatada",
+      "meaningVn": "chuyển (phương tiện)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "2호선에서 3호선으로 갈아타세요.",
+          "meaningVn": "Hãy chuyển từ tuyến số 2 sang tuyến số 3."
+        },
+        {
+          "korean": "버스를 타고 지하철로 갈아탔어요.",
+          "meaningVn": "Tôi đi xe buýt rồi chuyển sang tàu điện ngầm."
+        }
+      ]
+    },
+    {
+      "korean": "내리다",
+      "romanization": "naerida",
+      "meaningVn": "xuống (xe, tàu)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "여기서 내리세요.",
+          "meaningVn": "Xin hãy xuống xe ở đây."
+        },
+        {
+          "korean": "다음 정거장에서 내려요.",
+          "meaningVn": "Xuống ở bến tiếp theo."
+        }
+      ]
+    },
+    {
+      "korean": "타다",
+      "romanization": "tada",
+      "meaningVn": "đi (phương tiện), lên (xe)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "버스를 타요.",
+          "meaningVn": "Tôi đi xe buýt."
+        },
+        {
+          "korean": "비행기를 탔어요.",
+          "meaningVn": "Tôi đã lên máy bay."
+        }
+      ]
+    },
+    {
+      "korean": "도와주다",
+      "romanization": "dowajuda",
+      "meaningVn": "giúp đỡ",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "좀 도와주세요.",
+          "meaningVn": "Làm ơn giúp tôi một chút."
+        },
+        {
+          "korean": "친구가 숙제를 도와줬어요.",
+          "meaningVn": "Bạn đã giúp tôi làm bài tập về nhà."
+        }
+      ]
+    },
+    {
+      "korean": "주세요",
+      "romanization": "juseyo",
+      "meaningVn": "làm ơn cho",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "물 한 잔 주세요.",
+          "meaningVn": "Cho tôi một cốc nước."
+        },
+        {
+          "korean": "이거 좀 주세요.",
+          "meaningVn": "Làm ơn cho tôi cái này."
+        }
+      ]
+    },
+    {
+      "korean": "좀",
+      "romanization": "jom",
+      "meaningVn": "một chút, làm ơn",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "좀 기다리세요.",
+          "meaningVn": "Làm ơn đợi một chút."
+        },
+        {
+          "korean": "이거 좀 봐 주세요.",
+          "meaningVn": "Làm ơn xem cái này giúp tôi."
+        }
+      ]
+    },
+    {
+      "korean": "한국어",
+      "romanization": "Hangugeo",
+      "meaningVn": "tiếng Hàn",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "한국어를 공부해요.",
+          "meaningVn": "Tôi học tiếng Hàn."
+        },
+        {
+          "korean": "한국어 숙제를 도와주세요.",
+          "meaningVn": "Làm ơn giúp tôi bài tập tiếng Hàn."
+        }
+      ]
+    },
+    {
+      "korean": "언제",
+      "romanization": "eonje",
+      "meaningVn": "khi nào, bao giờ",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "언제 만날까요?",
+          "meaningVn": "Khi nào chúng ta gặp nhau?"
+        },
+        {
+          "korean": "언제부터 한국어를 배웠어요?",
+          "meaningVn": "Bạn học tiếng Hàn từ khi nào?"
+        }
+      ]
+    },
+    {
+      "korean": "시간",
+      "romanization": "sigan",
+      "meaningVn": "thời gian",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "시간이 얼마나 걸려요?",
+          "meaningVn": "Mất bao nhiêu thời gian?"
+        },
+        {
+          "korean": "시간이 없어요.",
+          "meaningVn": "Tôi không có thời gian."
+        }
+      ]
+    },
+    {
+      "korean": "명",
+      "romanization": "myeong",
+      "meaningVn": "đơn vị đếm người",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "세 명 있어요.",
+          "meaningVn": "Có ba người."
+        },
+        {
+          "korean": "몇 명이에요?",
+          "meaningVn": "Có bao nhiêu người?"
+        }
+      ]
+    },
+    {
+      "korean": "번째",
+      "romanization": "beonjjae",
+      "meaningVn": "thứ tự (số thứ tự)",
+      "pos": "suffix",
+      "examples": [
+        {
+          "korean": "첫 번째 차례예요.",
+          "meaningVn": "Đến lượt thứ nhất."
+        },
+        {
+          "korean": "이것은 세 번째예요.",
+          "meaningVn": "Đây là cái thứ ba."
+        }
+      ]
+    },
+    {
+      "korean": "프랑스",
+      "romanization": "Peurangseu",
+      "meaningVn": "Pháp",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "프랑스에서 왔어요.",
+          "meaningVn": "Tôi đến từ Pháp."
+        },
+        {
+          "korean": "프랑스 음식을 좋아해요.",
+          "meaningVn": "Tôi thích món ăn Pháp."
+        }
+      ]
+    },
+    {
+      "korean": "일본",
+      "romanization": "Ilbon",
+      "meaningVn": "Nhật Bản",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "일본에 여행 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi du lịch Nhật Bản."
+        },
+        {
+          "korean": "일본어를 할 수 있어요?",
+          "meaningVn": "Bạn có thể nói tiếng Nhật không?"
+        }
+      ]
+    },
+    {
+      "korean": "중국",
+      "romanization": "Jungguk",
+      "meaningVn": "Trung Quốc",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "중국 친구가 있어요.",
+          "meaningVn": "Tôi có bạn Trung Quốc."
+        },
+        {
+          "korean": "중국 음식은 맛있어요.",
+          "meaningVn": "Đồ ăn Trung Quốc rất ngon."
+        }
+      ]
+    },
+    {
+      "korean": "외국인",
+      "romanization": "oegugin",
+      "meaningVn": "người nước ngoài",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "외국인이 많아요.",
+          "meaningVn": "Có nhiều người nước ngoài."
+        },
+        {
+          "korean": "저는 외국인이에요.",
+          "meaningVn": "Tôi là người nước ngoài."
+        }
+      ]
+    },
+    {
+      "korean": "나라",
+      "romanization": "nara",
+      "meaningVn": "quốc gia",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "어느 나라에서 왔어요?",
+          "meaningVn": "Bạn đến từ quốc gia nào?"
+        },
+        {
+          "korean": "한국은 아름다운 나라예요.",
+          "meaningVn": "Hàn Quốc là một đất nước tươi đẹp."
+        }
+      ]
+    },
+    {
+      "korean": "그럼",
+      "romanization": "geureom",
+      "meaningVn": "vậy thì, thế thì",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "그럼, 어디로 갈까요?",
+          "meaningVn": "Vậy thì, chúng ta đi đâu nhỉ?"
+        },
+        {
+          "korean": "나는 집에 갈 거예요. 그럼 안녕히 가세요.",
+          "meaningVn": "Tôi sẽ về nhà. Vậy thì, tạm biệt."
+        }
+      ]
+    },
+    {
+      "korean": "안녕히 가세요",
+      "romanization": "annyeonghi gaseyo",
+      "meaningVn": "tạm biệt (người ở lại nói với người đi)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "안녕히 가세요!",
+          "meaningVn": "Tạm biệt!"
+        },
+        {
+          "korean": "네, 안녕히 가세요.",
+          "meaningVn": "Vâng, tạm biệt."
+        }
+      ]
+    },
+    {
+      "korean": "안녕히 계세요",
+      "romanization": "annyeonghi gyeseyo",
+      "meaningVn": "tạm biệt (người đi nói với người ở lại)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "안녕히 계세요!",
+          "meaningVn": "Tạm biệt!"
+        },
+        {
+          "korean": "네, 안녕히 계세요.",
+          "meaningVn": "Vâng, tạm biệt."
+        }
+      ]
+    },
+    {
+      "korean": "출발하다",
+      "romanization": "chulbalhada",
+      "meaningVn": "khởi hành, xuất phát",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "기차가 곧 출발합니다.",
+          "meaningVn": "Tàu sắp khởi hành."
+        },
+        {
+          "korean": "아침 7시에 출발할 거예요.",
+          "meaningVn": "Tôi sẽ khởi hành lúc 7 giờ sáng."
+        }
+      ]
+    },
+    {
+      "korean": "오다",
+      "romanization": "oda",
+      "meaningVn": "đến",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "언제 왔어요?",
+          "meaningVn": "Bạn đến khi nào?"
+        },
+        {
+          "korean": "지금 가고 있어요. 곧 갈 거예요.",
+          "meaningVn": "Tôi đang đi. Sẽ đến ngay."
+        }
+      ]
+    },
+    {
+      "korean": "만나다",
+      "romanization": "mannada",
+      "meaningVn": "gặp",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구를 만났어요.",
+          "meaningVn": "Tôi đã gặp bạn."
+        },
+        {
+          "korean": "언제 만날까요?",
+          "meaningVn": "Khi nào chúng ta gặp nhau?"
+        }
+      ]
+    },
+    {
+      "korean": "지금",
+      "romanization": "jigeum",
+      "meaningVn": "bây giờ",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "지금 몇 시예요?",
+          "meaningVn": "Bây giờ là mấy giờ?"
+        },
+        {
+          "korean": "지금 바빠요.",
+          "meaningVn": "Bây giờ tôi bận."
+        }
+      ]
+    },
+    {
+      "korean": "약",
+      "romanization": "yak",
+      "meaningVn": "khoảng, chừng",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "약 30분 걸려요.",
+          "meaningVn": "Mất khoảng 30 phút."
+        },
+        {
+          "korean": "약 10명 정도 왔어요.",
+          "meaningVn": "Có khoảng 10 người đã đến."
+        }
+      ]
+    },
+    {
+      "korean": "여기",
+      "romanization": "yeogi",
+      "meaningVn": "đây",
+      "pos": "pronoun",
+      "examples": [
+        {
+          "korean": "여기에 앉으세요.",
+          "meaningVn": "Xin mời ngồi đây."
+        },
+        {
+          "korean": "여기서 기다릴게요.",
+          "meaningVn": "Tôi sẽ đợi ở đây."
+        }
+      ]
+    },
+    {
+      "korean": "거기",
+      "romanization": "geogi",
+      "meaningVn": "đó",
+      "pos": "pronoun",
+      "examples": [
+        {
+          "korean": "거기에서 내려요.",
+          "meaningVn": "Xuống ở đó."
+        },
+        {
+          "korean": "거기 누구 있어요?",
+          "meaningVn": "Ở đó có ai không?"
+        }
+      ]
+    },
+    {
+      "korean": "저기",
+      "romanization": "jeogi",
+      "meaningVn": "kia",
+      "pos": "pronoun",
+      "examples": [
+        {
+          "korean": "저기 버스가 와요.",
+          "meaningVn": "Xe buýt đang đến kia kìa."
+        },
+        {
+          "korean": "저기 좀 봐요.",
+          "meaningVn": "Nhìn về phía kia một chút."
+        }
+      ]
+    },
+    {
+      "korean": "가르쳐 주다",
+      "romanization": "gareuchyeo juda",
+      "meaningVn": "dạy, chỉ bảo",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "한국어를 가르쳐 주세요.",
+          "meaningVn": "Làm ơn dạy tiếng Hàn cho tôi."
+        },
+        {
+          "korean": "길을 가르쳐 줬어요.",
+          "meaningVn": "Anh ấy đã chỉ đường cho tôi."
+        }
+      ]
+    },
+    {
+      "korean": "알려주다",
+      "romanization": "allyeojuda",
+      "meaningVn": "cho biết, báo cho biết",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "연락처를 알려 주세요.",
+          "meaningVn": "Làm ơn cho tôi biết thông tin liên lạc."
+        },
+        {
+          "korean": "회의 장소를 알려줬어요.",
+          "meaningVn": "Anh ấy đã cho tôi biết địa điểm cuộc họp."
+        }
+      ]
+    },
+    {
+      "korean": "미안하다",
+      "romanization": "mianhada",
+      "meaningVn": "xin lỗi",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "미안해요.",
+          "meaningVn": "Tôi xin lỗi."
+        },
+        {
+          "korean": "늦어서 미안해요.",
+          "meaningVn": "Xin lỗi vì đã đến muộn."
+        }
+      ]
+    },
+    {
+      "korean": "괜찮다",
+      "romanization": "gwaenchanta",
+      "meaningVn": "không sao, ổn",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "괜찮아요.",
+          "meaningVn": "Không sao đâu."
+        },
+        {
+          "korean": "이거 괜찮아요?",
+          "meaningVn": "Cái này ổn chứ?"
+        }
+      ]
+    },
+    {
+      "korean": "주말에 뭐 할 거예요?",
+      "romanization": "jumal-e mwo hal geoyeyo?",
+      "meaningVn": "Cuối tuần bạn sẽ làm gì?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "주말에 뭐 할 거예요?",
+          "meaningVn": "Cuối tuần bạn sẽ làm gì?"
+        },
+        {
+          "korean": "음, 아직 계획 없어요. 주말에 뭐 할 거예요?",
+          "meaningVn": "Ừm, tôi chưa có kế hoạch. Cuối tuần bạn sẽ làm gì?"
+        }
+      ]
+    },
+    {
+      "korean": "어디에 가려고 해요?",
+      "romanization": "eodie garyeogo haeyo?",
+      "meaningVn": "Bạn định đi đâu?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어디에 가려고 해요?",
+          "meaningVn": "Bạn định đi đâu?"
+        },
+        {
+          "korean": "이번 주말에 어디에 가려고 해요?",
+          "meaningVn": "Cuối tuần này bạn định đi đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "어떻게 갈 거예요?",
+      "romanization": "eotteoke gal geoyeyo?",
+      "meaningVn": "Bạn sẽ đi bằng cách nào?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "서울까지 어떻게 갈 거예요?",
+          "meaningVn": "Bạn sẽ đi đến Seoul bằng cách nào?"
+        },
+        {
+          "korean": "집까지 어떻게 갈 거예요?",
+          "meaningVn": "Bạn sẽ đi về nhà bằng cách nào?"
+        }
+      ]
+    },
+    {
+      "korean": "얼마나 걸려요?",
+      "romanization": "eolmana geollyeoyo?",
+      "meaningVn": "Mất bao lâu?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "여기까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đến đây?"
+        },
+        {
+          "korean": "한국까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đến Hàn Quốc?"
+        }
+      ]
+    },
+    {
+      "korean": "그럼 방학에는 뭐 하려고 해요?",
+      "romanization": "geureom banghageseun mwo haryeogo haeyo?",
+      "meaningVn": "Vậy thì trong kỳ nghỉ bạn định làm gì?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "그럼 방학에는 뭐 하려고 해요?",
+          "meaningVn": "Vậy thì trong kỳ nghỉ bạn định làm gì?"
+        },
+        {
+          "korean": "여행은 안 가요. 그럼 방학에는 뭐 하려고 해요?",
+          "meaningVn": "Tôi không đi du lịch. Vậy thì trong kỳ nghỉ bạn định làm gì?"
+        }
+      ]
+    },
+    {
+      "korean": "이 버스가 서울대학교로 가요?",
+      "romanization": "i beoseuga Seoul Daehakgyoro gayo?",
+      "meaningVn": "Xe buýt này có đi đến Đại học Quốc gia Seoul không?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이 버스가 서울대학교로 가요?",
+          "meaningVn": "Xe buýt này có đi đến Đại học Quốc gia Seoul không?"
+        },
+        {
+          "korean": "혹시 이 버스가 서울대학교로 가요?",
+          "meaningVn": "Có lẽ xe buýt này có đi đến Đại học Quốc gia Seoul không?"
+        }
+      ]
+    },
+    {
+      "korean": "도서관이 어디에 있어요? - 앞으로 쭉 가세요.",
+      "romanization": "doseogwani eodie isseoyo? - apeuro jjuk gaseyo.",
+      "meaningVn": "Thư viện ở đâu? - Đi thẳng về phía trước.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "도서관이 어디에 있어요? - 앞으로 쭉 가세요.",
+          "meaningVn": "Thư viện ở đâu? - Đi thẳng về phía trước."
+        },
+        {
+          "korean": "화장실이 어디에 있어요? - 저기서 오른쪽으로 가세요.",
+          "meaningVn": "Nhà vệ sinh ở đâu? - Đi về phía bên phải từ đó."
+        }
+      ]
+    },
+    {
+      "korean": "교실로 갈까요?",
+      "romanization": "gyosillo galkkayo?",
+      "meaningVn": "Chúng ta có đi đến lớp học không?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "교실로 갈까요?",
+          "meaningVn": "Chúng ta có đi đến lớp học không?"
+        },
+        {
+          "korean": "아니요, 먼저 도서관으로 갈까요?",
+          "meaningVn": "Không, chúng ta đi đến thư viện trước nhé?"
+        }
+      ]
+    },
+    {
+      "korean": "어디로 가세요?",
+      "romanization": "eodiro gaseyo?",
+      "meaningVn": "Bạn đi đâu?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어디로 가세요?",
+          "meaningVn": "Bạn đi đâu?"
+        },
+        {
+          "korean": "기사님, 어디로 가세요?",
+          "meaningVn": "Anh tài xế, anh đi đâu vậy?"
+        }
+      ]
+    },
+    {
+      "korean": "서울대학교로 가 주세요.",
+      "romanization": "Seoul Daehakgyoro ga juseyo.",
+      "meaningVn": "Làm ơn đi đến Đại học Quốc gia Seoul cho tôi.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "서울대학교로 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Đại học Quốc gia Seoul cho tôi."
+        },
+        {
+          "korean": "명동으로 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Myeongdong cho tôi."
+        }
+      ]
+    },
+    {
+      "korean": "서울역으로 가 주세요.",
+      "romanization": "Seoulyeogeuro ga juseyo.",
+      "meaningVn": "Làm ơn đi đến Ga Seoul cho tôi.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "서울역으로 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Ga Seoul cho tôi."
+        },
+        {
+          "korean": "택시 기사님, 서울역으로 가 주세요.",
+          "meaningVn": "Anh tài xế taxi, làm ơn đi đến Ga Seoul cho tôi."
+        }
+      ]
+    },
+    {
+      "korean": "외국인이시네요. 어느 나라에서 오셨어요?",
+      "romanization": "oeguginisneyo. eoneu naraeseo osyeosseoyo?",
+      "meaningVn": "Anh/chị là người nước ngoài. Anh/chị đến từ nước nào?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "외국인이시네요. 어느 나라에서 오셨어요?",
+          "meaningVn": "Anh/chị là người nước ngoài. Anh/chị đến từ nước nào?"
+        },
+        {
+          "korean": "한국말을 잘 하시네요. 외국인이시네요.",
+          "meaningVn": "Bạn nói tiếng Hàn giỏi quá. Bạn là người nước ngoài."
+        }
+      ]
+    },
+    {
+      "korean": "프랑스에서 왔어요.",
+      "romanization": "Peurangseu-eseo wasseoyo.",
+      "meaningVn": "Tôi đến từ Pháp.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "프랑스에서 왔어요.",
+          "meaningVn": "Tôi đến từ Pháp."
+        },
+        {
+          "korean": "저는 프랑스에서 왔어요. 이름은 줄리앙이에요.",
+          "meaningVn": "Tôi đến từ Pháp. Tên tôi là Julian."
+        }
+      ]
+    },
+    {
+      "korean": "서울역에는 무슨 일이세요? 여행 가세요?",
+      "romanization": "Seoul-yeog-eneun museun iriseyo? yeohaeng gaseyo?",
+      "meaningVn": "Ở Ga Seoul có việc gì không? Bạn đi du lịch à?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "서울역에는 무슨 일이세요? 여행 가세요?",
+          "meaningVn": "Ở Ga Seoul có việc gì không? Bạn đi du lịch à?"
+        },
+        {
+          "korean": "오늘 서울역에는 무슨 일이세요? 무슨 행사 있어요?",
+          "meaningVn": "Hôm nay ở Ga Seoul có việc gì không? Có sự kiện gì không?"
+        }
+      ]
+    },
+    {
+      "korean": "네, 친구하고 같이 부산으로 여행을 갈 거예요.",
+      "romanization": "Ne, chingu-hago gachi Busaneuro yeohaeng-eul gal geoyeyo.",
+      "meaningVn": "Vâng, tôi sẽ đi du lịch đến Busan cùng với bạn.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "네, 친구하고 같이 부산으로 여행을 갈 거예요.",
+          "meaningVn": "Vâng, tôi sẽ đi du lịch đến Busan cùng với bạn."
+        },
+        {
+          "korean": "혹시 여행 가세요? 네, 친구하고 같이 부산으로 여행을 갈 거예요.",
+          "meaningVn": "Có phải bạn đi du lịch không? Vâng, tôi sẽ đi du lịch đến Busan cùng với bạn."
+        }
+      ]
+    },
+    {
+      "korean": "한국말을 아주 잘하시네요.",
+      "romanization": "Hangungmal-eul aju jalhasineyo.",
+      "meaningVn": "Bạn nói tiếng Hàn rất giỏi.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "한국말을 아주 잘하시네요.",
+          "meaningVn": "Bạn nói tiếng Hàn rất giỏi."
+        },
+        {
+          "korean": "와, 한국말을 아주 잘하시네요!",
+          "meaningVn": "Ồ, bạn nói tiếng Hàn rất giỏi!"
+        }
+      ]
+    },
+    {
+      "korean": "뭘요, 아직 잘 못해요.",
+      "romanization": "Mwolyo, ajik jal motaeyo.",
+      "meaningVn": "Không có gì, tôi vẫn chưa nói tốt lắm.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "뭘요, 아직 잘 못해요.",
+          "meaningVn": "Không có gì, tôi vẫn chưa nói tốt lắm."
+        },
+        {
+          "korean": "정말 잘하시네요! 뭘요, 아직 잘 못해요.",
+          "meaningVn": "Bạn giỏi thật! Không có gì, tôi vẫn chưa nói tốt lắm."
+        }
+      ]
+    },
+    {
+      "korean": "아저씨, 저기 버스 정류장에서 세워 주세요.",
+      "romanization": "Ajeossi, jeogi beoseu jeongnyujang-eseo sewǒ juseyo.",
+      "meaningVn": "Chú ơi, làm ơn dừng lại ở bến xe buýt đằng kia cho cháu.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "아저씨, 저기 버스 정류장에서 세워 주세요.",
+          "meaningVn": "Chú ơi, làm ơn dừng lại ở bến xe buýt đằng kia cho cháu."
+        },
+        {
+          "korean": "기사님, 저기 버스 정류장에서 세워 주세요.",
+          "meaningVn": "Anh tài xế, làm ơn dừng lại ở bến xe buýt đằng kia cho tôi."
+        }
+      ]
+    },
+    {
+      "korean": "네, 알겠습니다.",
+      "romanization": "Ne, algesseumnida.",
+      "meaningVn": "Vâng, tôi hiểu rồi.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "네, 알겠습니다.",
+          "meaningVn": "Vâng, tôi hiểu rồi."
+        },
+        {
+          "korean": "이 주소를 찾아가면 돼요. 네, 알겠습니다.",
+          "meaningVn": "Bạn cứ đi theo địa chỉ này. Vâng, tôi hiểu rồi."
+        }
+      ]
+    },
+    {
+      "korean": "고맙습니다.",
+      "romanization": "Gomapseumnida.",
+      "meaningVn": "Cảm ơn ạ.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "고맙습니다.",
+          "meaningVn": "Cảm ơn ạ."
+        },
+        {
+          "korean": "도와주셔서 고맙습니다.",
+          "meaningVn": "Cảm ơn bạn đã giúp đỡ."
+        }
+      ]
+    },
+    {
+      "korean": "어서 오세요.",
+      "romanization": "eoseo oseyo",
+      "meaningVn": "Xin chào mừng, mời vào.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어서 오세요.",
+          "meaningVn": "Xin chào mừng."
+        },
+        {
+          "korean": "택시 기사: 어서 오세요. 어디로 갈까요?",
+          "meaningVn": "Tài xế taxi: Xin chào mừng. Anh đi đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "어디로 갈까요?",
+      "romanization": "eodiro galkkayo?",
+      "meaningVn": "Chúng ta đi đâu?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "어디로 갈까요?",
+          "meaningVn": "Chúng ta đi đâu?"
+        },
+        {
+          "korean": "손님: 서울역으로 가 주세요. 택시 기사: 네, 어디로 갈까요?",
+          "meaningVn": "Khách: Làm ơn đi đến Ga Seoul cho tôi. Tài xế taxi: Vâng, chúng ta đi đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "얼마나 걸려요?",
+      "romanization": "eolmana geollyeoyo?",
+      "meaningVn": "Mất bao lâu?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đến...?"
+        },
+        {
+          "korean": "여기까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đến đây?"
+        }
+      ]
+    },
+    {
+      "korean": "에서 세워 주세요.",
+      "romanization": "eseo sewǒ juseyo.",
+      "meaningVn": "Làm ơn dừng lại ở...",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "버스 정류장에서 세워 주세요.",
+          "meaningVn": "Làm ơn dừng lại ở bến xe buýt."
+        },
+        {
+          "korean": "여기에서 세워 주세요.",
+          "meaningVn": "Làm ơn dừng lại ở đây."
+        }
+      ]
+    },
+    {
+      "korean": "얼마예요?",
+      "romanization": "eolmayeyo?",
+      "meaningVn": "Bao nhiêu tiền?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "이거 얼마예요?",
+          "meaningVn": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "korean": "택시비가 얼마예요?",
+          "meaningVn": "Phí taxi là bao nhiêu?"
+        }
+      ]
+    },
+    {
+      "korean": "여기 있어요.",
+      "romanization": "yeogi isseoyo.",
+      "meaningVn": "Đây ạ.",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "돈 여기 있어요.",
+          "meaningVn": "Tiền đây ạ."
+        },
+        {
+          "korean": "표 여기 있어요.",
+          "meaningVn": "Vé đây ạ."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "A-는/는 동안",
+      "titleVn": "Trong khi A",
+      "explanationVn": "Diễn tả một hành động hoặc trạng thái xảy ra trong suốt một khoảng thời gian được xác định bởi danh từ theo sau. Thường dùng với các từ chỉ thời gian hoặc sự kiện.",
+      "rule": "Danh từ + 동안",
+      "examples": [
+        {
+          "korean": "방학 동안 한국어를 공부했어요.",
+          "meaningVn": "Tôi đã học tiếng Hàn trong suốt kỳ nghỉ."
+        },
+        {
+          "korean": "여행하는 동안 즐거웠어요.",
+          "meaningVn": "Tôi đã rất vui trong suốt chuyến đi du lịch."
+        },
+        {
+          "korean": " 수업 시간 동안 조용히 해 주세요.",
+          "meaningVn": "Xin hãy giữ im lặng trong suốt giờ học."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "여행 ___ 고향에 갈 거예요.",
+          "answer": "동안"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "주말 ___ 영화를 봤어요.",
+          "answer": "동안",
+          "options": [
+            "동안",
+            "때",
+            "부터",
+            "까지"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Trong khi học tiếng Hàn, tôi đã gặp nhiều bạn.",
+          "answer": "한국어를 공부하는 동안 많은 친구를 만났어요.",
+          "options": [
+            "한국어를",
+            "공부하는",
+            "동안",
+            "많은",
+            "친구를",
+            "만났어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "V-려고 하다",
+      "titleVn": "Định làm gì",
+      "explanationVn": "Diễn tả ý định hoặc kế hoạch của người nói. Động từ gốc bỏ '다' và thêm '려고 하다'.",
+      "rule": "Động từ gốc + 려고 하다",
+      "pronunciationTip": "Khi phát âm '려고', âm 'ㄱ' ở '려고' có thể nghe nhẹ đi hoặc biến âm tùy theo người nói.",
+      "examples": [
+        {
+          "korean": "오늘 친구를 만나려고 해요.",
+          "meaningVn": "Hôm nay tôi định gặp bạn."
+        },
+        {
+          "korean": "내일 부산에 가려고 해요.",
+          "meaningVn": "Ngày mai tôi định đi Busan."
+        },
+        {
+          "korean": "이 책을 읽으려고 샀어요.",
+          "meaningVn": "Tôi đã mua cuốn sách này để đọc."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "지금 집에 ___ 해요.",
+          "answer": "가려고"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저는 여행을 ___.",
+          "answer": "가려고 해요",
+          "options": [
+            "가려고 해요",
+            "가요",
+            "갈 거예요",
+            "갈게요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi định đi du lịch nước ngoài.",
+          "answer": "저는 해외여행을 가려고 해요.",
+          "options": [
+            "저는",
+            "해외여행을",
+            "가려고",
+            "해요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "N(으)로",
+      "titleVn": "Bằng, với (phương tiện)",
+      "explanationVn": "Dùng để chỉ phương tiện di chuyển hoặc công cụ. Gắn '로' sau danh từ không có 받침, và '으로' sau danh từ có 받침.",
+      "rule": "받침 없으면 → 로 | 받침 있으면 → 으로",
+      "examples": [
+        {
+          "korean": "버스로 가요.",
+          "meaningVn": "Tôi đi bằng xe buýt."
+        },
+        {
+          "korean": "기차으로 왔어요.",
+          "meaningVn": "Tôi đã đến bằng tàu hỏa."
+        },
+        {
+          "korean": "친구하고 같이 택시로 갔어요.",
+          "meaningVn": "Tôi đã đi bằng taxi cùng với bạn."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "여기 ___ 가세요.",
+          "answer": "로"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저는 비행기 ___ 갈 거예요.",
+          "answer": "로",
+          "options": [
+            "로",
+            "으로",
+            "에서",
+            "까지"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Đi đến trường bằng xe đạp.",
+          "answer": "자전거로 학교에 가세요.",
+          "options": [
+            "자전거로",
+            "학교에",
+            "가세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "V-아/어 주다",
+      "titleVn": "Làm V cho ai đó (nhờ vả, đề nghị, hoặc đã làm)",
+      "explanationVn": "Diễn tả hành động giúp đỡ ai đó. '주다' được chia theo kính ngữ và thì. Với những động từ kết thúc bằng 'ㅏ' hoặc 'ㅗ', ta dùng '아 주다'. Với những động từ kết thúc bằng 'ㅓ' hoặc 'ㅜ', 'ㅡ', ta dùng '어 주다'. Động từ '하다' dùng với '여 주다' (해 주다).",
+      "rule": "ㅏ, ㅗ → 아 주다 | ㅓ, ㅜ, ㅡ → 어 주다 | 하다 → 하여 주다 (해 주다)",
+      "pronunciationTip": "Khi '아/어 주다' kết hợp lại, nó thường được rút gọn thành '아/어 줘'. Ví dụ: '알아 주다' thành '알아 줘'.",
+      "examples": [
+        {
+          "korean": "친구가 숙제를 도와주었어요.",
+          "meaningVn": "Bạn đã giúp tôi làm bài tập."
+        },
+        {
+          "korean": "이것 좀 잡아 주세요.",
+          "meaningVn": "Làm ơn cầm cái này giúp tôi."
+        },
+        {
+          "korean": "선생님께 질문을 했어요.",
+          "meaningVn": "Tôi đã hỏi giáo viên một câu hỏi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "좀 도와 ___ 주세요.",
+          "answer": "주"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "이것 좀 ___ 주세요.",
+          "answer": "알아",
+          "options": [
+            "먹어",
+            "알아",
+            "자",
+            "가"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Làm ơn viết cho tôi.",
+          "answer": "저에게 써 주세요.",
+          "options": [
+            "저에게",
+            "써",
+            "주세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 5,
+      "pattern": "N(으)로",
+      "titleVn": "Đến, về phía (hướng)",
+      "explanationVn": "Dùng để chỉ hướng đi hoặc đích đến. Gắn '로' sau danh từ không có 받침, và '으로' sau danh từ có 받침.",
+      "rule": "받침 없으면 → 로 | 받침 있으면 → 으로",
+      "examples": [
+        {
+          "korean": "서울대학교로 가세요.",
+          "meaningVn": "Hãy đi đến Đại học Quốc gia Seoul."
+        },
+        {
+          "korean": "집으로 돌아왔어요.",
+          "meaningVn": "Tôi đã trở về nhà."
+        },
+        {
+          "korean": "정류장으로 바로 가세요.",
+          "meaningVn": "Hãy đi thẳng đến bến xe."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "서울역 ___ 가세요.",
+          "answer": "으로"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "집 ___ 가고 싶어요.",
+          "answer": "으로",
+          "options": [
+            "로",
+            "으로",
+            "에서",
+            "까지"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Đi đến bệnh viện.",
+          "answer": "병원으로 가세요.",
+          "options": [
+            "병원으로",
+            "가세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 6,
+      "pattern": "V-아/어 주다",
+      "titleVn": "Làm V cho ai đó (dùng trong hội thoại)",
+      "explanationVn": "Đây là cách sử dụng phổ biến của '-아/어 주다' trong hội thoại, khi một người đề nghị giúp đỡ, nhờ vả hoặc thông báo một hành động đã làm cho người khác. Nó mang sắc thái lịch sự và thân thiện.",
+      "rule": "Động từ gốc + 아/어 주다",
+      "examples": [
+        {
+          "korean": "내일 좀 도와줄 수 있어요?",
+          "meaningVn": "Ngày mai bạn có thể giúp tôi một chút được không?"
+        },
+        {
+          "korean": "이것 좀 잡아 줄래요?",
+          "meaningVn": "Cậu có thể cầm cái này giúp tớ được không?"
+        },
+        {
+          "korean": "제가 계산해 드릴게요.",
+          "meaningVn": "Tôi sẽ thanh toán cho bạn."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "제가 ___ 드릴게요.",
+          "answer": "계산해"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "내일 ___ 줄 수 있어요?",
+          "answer": "도와",
+          "options": [
+            "먹어",
+            "가",
+            "도와",
+            "봐"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Bạn có thể chỉ đường cho tôi không?",
+          "answer": "길 좀 가르쳐 줄 수 있어요?",
+          "options": [
+            "길",
+            "좀",
+            "가르쳐",
+            "줄",
+            "수",
+            "있어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 7,
+      "pattern": "A-은/ㄴ",
+      "titleVn": "Bổ nghĩa cho danh từ (tính từ)",
+      "explanationVn": "Dùng để bổ nghĩa cho danh từ, làm rõ đặc điểm của danh từ đó. Tính từ bỏ '다' và thêm '은' (nếu có 받침) hoặc 'ㄴ' (nếu không có 받침).",
+      "rule": "받침 있으면 → 은 | 받침 없으면 → ㄴ",
+      "examples": [
+        {
+          "korean": "따뜻한 커피를 마실까요?",
+          "meaningVn": "Chúng ta uống cà phê ấm nhé?"
+        },
+        {
+          "korean": "긴 코트를 샀어요.",
+          "meaningVn": "Tôi đã mua một chiếc áo khoác dài."
+        },
+        {
+          "korean": "짧은 치마가 유행이에요.",
+          "meaningVn": "Váy ngắn đang thịnh hành."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "___ 커피를 마시고 싶어요.",
+          "answer": "따뜻한"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "나는 ___ 사람이에요.",
+          "answer": "좋은",
+          "options": [
+            "좋은",
+            "좋다",
+            "좋아서",
+            "좋으니"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Cái áo sơ mi đó là của ai?",
+          "answer": "그 셔츠는 누구 거예요?",
+          "options": [
+            "그",
+            "셔츠는",
+            "누구",
+            "거예요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 8,
+      "pattern": "V-아/어 보세요",
+      "titleVn": "Hãy thử làm V",
+      "explanationVn": "Dùng để khuyên ai đó hãy thử làm một hành động nào đó. Nó mang tính gợi ý, khuyến khích người nghe trải nghiệm.",
+      "rule": "Động từ gốc + 아/어 보세요",
+      "examples": [
+        {
+          "korean": "이 옷을 입어 보세요.",
+          "meaningVn": "Hãy thử mặc bộ quần áo này xem."
+        },
+        {
+          "korean": "음식을 한번 먹어 보세요.",
+          "meaningVn": "Hãy thử ăn món ăn này một lần xem."
+        },
+        {
+          "korean": "이 책을 읽어 보세요.",
+          "meaningVn": "Hãy thử đọc cuốn sách này xem."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이것 좀 ___ 보세요.",
+          "answer": "입어"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "맛있는 음식이니 ___ 보세요.",
+          "answer": "먹어",
+          "options": [
+            "먹어",
+            "먹어요",
+            "먹습시다",
+            "먹으세요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Hãy thử đi bộ.",
+          "answer": "한번 걸어 보세요.",
+          "options": [
+            "한번",
+            "걸어",
+            "보세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 9,
+      "pattern": "V-기 위해서",
+      "titleVn": "Để làm V",
+      "explanationVn": "Diễn tả mục đích của một hành động. Động từ bỏ '다' và thêm '기 위해서'.",
+      "rule": "Động từ gốc + 기 위해서",
+      "examples": [
+        {
+          "korean": "한국어를 배우기 위해서 한국에 왔어요.",
+          "meaningVn": "Tôi đến Hàn Quốc để học tiếng Hàn."
+        },
+        {
+          "korean": "건강을 위해서 운동을 해요.",
+          "meaningVn": "Tôi tập thể dục để có sức khỏe tốt."
+        },
+        {
+          "korean": "시험에 합격하기 위해서 열심히 공부했어요.",
+          "meaningVn": "Tôi đã học hành chăm chỉ để đỗ kỳ thi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "한국에 ___ 왔어요.",
+          "answer": "배우기 위해서"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "돈을 ___ 열심히 일해요.",
+          "answer": "벌기 위해서",
+          "options": [
+            "벌기 위해서",
+            "벌어서",
+            "벌고",
+            "벌다"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đã đi đến thư viện để mượn sách.",
+          "answer": "책을 빌리기 위해서 도서관에 갔어요.",
+          "options": [
+            "책을",
+            "빌리기",
+            "위해서",
+            "도서관에",
+            "갔어요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 10,
+      "pattern": "A/V-아/어서",
+      "titleVn": "Nối câu (nguyên nhân - kết quả, trình tự)",
+      "explanationVn": "Nối hai mệnh đề. Có thể chỉ nguyên nhân - kết quả ('vì... nên...') hoặc trình tự các hành động xảy ra liên tiếp. Động từ/tính từ bỏ '다' và thêm '아서/어서'.",
+      "rule": "ㅏ, ㅗ → 아서 | ㅓ, ㅜ, ㅡ, 하다 → 어서",
+      "pronunciationTip": "Khi phát âm '어서', âm 'ㅓ' có thể biến đổi tùy theo ngữ cảnh.",
+      "examples": [
+        {
+          "korean": "배가 아파서 학교에 못 갔어요.",
+          "meaningVn": "Vì đau bụng nên tôi đã không thể đến trường."
+        },
+        {
+          "korean": "집에 가서 밥을 먹을 거예요.",
+          "meaningVn": "Tôi sẽ về nhà và ăn cơm."
+        },
+        {
+          "korean": "날씨가 좋아서 밖에 나갔어요.",
+          "meaningVn": "Vì thời tiết đẹp nên tôi đã ra ngoài."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "늦어서 ___.",
+          "answer": "미안해요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "날씨가 추워서 ___.",
+          "answer": "집에 있어요",
+          "options": [
+            "집에 있어요",
+            "추워요",
+            "나가요",
+            "먹어요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Vì tôi bận nên tôi đã không thể đi.",
+          "answer": "바빠서 못 갔어요.",
+          "options": [
+            "바빠서",
+            "못",
+            "갔어요"
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        {
+          "speaker": "기사",
+          "korean": "어서 오세요.",
+          "meaningVn": "Chào mừng."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "서울역으로 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Ga Seoul cho tôi."
+        },
+        {
+          "speaker": "기사",
+          "korean": "외국인이시네요. 어느 나라에서 오셨어요?",
+          "meaningVn": "Anh/chị là người nước ngoài. Anh/chị đến từ nước nào?"
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "프랑스에서 왔어요.",
+          "meaningVn": "Tôi đến từ Pháp."
+        },
+        {
+          "speaker": "기사",
+          "korean": "서울역에는 무슨 일이세요? 여행 가세요?",
+          "meaningVn": "Ở Ga Seoul có việc gì không? Bạn đi du lịch à?"
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "네, 친구하고 같이 부산으로 여행을 갈 거예요.",
+          "meaningVn": "Vâng, tôi sẽ đi du lịch đến Busan cùng với bạn."
+        },
+        {
+          "speaker": "기사",
+          "korean": "한국말을 아주 잘하시네요.",
+          "meaningVn": "Bạn nói tiếng Hàn rất giỏi."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "뭘요, 아직 잘 못해요.",
+          "meaningVn": "Không có gì, tôi vẫn chưa nói tốt lắm."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "아저씨, 저기 버스 정류장에서 세워 주세요.",
+          "meaningVn": "Chú ơi, làm ơn dừng lại ở bến xe buýt đằng kia cho cháu."
+        },
+        {
+          "speaker": "기사",
+          "korean": "네, 알겠습니다.",
+          "meaningVn": "Vâng, tôi hiểu rồi."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "고맙습니다.",
+          "meaningVn": "Cảm ơn ạ."
+        }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        {
+          "speaker": "택시 기사",
+          "korean": "어서 오세요. 어디로 갈까요?",
+          "meaningVn": "Chào mừng. Anh/chị đi đâu?"
+        },
+        {
+          "speaker": "손님",
+          "korean": "서울대학교로 가 주세요.",
+          "meaningVn": "Làm ơn đi đến Đại học Quốc gia Seoul cho tôi."
+        },
+        {
+          "speaker": "택시 기사",
+          "korean": "네, 알겠습니다.",
+          "meaningVn": "Vâng, tôi hiểu rồi."
+        },
+        {
+          "speaker": "손님",
+          "korean": "여기까지 얼마나 걸려요?",
+          "meaningVn": "Mất bao lâu để đến đây?"
+        },
+        {
+          "speaker": "택시 기사",
+          "korean": "약 30분 걸려요.",
+          "meaningVn": "Mất khoảng 30 phút."
+        },
+        {
+          "speaker": "손님",
+          "korean": "네, 알겠습니다. 그럼 거기에서 세워 주세요.",
+          "meaningVn": "Vâng, tôi hiểu rồi. Vậy thì, làm ơn dừng lại ở đó."
+        },
+        {
+          "speaker": "택시 기사",
+          "korean": "네, 알겠습니다. 얼마예요?",
+          "meaningVn": "Vâng, tôi hiểu rồi. Bao nhiêu tiền ạ?"
+        },
+        {
+          "speaker": "손님",
+          "korean": "만 2천 원입니다.",
+          "meaningVn": "12.000 won ạ."
+        },
+        {
+          "speaker": "택시 기사",
+          "korean": "여기 있어요.",
+          "meaningVn": "Đây ạ."
+        },
+        {
+          "speaker": "손님",
+          "korean": "고맙습니다.",
+          "meaningVn": "Cảm ơn ạ."
+        }
+      ]
+    }
+  ],
+  "pronunciation": []
+}

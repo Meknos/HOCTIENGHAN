@@ -1,0 +1,80 @@
+{
+  "unit": 1,
+  "titleKr": "안녕하세요?",
+  "titleVn": "Xin chào",
+  "topic": "Quốc tịch, Nghề nghiệp",
+  "vocabulary": [
+    { "korean": "안녕하세요", "romanization": "annyeonghaseyo", "meaningVn": "xin chào", "meaningEn": "hello", "pos": "expression", "examples": [{ "korean": "안녕하세요? 저는 민수예요.", "meaningVn": "Xin chào? Tôi là Minsu." }] },
+    { "korean": "저", "romanization": "jeo", "meaningVn": "tôi (khiêm tốn)", "meaningEn": "I (humble)", "pos": "noun", "examples": [{ "korean": "저는 학생이에요.", "meaningVn": "Tôi là học sinh." }] },
+    { "korean": "이름", "romanization": "ireum", "meaningVn": "tên", "meaningEn": "name", "pos": "noun", "examples": [{ "korean": "이름이 뭐예요?", "meaningVn": "Tên bạn là gì?" }] },
+    { "korean": "나라", "romanization": "nara", "meaningVn": "đất nước", "meaningEn": "country", "pos": "noun", "examples": [{ "korean": "어느 나라 사람이에요?", "meaningVn": "Bạn là người nước nào?" }] },
+    { "korean": "사람", "romanization": "saram", "meaningVn": "người", "meaningEn": "person", "pos": "noun", "examples": [{ "korean": "저는 베트남 사람이에요.", "meaningVn": "Tôi là người Việt Nam." }] },
+    { "korean": "한국", "romanization": "hanguk", "meaningVn": "Hàn Quốc", "meaningEn": "Korea", "pos": "noun", "examples": [{ "korean": "한국 사람이에요.", "meaningVn": "Là người Hàn Quốc." }] },
+    { "korean": "베트남", "romanization": "beteunam", "meaningVn": "Việt Nam", "meaningEn": "Vietnam", "pos": "noun", "examples": [{ "korean": "저는 베트남에서 왔어요.", "meaningVn": "Tôi đến từ Việt Nam." }] },
+    { "korean": "중국", "romanization": "jungguk", "meaningVn": "Trung Quốc", "meaningEn": "China", "pos": "noun", "examples": [{ "korean": "그 사람은 중국 사람이에요.", "meaningVn": "Người đó là người Trung Quốc." }] },
+    { "korean": "일본", "romanization": "ilbon", "meaningVn": "Nhật Bản", "meaningEn": "Japan", "pos": "noun", "examples": [{ "korean": "일본 사람이에요?", "meaningVn": "Bạn là người Nhật à?" }] },
+    { "korean": "미국", "romanization": "miguk", "meaningVn": "Mỹ", "meaningEn": "USA", "pos": "noun", "examples": [{ "korean": "미국 사람이 아니에요.", "meaningVn": "Không phải người Mỹ." }] },
+    { "korean": "학생", "romanization": "haksaeng", "meaningVn": "học sinh", "meaningEn": "student", "pos": "noun", "examples": [{ "korean": "저는 학생이에요.", "meaningVn": "Tôi là học sinh." }] },
+    { "korean": "선생님", "romanization": "seonsaengnim", "meaningVn": "giáo viên", "meaningEn": "teacher", "pos": "noun", "examples": [{ "korean": "김 선생님이에요.", "meaningVn": "Là cô/thầy Kim." }] },
+    { "korean": "의사", "romanization": "uisa", "meaningVn": "bác sĩ", "meaningEn": "doctor", "pos": "noun", "examples": [{ "korean": "제 친구는 의사예요.", "meaningVn": "Bạn tôi là bác sĩ." }] },
+    { "korean": "회사원", "romanization": "hoesawon", "meaningVn": "nhân viên công ty", "meaningEn": "office worker", "pos": "noun", "examples": [{ "korean": "저는 회사원이에요.", "meaningVn": "Tôi là nhân viên công ty." }] },
+    { "korean": "군인", "romanization": "gunin", "meaningVn": "quân nhân", "meaningEn": "soldier", "pos": "noun", "examples": [{ "korean": "그분은 군인입니다.", "meaningVn": "Vị đó là quân nhân." }] },
+    { "korean": "가수", "romanization": "gasu", "meaningVn": "ca sĩ", "meaningEn": "singer", "pos": "noun", "examples": [{ "korean": "저는 가수가 아니에요.", "meaningVn": "Tôi không phải ca sĩ." }] },
+    { "korean": "네", "romanization": "ne", "meaningVn": "vâng / đúng vậy", "meaningEn": "yes", "pos": "expression", "examples": [{ "korean": "네, 맞아요.", "meaningVn": "Vâng, đúng rồi." }] },
+    { "korean": "아니요", "romanization": "aniyo", "meaningVn": "không", "meaningEn": "no", "pos": "expression", "examples": [{ "korean": "아니요, 학생이 아니에요.", "meaningVn": "Không, không phải học sinh." }] },
+    { "korean": "씨", "romanization": "ssi", "meaningVn": "anh/chị/cô (sau tên)", "meaningEn": "Mr./Ms.", "pos": "noun", "examples": [{ "korean": "민수 씨, 안녕하세요?", "meaningVn": "Anh Minsu, xin chào?" }] },
+    { "korean": "만나서 반갑습니다", "romanization": "mannaseo bangapseumnida", "meaningVn": "rất vui được gặp bạn", "meaningEn": "nice to meet you", "pos": "expression", "examples": [{ "korean": "만나서 반갑습니다.", "meaningVn": "Rất vui được gặp bạn." }] }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N은/는 N이에요/예요",
+      "titleVn": "Câu khẳng định: N là N (thể thân mật lịch sự)",
+      "explanationVn": "Dùng để giới thiệu hoặc định nghĩa. 은/는 là trợ từ chủ đề; 이에요/예요 là vị ngữ 'là'. Chọn theo âm cuối (받침) của danh từ.",
+      "rule": "받침 O → 은 · 이에요  |  받침 X → 는 · 예요",
+      "examples": [
+        { "korean": "저는 유진이에요.", "meaningVn": "Tôi là Yujin." },
+        { "korean": "나나 씨는 학생이에요.", "meaningVn": "Chị Nana là học sinh." },
+        { "korean": "저는 의사예요.", "meaningVn": "Tôi là bác sĩ." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "저___ 학생이에요. (tôi → trợ từ chủ đề)", "answer": "는" },
+        { "type": "fill_blank", "question": "민수 씨는 회사원___. (là → có 받침)", "answer": "이에요" },
+        { "type": "multiple_choice", "question": "저는 가수___.", "answer": "예요", "options": ["예요", "이에요", "은", "가"] },
+        { "type": "reorder", "question": "Sắp xếp thành câu: \"Tôi là học sinh.\"", "answer": "저는 학생이에요", "options": ["학생이에요", "저는"] }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N입니까? / N입니다",
+      "titleVn": "Thể trang trọng (격식체): câu hỏi và khẳng định",
+      "explanationVn": "Thể 합니다 trang trọng, dùng trong tình huống lịch sự/trang nghiêm. 입니다 = khẳng định 'là', 입니까? = câu hỏi 'có phải là...?'.",
+      "rule": "Khẳng định: N + 입니다  |  Hỏi: N + 입니까?",
+      "examples": [
+        { "korean": "저는 베트남 사람입니다.", "meaningVn": "Tôi là người Việt Nam." },
+        { "korean": "학생입니까?", "meaningVn": "Bạn là học sinh phải không?" },
+        { "korean": "네, 회사원입니다.", "meaningVn": "Vâng, tôi là nhân viên công ty." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "선생님___? (câu hỏi trang trọng)", "answer": "입니까" },
+        { "type": "multiple_choice", "question": "저는 군인___.", "answer": "입니다", "options": ["입니다", "입니까", "이에요", "예요"] }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "N이/가 아니에요",
+      "titleVn": "Câu phủ định: N không phải là N",
+      "explanationVn": "Phủ định của 이에요/예요. Danh từ đứng trước gắn trợ từ 이/가 (theo 받침), theo sau là 아니에요 (thân mật) hoặc 아닙니다 (trang trọng).",
+      "rule": "받침 O → 이 아니에요  |  받침 X → 가 아니에요",
+      "examples": [
+        { "korean": "저는 학생이 아니에요.", "meaningVn": "Tôi không phải học sinh." },
+        { "korean": "가수가 아니에요.", "meaningVn": "Không phải ca sĩ." },
+        { "korean": "미국 사람이 아닙니다.", "meaningVn": "Không phải người Mỹ." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "저는 의사___ 아니에요. (받침 X)", "answer": "가" },
+        { "type": "fill_blank", "question": "학생___ 아니에요. (받침 O)", "answer": "이" }
+      ]
+    }
+  ]
+}

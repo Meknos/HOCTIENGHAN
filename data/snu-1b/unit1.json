@@ -1,0 +1,1721 @@
+{
+  "unit": 9,
+  "titleKr": "이분은 누구세요?",
+  "titleVn": "Đây là ai?",
+  "topic": "Giới thiệu người thân, nghề nghiệp, tuổi tác",
+  "vocabulary": [
+    {
+      "korean": "가족",
+      "romanization": "gajok",
+      "meaningVn": "gia đình",
+      "meaningEn": "family",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 저희 가족이에요.",
+          "meaningVn": "Đây là gia đình tôi."
+        },
+        {
+          "korean": "가족이 몇 명이에요?",
+          "meaningVn": "Gia đình bạn có mấy người?"
+        }
+      ]
+    },
+    {
+      "korean": "할머니",
+      "romanization": "halmeoni",
+      "meaningVn": "bà",
+      "meaningEn": "grandmother",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "할머니, 안녕하세요?",
+          "meaningVn": "Chào bà ạ?"
+        },
+        {
+          "korean": "저희 할머니는 80세세요.",
+          "meaningVn": "Bà tôi 80 tuổi ạ."
+        }
+      ]
+    },
+    {
+      "korean": "할아버지",
+      "romanization": "harabeoji",
+      "meaningVn": "ông",
+      "meaningEn": "grandfather",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "할아버지, 안녕하세요?",
+          "meaningVn": "Chào ông ạ?"
+        },
+        {
+          "korean": "저희 할아버지는 75세세요.",
+          "meaningVn": "Ông tôi 75 tuổi ạ."
+        }
+      ]
+    },
+    {
+      "korean": "어머니",
+      "romanization": "meoni",
+      "meaningVn": "mẹ",
+      "meaningEn": "mother",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 어머니세요.",
+          "meaningVn": "Đây là mẹ tôi."
+        },
+        {
+          "korean": "어머니는 한국 음식을 좋아하세요.",
+          "meaningVn": "Mẹ tôi thích món ăn Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "아버지",
+      "romanization": "abeoji",
+      "meaningVn": "bố",
+      "meaningEn": "father",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 저희 아버지세요.",
+          "meaningVn": "Đây là bố tôi."
+        },
+        {
+          "korean": "아버지께서는 회사원이세요.",
+          "meaningVn": "Bố tôi là nhân viên công ty."
+        }
+      ]
+    },
+    {
+      "korean": "누나",
+      "romanization": "nuna",
+      "meaningVn": "chị gái (gọi bởi em trai)",
+      "meaningEn": "older sister (called by a male)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 누나예요.",
+          "meaningVn": "Đây là chị gái tôi."
+        },
+        {
+          "korean": "누나, 뭐 하고 있어요?",
+          "meaningVn": "Chị ơi, chị đang làm gì vậy?"
+        }
+      ]
+    },
+    {
+      "korean": "형",
+      "romanization": "hyeong",
+      "meaningVn": "anh trai (gọi bởi em trai)",
+      "meaningEn": "older brother (called by a male)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 형이에요.",
+          "meaningVn": "Đây là anh trai tôi."
+        },
+        {
+          "korean": "형, 안녕하세요?",
+          "meaningVn": "Anh ơi, chào anh ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "언니",
+      "romanization": "eonni",
+      "meaningVn": "chị gái (gọi bởi em gái)",
+      "meaningEn": "older sister (called by a female)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 언니예요.",
+          "meaningVn": "Đây là chị gái tôi."
+        },
+        {
+          "korean": "언니, 만나서 반가워요.",
+          "meaningVn": "Chị ơi, rất vui được gặp chị ạ."
+        }
+      ]
+    },
+    {
+      "korean": "오빠",
+      "romanization": "oppa",
+      "meaningVn": "anh trai (gọi bởi em gái)",
+      "meaningEn": "older brother (called by a female)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 오빠예요.",
+          "meaningVn": "Đây là anh trai tôi."
+        },
+        {
+          "korean": "오빠, 뭐 하세요?",
+          "meaningVn": "Anh ơi, anh đang làm gì vậy ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "여동생",
+      "romanization": "yeodongsaeng",
+      "meaningVn": "em gái",
+      "meaningEn": "younger sister",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 여동생이에요.",
+          "meaningVn": "Đây là em gái tôi."
+        },
+        {
+          "korean": "여동생은 대학교에 다녀요.",
+          "meaningVn": "Em gái tôi đang học đại học."
+        }
+      ]
+    },
+    {
+      "korean": "남동생",
+      "romanization": "namdongsaeng",
+      "meaningVn": "em trai",
+      "meaningEn": "younger brother",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 남동생이에요.",
+          "meaningVn": "Đây là em trai tôi."
+        },
+        {
+          "korean": "남동생은 은행에 다녀요.",
+          "meaningVn": "Em trai tôi làm việc ở ngân hàng."
+        }
+      ]
+    },
+    {
+      "korean": "숫자 3",
+      "romanization": "sutja sam",
+      "meaningVn": "số 3",
+      "meaningEn": "number 3",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "세 명이에요.",
+          "meaningVn": "Có ba người."
+        },
+        {
+          "korean": "세 권 있어요.",
+          "meaningVn": "Có ba quyển."
+        }
+      ]
+    },
+    {
+      "korean": "높임말",
+      "romanization": "nopimmal",
+      "meaningVn": "từ ngữ kính ngữ",
+      "meaningEn": "honorific language",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "높임말을 사용하세요.",
+          "meaningVn": "Hãy sử dụng kính ngữ."
+        },
+        {
+          "korean": "이름 대신에 높임말을 써요.",
+          "meaningVn": "Sử dụng kính ngữ thay cho tên."
+        }
+      ]
+    },
+    {
+      "korean": "만나서 반가워요",
+      "romanization": "mannaseo bangawoyo",
+      "meaningVn": "Rất vui được gặp bạn",
+      "meaningEn": "Nice to meet you",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "안녕하세요? 만나서 반가워요.",
+          "meaningVn": "Xin chào? Rất vui được gặp bạn."
+        },
+        {
+          "korean": "처음 뵙겠습니다. 만나서 반가워요.",
+          "meaningVn": "Lần đầu gặp mặt. Rất vui được gặp bạn."
+        }
+      ]
+    },
+    {
+      "korean": "댁",
+      "romanization": "daek",
+      "meaningVn": "nhà (kính ngữ)",
+      "meaningEn": "house (honorific)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "선생님 댁에 방문했어요.",
+          "meaningVn": "Tôi đã đến thăm nhà giáo viên."
+        },
+        {
+          "korean": "댁에 잘 가세요.",
+          "meaningVn": "Chúc bạn về nhà an toàn."
+        }
+      ]
+    },
+    {
+      "korean": "연세",
+      "romanization": "yeonse",
+      "meaningVn": "tuổi (kính ngữ)",
+      "meaningEn": "age (honorific)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "연세가 어떻게 되세요?",
+          "meaningVn": "Ngài bao nhiêu tuổi ạ?"
+        },
+        {
+          "korean": "연세가 많으세요.",
+          "meaningVn": "Ngài lớn tuổi rồi ạ."
+        }
+      ]
+    },
+    {
+      "korean": "성함",
+      "romanization": "seongham",
+      "meaningVn": "tên (kính ngữ)",
+      "meaningEn": "name (honorific)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "성함이 어떻게 되세요?",
+          "meaningVn": "Ngài tên là gì ạ?"
+        },
+        {
+          "korean": "제 성함은 김민수입니다.",
+          "meaningVn": "Tên của tôi là Kim Minsu."
+        }
+      ]
+    },
+    {
+      "korean": "분",
+      "romanization": "bun",
+      "meaningVn": "người (kính ngữ)",
+      "meaningEn": "person (honorific)",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "이분은 제 친구예요.",
+          "meaningVn": "Người này là bạn tôi."
+        },
+        {
+          "korean": "세 분이 오셨어요.",
+          "meaningVn": "Ba người đã đến."
+        }
+      ]
+    },
+    {
+      "korean": "계시다",
+      "romanization": "gyesida",
+      "meaningVn": "ở, có (kính ngữ)",
+      "meaningEn": "to be, to exist (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "부모님이 계세요.",
+          "meaningVn": "Bố mẹ tôi có ở nhà."
+        },
+        {
+          "korean": "선생님께서 교실에 계세요.",
+          "meaningVn": "Thầy giáo đang ở trong lớp học."
+        }
+      ]
+    },
+    {
+      "korean": "주무시다",
+      "romanization": "jumusida",
+      "meaningVn": "ngủ (kính ngữ)",
+      "meaningEn": "to sleep (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "할머니께서 주무세요.",
+          "meaningVn": "Bà đang ngủ ạ."
+        },
+        {
+          "korean": "아버지는 지금 주무시고 계세요.",
+          "meaningVn": "Bố đang ngủ ạ."
+        }
+      ]
+    },
+    {
+      "korean": "드시다",
+      "romanization": "deusida",
+      "meaningVn": "ăn, uống (kính ngữ)",
+      "meaningEn": "to eat, to drink (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "맛있는 것을 드세요.",
+          "meaningVn": "Hãy ăn món ngon."
+        },
+        {
+          "korean": "아버지는 비빔밥을 드셨어요.",
+          "meaningVn": "Bố đã ăn bibimbap."
+        }
+      ]
+    },
+    {
+      "korean": "회사원",
+      "romanization": "hoesawon",
+      "meaningVn": "nhân viên công ty",
+      "meaningEn": "office worker",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 회사원이에요.",
+          "meaningVn": "Tôi là nhân viên công ty."
+        },
+        {
+          "korean": "아버지께서 회사원이세요.",
+          "meaningVn": "Bố tôi là nhân viên công ty."
+        }
+      ]
+    },
+    {
+      "korean": "대학생",
+      "romanization": "daehaksaeng",
+      "meaningVn": "sinh viên đại học",
+      "meaningEn": "university student",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 대학생이에요.",
+          "meaningVn": "Tôi là sinh viên đại học."
+        },
+        {
+          "korean": "이분은 대학생이에요.",
+          "meaningVn": "Người này là sinh viên đại học."
+        }
+      ]
+    },
+    {
+      "korean": "주부",
+      "romanization": "jubu",
+      "meaningVn": "nội trợ",
+      "meaningEn": "housewife",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "어머니는 주부예요.",
+          "meaningVn": "Mẹ tôi là nội trợ."
+        },
+        {
+          "korean": "이분은 주부입니다.",
+          "meaningVn": "Người này là nội trợ."
+        }
+      ]
+    },
+    {
+      "korean": "회사에 다니다",
+      "romanization": "hoesae danida",
+      "meaningVn": "đi làm",
+      "meaningEn": "to work for a company",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "저는 회사에 다녀요.",
+          "meaningVn": "Tôi đi làm."
+        },
+        {
+          "korean": "아버지는 회사에 다니세요.",
+          "meaningVn": "Bố đi làm ạ."
+        }
+      ]
+    },
+    {
+      "korean": "한국대학교",
+      "romanization": "hanguk daehakgyo",
+      "meaningVn": "Đại học Hàn Quốc",
+      "meaningEn": "Korea University",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 한국대학교에 다녀요.",
+          "meaningVn": "Tôi học ở Đại học Hàn Quốc."
+        },
+        {
+          "korean": "한국대학교는 유명해요.",
+          "meaningVn": "Đại học Hàn Quốc rất nổi tiếng."
+        }
+      ]
+    },
+    {
+      "korean": "연세가 어떻게 되세요?",
+      "romanization": "yeonsiga eotteoke doeseyo?",
+      "meaningVn": "Ngài bao nhiêu tuổi ạ?",
+      "meaningEn": "How old are you? (honorific)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "선생님, 연세가 어떻게 되세요?",
+          "meaningVn": "Thưa thầy/cô, thầy/cô bao nhiêu tuổi ạ?"
+        },
+        {
+          "korean": "연세가 어떻게 되세요? 여쭤봐도 될까요?",
+          "meaningVn": "Cho phép tôi hỏi, ngài bao nhiêu tuổi ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "무슨 일을 하세요?",
+      "romanization": "museun ireul haseyo?",
+      "meaningVn": "Ngài làm nghề gì?",
+      "meaningEn": "What do you do? (honorific)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "선생님, 무슨 일을 하세요?",
+          "meaningVn": "Thưa thầy/cô, thầy/cô làm nghề gì ạ?"
+        },
+        {
+          "korean": "무슨 일을 하시는지 여쭤봐도 될까요?",
+          "meaningVn": "Cho phép tôi hỏi, ngài làm nghề gì ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "일곱",
+      "romanization": "ilgop",
+      "meaningVn": "bảy",
+      "meaningEn": "seven",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "우리 가족은 일곱 명이에요.",
+          "meaningVn": "Gia đình tôi có bảy người."
+        },
+        {
+          "korean": "책이 일곱 권 있어요.",
+          "meaningVn": "Có bảy quyển sách."
+        }
+      ]
+    },
+    {
+      "korean": "일곱 명",
+      "romanization": "ilgop myeong",
+      "meaningVn": "bảy người",
+      "meaningEn": "seven people",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "우리 가족은 일곱 명이에요.",
+          "meaningVn": "Gia đình tôi có bảy người."
+        },
+        {
+          "korean": "세 명, 네 명, 일곱 명...",
+          "meaningVn": "Ba người, bốn người, bảy người..."
+        }
+      ]
+    },
+    {
+      "korean": "자다",
+      "romanization": "jada",
+      "meaningVn": "ngủ",
+      "meaningEn": "to sleep",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "아기는 지금 자요.",
+          "meaningVn": "Em bé đang ngủ."
+        },
+        {
+          "korean": "저는 일찍 자요.",
+          "meaningVn": "Tôi ngủ sớm."
+        }
+      ]
+    },
+    {
+      "korean": "주무시다",
+      "romanization": "jumusida",
+      "meaningVn": "ngủ (kính ngữ)",
+      "meaningEn": "to sleep (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "할머니께서 주무세요.",
+          "meaningVn": "Bà đang ngủ ạ."
+        },
+        {
+          "korean": "아버지는 지금 주무시고 계세요.",
+          "meaningVn": "Bố đang ngủ ạ."
+        }
+      ]
+    },
+    {
+      "korean": "있다",
+      "romanization": "itta",
+      "meaningVn": "có",
+      "meaningEn": "to exist, to have",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구가 있어요.",
+          "meaningVn": "Tôi có bạn."
+        },
+        {
+          "korean": "책이 있어요.",
+          "meaningVn": "Có sách."
+        }
+      ]
+    },
+    {
+      "korean": "계시다",
+      "romanization": "gyesida",
+      "meaningVn": "ở, có (kính ngữ)",
+      "meaningEn": "to be, to exist (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "부모님이 계세요.",
+          "meaningVn": "Bố mẹ tôi có ở nhà."
+        },
+        {
+          "korean": "선생님께서 교실에 계세요.",
+          "meaningVn": "Thầy giáo đang ở trong lớp học."
+        }
+      ]
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meokda",
+      "meaningVn": "ăn",
+      "meaningEn": "to eat",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "korean": "맛있는 것을 먹었어요.",
+          "meaningVn": "Tôi đã ăn món ngon."
+        }
+      ]
+    },
+    {
+      "korean": "드시다",
+      "romanization": "deusida",
+      "meaningVn": "ăn, uống (kính ngữ)",
+      "meaningEn": "to eat, to drink (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "맛있는 것을 드세요.",
+          "meaningVn": "Hãy ăn món ngon."
+        },
+        {
+          "korean": "아버지는 비빔밥을 드셨어요.",
+          "meaningVn": "Bố đã ăn bibimbap."
+        }
+      ]
+    },
+    {
+      "korean": "하다",
+      "romanization": "hada",
+      "meaningVn": "làm",
+      "meaningEn": "to do",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "저는 공부해요.",
+          "meaningVn": "Tôi học bài."
+        },
+        {
+          "korean": "무슨 일을 해요?",
+          "meaningVn": "Bạn làm nghề gì?"
+        }
+      ]
+    },
+    {
+      "korean": "하세요",
+      "romanization": "haseyo",
+      "meaningVn": "làm (kính ngữ)",
+      "meaningEn": "to do (honorific)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "무슨 일을 하세요?",
+          "meaningVn": "Ngài làm nghề gì ạ?"
+        },
+        {
+          "korean": "이름이 무엇이세요? -> 성함이 어떻게 되세요?",
+          "meaningVn": "Tên bạn là gì? -> Tên ngài là gì ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "의사",
+      "romanization": "uisa",
+      "meaningVn": "bác sĩ",
+      "meaningEn": "doctor",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아버지는 의사세요.",
+          "meaningVn": "Bố tôi là bác sĩ."
+        },
+        {
+          "korean": "의사가 되려고 해요.",
+          "meaningVn": "Tôi muốn trở thành bác sĩ."
+        }
+      ]
+    },
+    {
+      "korean": "선생님",
+      "romanization": "seonsaengnim",
+      "meaningVn": "giáo viên",
+      "meaningEn": "teacher",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 선생님이에요.",
+          "meaningVn": "Đây là giáo viên."
+        },
+        {
+          "korean": "선생님, 안녕하세요?",
+          "meaningVn": "Chào thầy/cô ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "미인",
+      "romanization": "miin",
+      "meaningVn": "người đẹp",
+      "meaningEn": "beautiful person",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "어머니는 미인이세요.",
+          "meaningVn": "Mẹ tôi là người đẹp."
+        },
+        {
+          "korean": "그녀는 미인이에요.",
+          "meaningVn": "Cô ấy là người đẹp."
+        }
+      ]
+    },
+    {
+      "korean": "서른",
+      "romanization": "seoreun",
+      "meaningVn": "ba mươi",
+      "meaningEn": "thirty",
+      "pos": "numeral",
+      "examples": [
+        {
+          "korean": "저 나이는 서른 살이에요.",
+          "meaningVn": "Tuổi kia là ba mươi."
+        },
+        {
+          "korean": "서른까지 세어 보세요.",
+          "meaningVn": "Hãy đếm đến ba mươi."
+        }
+      ]
+    },
+    {
+      "korean": "쉰",
+      "romanization": "swin",
+      "meaningVn": "năm mươi",
+      "meaningEn": "fifty",
+      "pos": "numeral",
+      "examples": [
+        {
+          "korean": "쉰 살이에요.",
+          "meaningVn": "Tôi 50 tuổi."
+        },
+        {
+          "korean": "쉰 개의 사과가 있어요.",
+          "meaningVn": "Có 50 quả táo."
+        }
+      ]
+    },
+    {
+      "korean": "쉰일곱",
+      "romanization": "swirilgeop",
+      "meaningVn": "năm mươi bảy",
+      "meaningEn": "fifty-seven",
+      "pos": "numeral",
+      "examples": [
+        {
+          "korean": "연세가 쉰일곱세요.",
+          "meaningVn": "Ngài 57 tuổi ạ."
+        },
+        {
+          "korean": "쉰일곱 개의 책이 있어요.",
+          "meaningVn": "Có 57 quyển sách."
+        }
+      ]
+    },
+    {
+      "korean": "다니다",
+      "romanization": "danida",
+      "meaningVn": "đi (làm, học)",
+      "meaningEn": "to attend, to go regularly",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "저는 대학교에 다녀요.",
+          "meaningVn": "Tôi học đại học."
+        },
+        {
+          "korean": "아버지는 회사에 다니세요.",
+          "meaningVn": "Bố đi làm ạ."
+        }
+      ]
+    },
+    {
+      "korean": "학교",
+      "romanization": "hakgyo",
+      "meaningVn": "trường học",
+      "meaningEn": "school",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 학교에 가요.",
+          "meaningVn": "Tôi đến trường."
+        },
+        {
+          "korean": "학교는 어디에 있어요?",
+          "meaningVn": "Trường học ở đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "대학교",
+      "romanization": "daehakgyo",
+      "meaningVn": "trường đại học",
+      "meaningEn": "university",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 대학교에서 공부해요.",
+          "meaningVn": "Tôi học ở trường đại học."
+        },
+        {
+          "korean": "어느 대학교에 다니세요?",
+          "meaningVn": "Bạn học trường đại học nào?"
+        }
+      ]
+    },
+    {
+      "korean": "일본",
+      "romanization": "ilbon",
+      "meaningVn": "Nhật Bản",
+      "meaningEn": "Japan",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 일본에서 왔어요.",
+          "meaningVn": "Tôi đến từ Nhật Bản."
+        },
+        {
+          "korean": "일본 문화는 재미있어요.",
+          "meaningVn": "Văn hóa Nhật Bản rất thú vị."
+        }
+      ]
+    },
+    {
+      "korean": "한국",
+      "romanization": "hanguk",
+      "meaningVn": "Hàn Quốc",
+      "meaningEn": "Korea",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 한국에서 공부해요.",
+          "meaningVn": "Tôi học ở Hàn Quốc."
+        },
+        {
+          "korean": "한국 음식은 맛있어요.",
+          "meaningVn": "Món ăn Hàn Quốc ngon."
+        }
+      ]
+    },
+    {
+      "korean": "한국말",
+      "romanization": "hangukmal",
+      "meaningVn": "tiếng Hàn",
+      "meaningEn": "Korean language",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "한국말을 잘 못해요.",
+          "meaningVn": "Tôi không nói giỏi tiếng Hàn."
+        },
+        {
+          "korean": "한국말을 배우고 싶어요.",
+          "meaningVn": "Tôi muốn học tiếng Hàn."
+        }
+      ]
+    },
+    {
+      "korean": "아버지",
+      "romanization": "abeoji",
+      "meaningVn": "bố",
+      "meaningEn": "father",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 저희 아버지세요.",
+          "meaningVn": "Đây là bố tôi."
+        },
+        {
+          "korean": "아버지께서는 회사원이세요.",
+          "meaningVn": "Bố tôi là nhân viên công ty."
+        }
+      ]
+    },
+    {
+      "korean": "아들",
+      "romanization": "adeul",
+      "meaningVn": "con trai",
+      "meaningEn": "son",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저에게는 아들이 있어요.",
+          "meaningVn": "Tôi có một con trai."
+        },
+        {
+          "korean": "아들이 두 명이에요.",
+          "meaningVn": "Có hai con trai."
+        }
+      ]
+    },
+    {
+      "korean": "딸",
+      "romanization": "ttal",
+      "meaningVn": "con gái",
+      "meaningEn": "daughter",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저에게는 딸이 있어요.",
+          "meaningVn": "Tôi có một con gái."
+        },
+        {
+          "korean": "딸이 한 명 있어요.",
+          "meaningVn": "Có một con gái."
+        }
+      ]
+    },
+    {
+      "korean": "다섯",
+      "romanization": "daseot",
+      "meaningVn": "năm",
+      "meaningEn": "five",
+      "pos": "numeral",
+      "examples": [
+        {
+          "korean": "다섯 명이에요.",
+          "meaningVn": "Có năm người."
+        },
+        {
+          "korean": "다섯 개의 사과가 있어요.",
+          "meaningVn": "Có năm quả táo."
+        }
+      ]
+    },
+    {
+      "korean": "다섯 명",
+      "romanization": "daseot myeong",
+      "meaningVn": "năm người",
+      "meaningEn": "five people",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "우리 가족은 다섯 명이에요.",
+          "meaningVn": "Gia đình tôi có năm người."
+        },
+        {
+          "korean": "다섯 명의 학생이 있어요.",
+          "meaningVn": "Có năm học sinh."
+        }
+      ]
+    },
+    {
+      "korean": "동아리",
+      "romanization": "dongari",
+      "meaningVn": "câu lạc bộ",
+      "meaningEn": "club",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 동아리 활동을 해요.",
+          "meaningVn": "Tôi tham gia hoạt động câu lạc bộ."
+        },
+        {
+          "korean": "어떤 동아리에 가입했어요?",
+          "meaningVn": "Bạn đã tham gia câu lạc bộ nào?"
+        }
+      ]
+    },
+    {
+      "korean": "운동",
+      "romanization": "undong",
+      "meaningVn": "thể thao, vận động",
+      "meaningEn": "exercise, sport",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "운동을 좋아해요.",
+          "meaningVn": "Tôi thích thể thao."
+        },
+        {
+          "korean": "매일 운동해요.",
+          "meaningVn": "Tôi tập thể dục mỗi ngày."
+        }
+      ]
+    },
+    {
+      "korean": "요리",
+      "romanization": "yori",
+      "meaningVn": "nấu ăn, món ăn",
+      "meaningEn": "cooking, dish",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "요리를 잘해요.",
+          "meaningVn": "Tôi nấu ăn ngon."
+        },
+        {
+          "korean": "한국 요리를 배우고 싶어요.",
+          "meaningVn": "Tôi muốn học nấu món Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "친구",
+      "romanization": "chingu",
+      "meaningVn": "bạn bè",
+      "meaningEn": "friend",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 제 친구예요.",
+          "meaningVn": "Người này là bạn tôi."
+        },
+        {
+          "korean": "친구가 많아요.",
+          "meaningVn": "Tôi có nhiều bạn."
+        }
+      ]
+    },
+    {
+      "korean": "이름",
+      "romanization": "ireum",
+      "meaningVn": "tên",
+      "meaningEn": "name",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이름이 뭐예요?",
+          "meaningVn": "Tên bạn là gì?"
+        },
+        {
+          "korean": "제 이름은 아키라예요.",
+          "meaningVn": "Tên tôi là Akira."
+        }
+      ]
+    },
+    {
+      "korean": "살",
+      "romanization": "sal",
+      "meaningVn": "tuổi",
+      "meaningEn": "years old",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "몇 살이에요?",
+          "meaningVn": "Bạn mấy tuổi?"
+        },
+        {
+          "korean": "저는 스무 살이에요.",
+          "meaningVn": "Tôi hai mươi tuổi."
+        }
+      ]
+    },
+    {
+      "korean": "집",
+      "romanization": "jip",
+      "meaningVn": "nhà",
+      "meaningEn": "house",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "집에 가고 싶어요.",
+          "meaningVn": "Tôi muốn về nhà."
+        },
+        {
+          "korean": "집이 어디예요?",
+          "meaningVn": "Nhà bạn ở đâu?"
+        }
+      ]
+    },
+    {
+      "korean": "사람",
+      "romanization": "saram",
+      "meaningVn": "người",
+      "meaningEn": "person",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이 사람은 누구예요?",
+          "meaningVn": "Người này là ai?"
+        },
+        {
+          "korean": "세 사람이 있어요.",
+          "meaningVn": "Có ba người."
+        }
+      ]
+    },
+    {
+      "korean": "명",
+      "romanization": "myeong",
+      "meaningVn": "người (đếm)",
+      "meaningEn": "person (counter)",
+      "pos": "counter",
+      "examples": [
+        {
+          "korean": "가족이 몇 명이에요?",
+          "meaningVn": "Gia đình bạn có mấy người?"
+        },
+        {
+          "korean": "세 명이에요.",
+          "meaningVn": "Có ba người."
+        }
+      ]
+    },
+    {
+      "korean": "나이",
+      "romanization": "nai",
+      "meaningVn": "tuổi",
+      "meaningEn": "age",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "나이가 어떻게 되세요?",
+          "meaningVn": "Bạn bao nhiêu tuổi?"
+        },
+        {
+          "korean": "나이를 묻지 마세요.",
+          "meaningVn": "Đừng hỏi tuổi."
+        }
+      ]
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meokda",
+      "meaningVn": "ăn",
+      "meaningEn": "to eat",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "korean": "맛있는 것을 먹었어요.",
+          "meaningVn": "Tôi đã ăn món ngon."
+        }
+      ]
+    },
+    {
+      "korean": "마시다",
+      "romanization": "masida",
+      "meaningVn": "uống",
+      "meaningEn": "to drink",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "물을 마셔요.",
+          "meaningVn": "Tôi uống nước."
+        },
+        {
+          "korean": "커피를 마시고 싶어요.",
+          "meaningVn": "Tôi muốn uống cà phê."
+        }
+      ]
+    },
+    {
+      "korean": "자다",
+      "romanization": "jada",
+      "meaningVn": "ngủ",
+      "meaningEn": "to sleep",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "아기는 지금 자요.",
+          "meaningVn": "Em bé đang ngủ."
+        },
+        {
+          "korean": "저는 일찍 자요.",
+          "meaningVn": "Tôi ngủ sớm."
+        }
+      ]
+    },
+    {
+      "korean": "아키라",
+      "romanization": "akira",
+      "meaningVn": "Akira (tên người)",
+      "meaningEn": "Akira (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아키라 씨, 안녕하세요?",
+          "meaningVn": "Chào anh Akira?"
+        },
+        {
+          "korean": "아키라의 친구는 누구예요?",
+          "meaningVn": "Bạn của Akira là ai vậy?"
+        }
+      ]
+    },
+    {
+      "korean": "민수",
+      "romanization": "minsu",
+      "meaningVn": "Minsu (tên người)",
+      "meaningEn": "Minsu (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 민수예요.",
+          "meaningVn": "Tôi là Minsu."
+        },
+        {
+          "korean": "민수 씨, 만나서 반가워요.",
+          "meaningVn": "Chào Minsu, rất vui được gặp bạn."
+        }
+      ]
+    },
+    {
+      "korean": "켈리",
+      "romanization": "kelli",
+      "meaningVn": "Kelly (tên người)",
+      "meaningEn": "Kelly (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 켈리 씨예요.",
+          "meaningVn": "Đây là cô Kelly."
+        },
+        {
+          "korean": "켈리 씨, 안녕하세요?",
+          "meaningVn": "Chào Kelly?"
+        }
+      ]
+    },
+    {
+      "korean": "스티븐",
+      "romanization": "seutibeun",
+      "meaningVn": "Steven (tên người)",
+      "meaningEn": "Steven (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "스티븐 씨, 어디 사세요?",
+          "meaningVn": "Steven ơi, bạn sống ở đâu?"
+        },
+        {
+          "korean": "스티븐의 친구는 누구예요?",
+          "meaningVn": "Bạn của Steven là ai vậy?"
+        }
+      ]
+    },
+    {
+      "korean": "줄리앙",
+      "romanization": "julliyang",
+      "meaningVn": "Julian (tên người)",
+      "meaningEn": "Julian (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "줄리앙 씨, 만나서 반가워요.",
+          "meaningVn": "Julian ơi, rất vui được gặp bạn."
+        },
+        {
+          "korean": "줄리앙은 프랑스 사람이에요.",
+          "meaningVn": "Julian là người Pháp."
+        }
+      ]
+    },
+    {
+      "korean": "샤오밍",
+      "romanization": "syaoming",
+      "meaningVn": "Xiaoming (tên người)",
+      "meaningEn": "Xiaoming (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "샤오밍 씨, 안녕하세요?",
+          "meaningVn": "Chào Xiaoming?"
+        },
+        {
+          "korean": "샤오밍은 중국 사람이에요.",
+          "meaningVn": "Xiaoming là người Trung Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "히엔",
+      "romanization": "hien",
+      "meaningVn": "Hien (tên người)",
+      "meaningEn": "Hien (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 히엔 씨예요.",
+          "meaningVn": "Đây là cô Hien."
+        },
+        {
+          "korean": "히엔 씨, 만나서 반가워요.",
+          "meaningVn": "Chào Hien, rất vui được gặp bạn."
+        }
+      ]
+    },
+    {
+      "korean": "박유진",
+      "romanization": "bagyujin",
+      "meaningVn": "Park Yujin (tên người)",
+      "meaningEn": "Park Yujin (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 박유진 씨예요.",
+          "meaningVn": "Đây là Park Yujin."
+        },
+        {
+          "korean": "박유진은 미국 사람이에요.",
+          "meaningVn": "Park Yujin là người Mỹ."
+        }
+      ]
+    },
+    {
+      "korean": "최정우",
+      "romanization": "choijeongu",
+      "meaningVn": "Choi Jeongwoo (tên người)",
+      "meaningEn": "Choi Jeongwoo (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 최정우 씨예요.",
+          "meaningVn": "Đây là Choi Jeongwoo."
+        },
+        {
+          "korean": "최정우는 한국 사람이에요.",
+          "meaningVn": "Choi Jeongwoo là người Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "마리코",
+      "romanization": "mariko",
+      "meaningVn": "Mariko (tên người)",
+      "meaningEn": "Mariko (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "마리코 씨, 안녕하세요?",
+          "meaningVn": "Chào Mariko?"
+        },
+        {
+          "korean": "마리코는 일본 사람이에요.",
+          "meaningVn": "Mariko là người Nhật Bản."
+        }
+      ]
+    },
+    {
+      "korean": "나나",
+      "romanization": "nana",
+      "meaningVn": "Nana (tên người)",
+      "meaningEn": "Nana (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 나나 씨예요.",
+          "meaningVn": "Đây là cô Nana."
+        },
+        {
+          "korean": "나나 씨, 만나서 반가워요.",
+          "meaningVn": "Chào Nana, rất vui được gặp bạn."
+        }
+      ]
+    },
+    {
+      "korean": "이지연",
+      "romanization": "ijiyeon",
+      "meaningVn": "Lee Jiyun (tên người)",
+      "meaningEn": "Lee Jiyun (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 이지연 씨예요.",
+          "meaningVn": "Đây là Lee Jiyun."
+        },
+        {
+          "korean": "이지연은 한국 사람이에요.",
+          "meaningVn": "Lee Jiyun là người Hàn Quốc."
+        }
+      ]
+    },
+    {
+      "korean": "김민수",
+      "romanization": "gim minsu",
+      "meaningVn": "Kim Minsu (tên người)",
+      "meaningEn": "Kim Minsu (name)",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "이분은 김민수 씨예요.",
+          "meaningVn": "Đây là Kim Minsu."
+        },
+        {
+          "korean": "김민수 씨, 안녕하세요?",
+          "meaningVn": "Chào Kim Minsu?"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N(이)세요?",
+      "titleVn": "Hỏi tên (kính ngữ)",
+      "explanationVn": "Dùng để hỏi tên hoặc thân phận của người khác một cách kính trọng. '이' thêm vào danh từ có patchim, '세요' thêm vào sau danh từ không có patchim.",
+      "rule": "받침 có → N이세요? | 받침 없음 → N세요?",
+      "pronunciationTip": "N+이세요 đọc liền âm: 학생이세요 → [학생니세요]",
+      "examples": [
+        {
+          "korean": "이분은 누구세요?",
+          "meaningVn": "Đây là ai ạ?"
+        },
+        {
+          "korean": "아버지, 성함이 어떻게 되세요?",
+          "meaningVn": "Bố ơi, tên bố là gì ạ?"
+        },
+        {
+          "korean": "선생님, 이분은 누구세요?",
+          "meaningVn": "Thưa thầy/cô, đây là ai ạ?"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저분은 누구___?",
+          "answer": "세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "이분은 제___이에요.",
+          "answer": "아니요, 선생님세요.",
+          "options": [
+            "선생님이에요",
+            "선생님세요",
+            "선생님",
+            "이에요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Đây là mẹ tôi ạ.",
+          "answer": "이분은 우리 어머니세요.",
+          "options": [
+            "이분은",
+            "우리",
+            "어머니세요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N(이)세요",
+      "titleVn": "Giới thiệu người thân (kính ngữ)",
+      "explanationVn": "Dùng để giới thiệu hoặc nói về người khác với thái độ kính trọng. '이' thêm vào danh từ có patchim, '세요' thêm vào sau danh từ không có patchim.",
+      "rule": "받침 có → N이세요 | 받침 없음 → N세요",
+      "pronunciationTip": "N+이세요 đọc liền âm: 학생이세요 → [학생니세요]",
+      "examples": [
+        {
+          "korean": "이분은 우리 어머니세요.",
+          "meaningVn": "Đây là mẹ tôi ạ."
+        },
+        {
+          "korean": "아버지는 회사원이세요.",
+          "meaningVn": "Bố tôi là nhân viên công ty ạ."
+        },
+        {
+          "korean": "이분은 제 친구예요. 이분은 제 친구세요.",
+          "meaningVn": "Đây là bạn tôi. Đây là bạn tôi ạ."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "이분은 제___이에요.",
+          "answer": "친구"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "우리 아버지는 ___세요.",
+          "answer": "의사",
+          "options": [
+            "의사",
+            "의사세요",
+            "의사예요",
+            "세요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Vâng, là bố tôi ạ.",
+          "answer": "네, 우리 아버지세요.",
+          "options": [
+            "네,",
+            "우리",
+            "아버지세요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "A/V-(으)시-",
+      "titleVn": "Biến đổi động từ/tính từ ở thì hiện tại để biểu thị sự kính trọng",
+      "explanationVn": "Được thêm vào gốc động từ/tính từ để biểu thị sự kính trọng đối với chủ thể. Nếu động từ/tính từ có patchim, dùng '-으시-'. Nếu không có patchim, dùng '-시-'. Sau đó chia theo thì hiện tại, quá khứ, tương lai...",
+      "rule": "받침 O → -으시- | 받침 X → -시-",
+      "pronunciationTip": "Sau nguyên âm: -시- như 'si'. Sau phụ âm: -으시- như 'eu-si'. Ví dụ: 가시다 → [가시다], 읽으시다 → [일-geu-si-da]",
+      "examples": [
+        {
+          "korean": "아버지는 회사에 다니세요.",
+          "meaningVn": "Bố tôi đi làm ạ."
+        },
+        {
+          "korean": "할머니는 친구가 많으세요.",
+          "meaningVn": "Bà tôi có nhiều bạn ạ."
+        },
+        {
+          "korean": "김 선생님은 친절하세요.",
+          "meaningVn": "Thầy Kim rất tốt bụng ạ."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "할머니는 한국말을 잘 ( ____ ).",
+          "answer": "하세요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "아버지께서 ___ 하세요.",
+          "answer": "일",
+          "options": [
+            "일",
+            "일을",
+            "일이",
+            "하시"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Bà đang ngủ ạ.",
+          "answer": "할머니께서 주무세요.",
+          "options": [
+            "할머니께서",
+            "주무세요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "N에서 N까지",
+      "titleVn": "Từ... đến...",
+      "explanationVn": "Chỉ khoảng cách về không gian hoặc thời gian. '에서' chỉ điểm bắt đầu, '까지' chỉ điểm kết thúc.",
+      "rule": "N1에서 N2까지",
+      "pronunciationTip": "Không có ghi chú đặc biệt cho mẫu câu này.",
+      "examples": [
+        {
+          "korean": "집에서 학교까지 걸어가요.",
+          "meaningVn": "Tôi đi bộ từ nhà đến trường."
+        },
+        {
+          "korean": "월요일에서 금요일까지 공부해요.",
+          "meaningVn": "Tôi học từ thứ Hai đến thứ Sáu."
+        },
+        {
+          "korean": "서울에서 부산까지 기차로 가요.",
+          "meaningVn": "Tôi đi tàu từ Seoul đến Busan."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "집___ 학교까지 걸어가요.",
+          "answer": "에서"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "___ 금요일까지 공부해요.",
+          "answer": "월요일에서",
+          "options": [
+            "월요일까지",
+            "월요일에서",
+            "월요일",
+            "에서"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đi từ ga đến khách sạn.",
+          "answer": "저는 역에서 호텔까지 가요.",
+          "options": [
+            "저는",
+            "역에서",
+            "호텔까지",
+            "가요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 5,
+      "pattern": "N(으)로",
+      "titleVn": "Phương tiện, cách thức, hướng di chuyển",
+      "explanationVn": "Chỉ phương tiện di chuyển, cách thức thực hiện hành động, hoặc hướng đi. Gắn '으' vào danh từ có patchim, '로' vào danh từ không có patchim.",
+      "rule": "받침 O → -으로 | 받침 X → -로",
+      "pronunciationTip": "Sau nguyên âm: -로. Sau phụ âm: -으로. Ví dụ: 버스로 → [버스로], 지하철으로 → [지하철로]",
+      "examples": [
+        {
+          "korean": "버스로 학교에 가요.",
+          "meaningVn": "Tôi đi đến trường bằng xe buýt."
+        },
+        {
+          "korean": "택시로 가세요.",
+          "meaningVn": "Anh/Chị đi bằng taxi nhé."
+        },
+        {
+          "korean": "걸어서 가요.",
+          "meaningVn": "Tôi đi bộ."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "버스___ 학교에 가요.",
+          "answer": "로"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "___ 서울까지 갈 거예요.",
+          "answer": "기차로",
+          "options": [
+            "기차",
+            "기차로",
+            "기차는",
+            "로"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đi bộ đến ga.",
+          "answer": "저는 걸어서 역까지 가요.",
+          "options": [
+            "저는",
+            "걸어서",
+            "역까지",
+            "가요."
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "이분은 누구세요?",
+          "meaningVn": "Đây là ai ạ?"
+        },
+        {
+          "speaker": "B",
+          "korean": "우리 아버지세요.",
+          "meaningVn": "Đây là bố tôi ạ."
+        },
+        {
+          "speaker": "A",
+          "korean": "아버지, 성함이 어떻게 되세요?",
+          "meaningVn": "Bố ơi, tên bố là gì ạ?"
+        },
+        {
+          "speaker": "B",
+          "korean": "제 성함은 제임스 고든이에요.",
+          "meaningVn": "Tên con là James Gordon."
+        },
+        {
+          "speaker": "A",
+          "korean": "연세가 어떻게 되세요?",
+          "meaningVn": "Bố bao nhiêu tuổi ạ?"
+        },
+        {
+          "speaker": "B",
+          "korean": "쉰두 살이세요.",
+          "meaningVn": "Bố 52 tuổi ạ."
+        }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "아버지, 무슨 일을 하세요?",
+          "meaningVn": "Bố ơi, bố làm nghề gì ạ?"
+        },
+        {
+          "speaker": "B",
+          "korean": "회사에 다니세요.",
+          "meaningVn": "Bố đi làm ạ."
+        },
+        {
+          "speaker": "A",
+          "korean": "어머니는 미인이세요. 연세가 어떻게 되세요?",
+          "meaningVn": "Mẹ là người đẹp. Mẹ bao nhiêu tuổi ạ?"
+        },
+        {
+          "speaker": "B",
+          "korean": "쉰일곱이세요.",
+          "meaningVn": "Mẹ 57 tuổi ạ."
+        },
+        {
+          "speaker": "A",
+          "korean": "가족이 몇 명이에요?",
+          "meaningVn": "Gia đình bạn có mấy người?"
+        },
+        {
+          "speaker": "B",
+          "korean": "모두 다섯 명이에요.",
+          "meaningVn": "Có tất cả năm người ạ."
+        },
+        {
+          "speaker": "A",
+          "korean": "이분은 누구예요?",
+          "meaningVn": "Đây là ai vậy?"
+        },
+        {
+          "speaker": "B",
+          "korean": "이분은 제 친구예요.",
+          "meaningVn": "Đây là bạn tôi."
+        }
+      ]
+    }
+  ],
+  "pronunciation": []
+}

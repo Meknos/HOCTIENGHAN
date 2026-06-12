@@ -1,0 +1,14 @@
+{
+  "slug": "snu-2b",
+  "pdf": "2/SNU 2B.pdf",
+  "_pageNote": "PDF 263 trang. 7 units, mỗi bài ~32 trang.",
+  "units": [
+    { "number": 1, "titleKr": "무슨 일을 해요?", "titleVn": "Bạn làm công việc gì?", "topic": "Nghề nghiệp, Công việc", "pages": "13-44" },
+    { "number": 2, "titleKr": "음식을 만들 수 있어요?", "titleVn": "Bạn có thể nấu ăn không?", "topic": "Nấu ăn, Công thức", "pages": "45-76" },
+    { "number": 3, "titleKr": "옷이 마음에 들어요?", "titleVn": "Bạn có thích bộ đồ này không?", "topic": "Thời trang, Mua sắm", "pages": "77-108" },
+    { "number": 4, "titleKr": "한국 문화를 알아요?", "titleVn": "Bạn biết văn hoá Hàn Quốc không?", "topic": "Văn hoá Hàn Quốc", "pages": "109-140" },
+    { "number": 5, "titleKr": "축하해요!", "titleVn": "Chúc mừng!", "topic": "Lễ hội, Chúc mừng", "pages": "141-172" },
+    { "number": 6, "titleKr": "환경을 보호해야 해요", "titleVn": "Phải bảo vệ môi trường", "topic": "Môi trường, Nghĩa vụ", "pages": "173-204" },
+    { "number": 7, "titleKr": "한국어를 잘 하고 싶어요", "titleVn": "Tôi muốn giỏi tiếng Hàn", "topic": "Học tập, Nguyện vọng", "pages": "205-236" }
+  ]
+}

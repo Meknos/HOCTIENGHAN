@@ -1,0 +1,15 @@
+{
+  "slug": "snu-2a",
+  "pdf": "2/SNU 2A.pdf",
+  "_pageNote": "PDF 258 trang. 8 units, mỗi bài ~27 trang.",
+  "units": [
+    { "number": 1, "titleKr": "방학 계획이 있어요?", "titleVn": "Bạn có kế hoạch nghỉ hè không?", "topic": "Kế hoạch, Dự định", "pages": "13-40" },
+    { "number": 2, "titleKr": "한국 생활이 어때요?", "titleVn": "Cuộc sống ở Hàn thế nào?", "topic": "Cuộc sống hàng ngày", "pages": "41-68" },
+    { "number": 3, "titleKr": "여행을 좋아해요?", "titleVn": "Bạn có thích du lịch không?", "topic": "Du lịch", "pages": "69-96" },
+    { "number": 4, "titleKr": "주문하시겠어요?", "titleVn": "Bạn muốn gọi món không?", "topic": "Nhà hàng, Gọi món", "pages": "97-124" },
+    { "number": 5, "titleKr": "어디가 아파요?", "titleVn": "Bạn đau ở đâu?", "topic": "Sức khoẻ, Triệu chứng", "pages": "125-152" },
+    { "number": 6, "titleKr": "어떤 집을 찾으세요?", "titleVn": "Bạn tìm loại nhà như thế nào?", "topic": "Nhà ở, Thuê nhà", "pages": "153-180" },
+    { "number": 7, "titleKr": "취미가 뭐예요?", "titleVn": "Sở thích của bạn là gì?", "topic": "Sở thích, Giải trí", "pages": "181-208" },
+    { "number": 8, "titleKr": "어떻게 오셨어요?", "titleVn": "Bạn đến đây thế nào?", "topic": "Giao thông, Chỉ đường", "pages": "209-236" }
+  ]
+}

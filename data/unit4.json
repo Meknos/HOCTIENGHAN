@@ -1,0 +1,66 @@
+{
+  "unit": 4,
+  "titleKr": "전화번호가 뭐예요?",
+  "titleVn": "Số điện thoại là gì?",
+  "topic": "Địa điểm, Vị trí",
+  "vocabulary": [
+    { "korean": "위", "romanization": "wi", "meaningVn": "phía trên", "meaningEn": "above/top", "pos": "noun", "examples": [{ "korean": "책상 위에 책이 있어요.", "meaningVn": "Trên bàn có sách." }] },
+    { "korean": "아래", "romanization": "arae", "meaningVn": "phía dưới", "meaningEn": "below", "pos": "noun", "examples": [{ "korean": "의자 아래에 가방이 있어요.", "meaningVn": "Dưới ghế có cặp." }] },
+    { "korean": "앞", "romanization": "ap", "meaningVn": "phía trước", "meaningEn": "front", "pos": "noun", "examples": [{ "korean": "학교 앞에 카페가 있어요.", "meaningVn": "Trước trường có quán cà phê." }] },
+    { "korean": "뒤", "romanization": "dwi", "meaningVn": "phía sau", "meaningEn": "behind", "pos": "noun", "examples": [{ "korean": "집 뒤에 공원이 있어요.", "meaningVn": "Sau nhà có công viên." }] },
+    { "korean": "옆", "romanization": "yeop", "meaningVn": "bên cạnh", "meaningEn": "next to", "pos": "noun", "examples": [{ "korean": "은행 옆에 병원이 있어요.", "meaningVn": "Cạnh ngân hàng có bệnh viện." }] },
+    { "korean": "안", "romanization": "an", "meaningVn": "bên trong", "meaningEn": "inside", "pos": "noun", "examples": [{ "korean": "가방 안에 책이 있어요.", "meaningVn": "Trong cặp có sách." }] },
+    { "korean": "밖", "romanization": "bak", "meaningVn": "bên ngoài", "meaningEn": "outside", "pos": "noun", "examples": [{ "korean": "밖에 사람이 많아요.", "meaningVn": "Bên ngoài có nhiều người." }] },
+    { "korean": "오른쪽", "romanization": "oreunjjok", "meaningVn": "bên phải", "meaningEn": "right side", "pos": "noun", "examples": [{ "korean": "오른쪽에 있어요.", "meaningVn": "Ở bên phải." }] },
+    { "korean": "왼쪽", "romanization": "oenjjok", "meaningVn": "bên trái", "meaningEn": "left side", "pos": "noun", "examples": [{ "korean": "왼쪽에 화장실이 있어요.", "meaningVn": "Bên trái có nhà vệ sinh." }] },
+    { "korean": "사이", "romanization": "sai", "meaningVn": "ở giữa", "meaningEn": "between", "pos": "noun", "examples": [{ "korean": "은행과 카페 사이에 있어요.", "meaningVn": "Ở giữa ngân hàng và quán cà phê." }] },
+    { "korean": "교실", "romanization": "gyosil", "meaningVn": "lớp học", "meaningEn": "classroom", "pos": "noun", "examples": [{ "korean": "교실에 학생이 있어요.", "meaningVn": "Trong lớp có học sinh." }] },
+    { "korean": "화장실", "romanization": "hwajangsil", "meaningVn": "nhà vệ sinh", "meaningEn": "toilet", "pos": "noun", "examples": [{ "korean": "화장실이 어디에 있어요?", "meaningVn": "Nhà vệ sinh ở đâu?" }] },
+    { "korean": "편의점", "romanization": "pyeonuijeom", "meaningVn": "cửa hàng tiện lợi", "meaningEn": "convenience store", "pos": "noun", "examples": [{ "korean": "편의점에 가요.", "meaningVn": "Tôi đi cửa hàng tiện lợi." }] },
+    { "korean": "전화번호", "romanization": "jeonhwabeonho", "meaningVn": "số điện thoại", "meaningEn": "phone number", "pos": "noun", "examples": [{ "korean": "전화번호가 뭐예요?", "meaningVn": "Số điện thoại là gì?" }] }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N에 있어요[없어요]",
+      "titleVn": "N ở (tại) đâu — vị trí tồn tại",
+      "explanationVn": "Trợ từ 에 chỉ vị trí tồn tại của người/vật, đi với 있어요/없어요.",
+      "rule": "Nơi chốn + 에 + 있어요/없어요",
+      "examples": [
+        { "korean": "책이 책상 위에 있어요.", "meaningVn": "Sách ở trên bàn." },
+        { "korean": "학생이 교실에 없어요.", "meaningVn": "Học sinh không ở trong lớp." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "고양이가 집___ 있어요. (tại)", "answer": "에" }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N에 가요[와요]",
+      "titleVn": "Đi / đến nơi N",
+      "explanationVn": "Trợ từ 에 chỉ đích đến của động từ di chuyển 가다/오다.",
+      "rule": "Đích đến + 에 + 가요/와요",
+      "examples": [
+        { "korean": "학교에 가요.", "meaningVn": "Tôi đến trường." },
+        { "korean": "집에 와요.", "meaningVn": "Tôi về nhà." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "병원___ 가요. (đến)", "answer": "에" }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "N 앞[뒤, 옆]",
+      "titleVn": "Danh từ chỉ vị trí (trước/sau/cạnh...)",
+      "explanationVn": "Đặt từ chỉ vị trí sau danh từ nơi chốn để diễn tả vị trí tương đối: N + 위/아래/앞/뒤/옆/안/밖.",
+      "rule": "N + [위/아래/앞/뒤/옆/안/밖] + 에",
+      "examples": [
+        { "korean": "학교 앞에 편의점이 있어요.", "meaningVn": "Trước trường có cửa hàng tiện lợi." },
+        { "korean": "은행 옆에 카페가 있어요.", "meaningVn": "Cạnh ngân hàng có quán cà phê." }
+      ],
+      "exercises": [
+        { "type": "multiple_choice", "question": "책상 ___에 가방이 있어요. (phía dưới)", "answer": "아래", "options": ["아래", "위", "앞", "옆"] }
+      ]
+    }
+  ]
+}

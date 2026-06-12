@@ -1,0 +1,379 @@
+{
+  "unit": 2,
+  "titleKr": "N을/를",
+  "titleVn": "Tân ngữ với N을/를",
+  "topic": "Tân ngữ trực tiếp",
+  "vocabulary": [
+    {
+      "korean": "커피",
+      "romanization": "keopi",
+      "meaningVn": "cà phê",
+      "meaningEn": "coffee",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 커피를 마셔요.",
+          "meaningVn": "Tôi uống cà phê."
+        },
+        {
+          "korean": "커피숍에 커피가 많아요.",
+          "meaningVn": "Quán cà phê có nhiều cà phê."
+        }
+      ]
+    },
+    {
+      "korean": "밥",
+      "romanization": "bap",
+      "meaningVn": "cơm",
+      "meaningEn": "rice, meal",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "korean": "밥이 맛있어요.",
+          "meaningVn": "Cơm ngon."
+        }
+      ]
+    },
+    {
+      "korean": "마시다",
+      "romanization": "masida",
+      "meaningVn": "uống",
+      "meaningEn": "to drink",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "물을 마셔요.",
+          "meaningVn": "Tôi uống nước."
+        },
+        {
+          "korean": "커피를 마시고 싶어요.",
+          "meaningVn": "Tôi muốn uống cà phê."
+        }
+      ]
+    },
+    {
+      "korean": "먹다",
+      "romanization": "meokda",
+      "meaningVn": "ăn",
+      "meaningEn": "to eat",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "korean": "김치를 먹어요.",
+          "meaningVn": "Tôi ăn kim chi."
+        }
+      ]
+    },
+    {
+      "korean": "읽다",
+      "romanization": "ikda",
+      "meaningVn": "đọc",
+      "meaningEn": "to read",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "책을 읽어요.",
+          "meaningVn": "Tôi đọc sách."
+        },
+        {
+          "korean": "신문을 읽어요.",
+          "meaningVn": "Tôi đọc báo."
+        }
+      ]
+    },
+    {
+      "korean": "하다",
+      "romanization": "hada",
+      "meaningVn": "làm",
+      "meaningEn": "to do",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "숙제를 해요.",
+          "meaningVn": "Tôi làm bài tập về nhà."
+        },
+        {
+          "korean": "운동을 해요.",
+          "meaningVn": "Tôi tập thể dục."
+        }
+      ]
+    },
+    {
+      "korean": "보다",
+      "romanization": "boda",
+      "meaningVn": "xem, nhìn",
+      "meaningEn": "to see, to watch",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "영화를 봐요.",
+          "meaningVn": "Tôi xem phim."
+        },
+        {
+          "korean": "텔레비전을 봐요.",
+          "meaningVn": "Tôi xem tivi."
+        }
+      ]
+    },
+    {
+      "korean": "신문",
+      "romanization": "sinmun",
+      "meaningVn": "báo",
+      "meaningEn": "newspaper",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "매일 신문을 읽어요.",
+          "meaningVn": "Mỗi ngày tôi đọc báo."
+        },
+        {
+          "korean": "신문 기사가 재미있어요.",
+          "meaningVn": "Bài báo thú vị."
+        }
+      ]
+    },
+    {
+      "korean": "영화",
+      "romanization": "yeonghwa",
+      "meaningVn": "phim",
+      "meaningEn": "movie",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "영화를 봐요.",
+          "meaningVn": "Tôi xem phim."
+        },
+        {
+          "korean": "새 영화를 보고 싶어요.",
+          "meaningVn": "Tôi muốn xem phim mới."
+        }
+      ]
+    },
+    {
+      "korean": "뭐",
+      "romanization": "mwo",
+      "meaningVn": "gì",
+      "meaningEn": "what",
+      "pos": "pronoun",
+      "examples": [
+        {
+          "korean": "뭐 해요?",
+          "meaningVn": "Bạn làm gì?"
+        },
+        {
+          "korean": "지금 뭐 드세요?",
+          "meaningVn": "Bây giờ bạn ăn gì?"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N을/를",
+      "titleVn": "Trợ từ tân ngữ",
+      "explanationVn": "Trợ từ '을/를' đi sau danh từ để chỉ đối tượng tác động trực tiếp của động từ. '을' đi sau danh từ có patchim (nguyên âm cuối), '를' đi sau danh từ không có patchim. Nó chỉ ra rằng danh từ đó bị ảnh hưởng bởi hành động được mô tả trong động từ.",
+      "rule": "Danh từ có patchim + 을 | Danh từ không có patchim + 를",
+      "pronunciationTip": "Khi '를' đứng sau '이', đọc thành '를'. Ví dụ: 커피를 - [커피를]",
+      "examples": [
+        {
+          "korean": "커피를 마셔요.",
+          "meaningVn": "Tôi uống cà phê."
+        },
+        {
+          "korean": "밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "korean": "신문을 읽어요.",
+          "meaningVn": "Tôi đọc báo."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 사과___ 좋아해요. (trợ từ tân ngữ)",
+          "answer": "를"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "책을 ___.",
+          "answer": "읽어요",
+          "options": [
+            "읽어요",
+            "읽은",
+            "읽습",
+            "읽"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi uống nước.",
+          "answer": "저는 물을 마셔요",
+          "options": [
+            "저는",
+            "물을",
+            "마셔요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N에서",
+      "titleVn": "Chỉ địa điểm diễn ra hành động",
+      "explanationVn": "Trợ từ '에서' đi sau danh từ chỉ địa điểm, nơi hành động xảy ra. Nó dùng để chỉ nơi mà một hành động đang diễn ra.",
+      "rule": "Địa điểm danh từ + 에서",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "서울대학교에서 한국어를 공부해요.",
+          "meaningVn": "Tôi học tiếng Hàn tại Đại học Seoul."
+        },
+        {
+          "korean": "극장에서 영화를 봐요.",
+          "meaningVn": "Tôi xem phim tại rạp chiếu phim."
+        },
+        {
+          "korean": "집에서 밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm ở nhà."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "학교___ 공부해요.",
+          "answer": "에서"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저는 도서관에서 ___.",
+          "answer": "책을",
+          "options": [
+            "책을",
+            "책은",
+            "책에서",
+            "책가"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đến trường.",
+          "answer": "저는 학교에 가요",
+          "options": [
+            "저는",
+            "학교에",
+            "가요"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "안 V",
+      "titleVn": "Phủ định động từ",
+      "explanationVn": "Từ '안' đứng trước động từ để phủ định hành động. Nó dùng để tạo câu phủ định cho động từ.",
+      "rule": "안 + Động từ",
+      "pronunciationTip": null,
+      "examples": [
+        {
+          "korean": "친구들을 안 만나요.",
+          "meaningVn": "Tôi không gặp bạn bè."
+        },
+        {
+          "korean": "히엔 씨는 고기를 안 먹어요.",
+          "meaningVn": "Anh Hiền không ăn thịt."
+        },
+        {
+          "korean": "공부해요? - 아니요, 공부 안 해요.",
+          "meaningVn": "Bạn có học không? - Không, tôi không học."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 지금 ___ 자요.",
+          "answer": "안"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "그 사람은 술을 ___ 마셔요.",
+          "answer": "안",
+          "options": [
+            "안",
+            "못",
+            "안 해요",
+            "못 해요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Anh ấy không đi làm.",
+          "answer": "그는 일을 안 해요",
+          "options": [
+            "그는",
+            "일을",
+            "안",
+            "해요"
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "마리코 씨, 커피를 마셔요.",
+          "meaningVn": "Mariko, uống cà phê đi."
+        },
+        {
+          "speaker": "B",
+          "korean": "네, 마셔요.",
+          "meaningVn": "Vâng, tôi uống."
+        }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "저는 밥을 먹어요.",
+          "meaningVn": "Tôi ăn cơm."
+        },
+        {
+          "speaker": "B",
+          "korean": "맛있어요?",
+          "meaningVn": "Ngon không?"
+        }
+      ]
+    },
+    {
+      "title": "대화 3",
+      "lines": [
+        {
+          "speaker": "A",
+          "korean": "뭐 해요?",
+          "meaningVn": "Bạn làm gì?"
+        },
+        {
+          "speaker": "B",
+          "korean": "영화 봐요.",
+          "meaningVn": "Tôi xem phim."
+        }
+      ]
+    }
+  ],
+  "pronunciationTip": []
+}

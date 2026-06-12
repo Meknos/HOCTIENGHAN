@@ -1,0 +1,87 @@
+{
+  "unit": 3,
+  "titleKr": "여기가 어디예요?",
+  "titleVn": "Đây là đâu?",
+  "topic": "Động từ, Địa điểm",
+  "vocabulary": [
+    { "korean": "학교", "romanization": "hakgyo", "meaningVn": "trường học", "meaningEn": "school", "pos": "noun", "examples": [{ "korean": "학교에 가요.", "meaningVn": "Tôi đi đến trường." }] },
+    { "korean": "도서관", "romanization": "doseogwan", "meaningVn": "thư viện", "meaningEn": "library", "pos": "noun", "examples": [{ "korean": "도서관에서 공부해요.", "meaningVn": "Tôi học ở thư viện." }] },
+    { "korean": "식당", "romanization": "sikdang", "meaningVn": "nhà ăn, quán ăn", "meaningEn": "restaurant", "pos": "noun", "examples": [{ "korean": "식당에서 밥을 먹어요.", "meaningVn": "Tôi ăn cơm ở quán." }] },
+    { "korean": "카페", "romanization": "kape", "meaningVn": "quán cà phê", "meaningEn": "cafe", "pos": "noun", "examples": [{ "korean": "카페에서 커피를 마셔요.", "meaningVn": "Tôi uống cà phê ở quán." }] },
+    { "korean": "병원", "romanization": "byeongwon", "meaningVn": "bệnh viện", "meaningEn": "hospital", "pos": "noun", "examples": [{ "korean": "병원에 가요.", "meaningVn": "Tôi đi bệnh viện." }] },
+    { "korean": "은행", "romanization": "eunhaeng", "meaningVn": "ngân hàng", "meaningEn": "bank", "pos": "noun", "examples": [{ "korean": "은행이 어디예요?", "meaningVn": "Ngân hàng ở đâu?" }] },
+    { "korean": "집", "romanization": "jip", "meaningVn": "nhà", "meaningEn": "home/house", "pos": "noun", "examples": [{ "korean": "집에서 자요.", "meaningVn": "Tôi ngủ ở nhà." }] },
+    { "korean": "회사", "romanization": "hoesa", "meaningVn": "công ty", "meaningEn": "company", "pos": "noun", "examples": [{ "korean": "회사에서 일해요.", "meaningVn": "Tôi làm việc ở công ty." }] },
+    { "korean": "가다", "romanization": "gada", "meaningVn": "đi", "meaningEn": "to go", "pos": "verb", "examples": [{ "korean": "학교에 가요.", "meaningVn": "Tôi đến trường." }] },
+    { "korean": "오다", "romanization": "oda", "meaningVn": "đến", "meaningEn": "to come", "pos": "verb", "examples": [{ "korean": "친구가 와요.", "meaningVn": "Bạn tôi đến." }] },
+    { "korean": "먹다", "romanization": "meokda", "meaningVn": "ăn", "meaningEn": "to eat", "pos": "verb", "examples": [{ "korean": "밥을 먹어요.", "meaningVn": "Tôi ăn cơm." }] },
+    { "korean": "마시다", "romanization": "masida", "meaningVn": "uống", "meaningEn": "to drink", "pos": "verb", "examples": [{ "korean": "물을 마셔요.", "meaningVn": "Tôi uống nước." }] },
+    { "korean": "보다", "romanization": "boda", "meaningVn": "xem, nhìn", "meaningEn": "to see/watch", "pos": "verb", "examples": [{ "korean": "영화를 봐요.", "meaningVn": "Tôi xem phim." }] },
+    { "korean": "사다", "romanization": "sada", "meaningVn": "mua", "meaningEn": "to buy", "pos": "verb", "examples": [{ "korean": "책을 사요.", "meaningVn": "Tôi mua sách." }] },
+    { "korean": "공부하다", "romanization": "gongbuhada", "meaningVn": "học", "meaningEn": "to study", "pos": "verb", "examples": [{ "korean": "한국어를 공부해요.", "meaningVn": "Tôi học tiếng Hàn." }] },
+    { "korean": "일하다", "romanization": "ilhada", "meaningVn": "làm việc", "meaningEn": "to work", "pos": "verb", "examples": [{ "korean": "회사에서 일해요.", "meaningVn": "Tôi làm việc ở công ty." }] },
+    { "korean": "읽다", "romanization": "ikda", "meaningVn": "đọc", "meaningEn": "to read", "pos": "verb", "examples": [{ "korean": "책을 읽어요.", "meaningVn": "Tôi đọc sách." }] }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "V-아요/어요",
+      "titleVn": "Thì hiện tại (thể thân mật lịch sự)",
+      "explanationVn": "Đuôi câu hiện tại lịch sự. Chia theo nguyên âm cuối của gốc động từ: gốc có ㅏ/ㅗ → 아요; còn lại → 어요; 하다 → 해요.",
+      "rule": "ㅏ/ㅗ → 아요 · khác → 어요 · 하다 → 해요",
+      "examples": [
+        { "korean": "가다 → 가요", "meaningVn": "đi → đi (hiện tại)" },
+        { "korean": "먹다 → 먹어요", "meaningVn": "ăn → ăn" },
+        { "korean": "공부하다 → 공부해요", "meaningVn": "học → học" }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "읽다 → 읽___ (hiện tại lịch sự)", "answer": "어요" },
+        { "type": "multiple_choice", "question": "오다 → ?", "answer": "와요", "options": ["와요", "오아요", "오어요", "와아요"] }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N을/를",
+      "titleVn": "Trợ từ tân ngữ (đối tượng của hành động)",
+      "explanationVn": "Đánh dấu tân ngữ trực tiếp của động từ. Chọn theo 받침 của danh từ.",
+      "rule": "받침 O → 을 · 받침 X → 를",
+      "examples": [
+        { "korean": "밥을 먹어요.", "meaningVn": "Tôi ăn cơm." },
+        { "korean": "커피를 마셔요.", "meaningVn": "Tôi uống cà phê." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "책___ 읽어요. (받침 O)", "answer": "을" },
+        { "type": "fill_blank", "question": "영화___ 봐요. (받침 X)", "answer": "를" }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "N에서",
+      "titleVn": "Tại N (nơi diễn ra hành động)",
+      "explanationVn": "Trợ từ chỉ địa điểm nơi hành động diễn ra. Khác với 에 (chỉ đích đến / vị trí tồn tại).",
+      "rule": "N + 에서 + động từ hành động",
+      "examples": [
+        { "korean": "도서관에서 공부해요.", "meaningVn": "Tôi học ở thư viện." },
+        { "korean": "식당에서 밥을 먹어요.", "meaningVn": "Tôi ăn cơm ở quán." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "카페___ 커피를 마셔요. (tại)", "answer": "에서" },
+        { "type": "reorder", "question": "Sắp xếp: \"Tôi học ở thư viện.\"", "answer": "도서관에서 공부해요", "options": ["공부해요", "도서관에서"] }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "안 V",
+      "titleVn": "Phủ định: không làm gì",
+      "explanationVn": "Đặt 안 trước động từ/tính từ để phủ định. Với động từ 하다, 안 đặt trước 하다 (예: 공부 안 해요).",
+      "rule": "안 + V/A  |  N하다 → N 안 해요",
+      "examples": [
+        { "korean": "안 가요.", "meaningVn": "Tôi không đi." },
+        { "korean": "공부 안 해요.", "meaningVn": "Tôi không học." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "밥을 ___ 먹어요. (không)", "answer": "안" }
+      ]
+    }
+  ]
+}

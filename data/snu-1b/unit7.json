@@ -1,0 +1,737 @@
+{
+  "unit": 16,
+  "titleKr": "우리 집에 올 수 있어요?",
+  "titleVn": "Bạn có thể đến nhà tôi không?",
+  "topic": "Mời khách, Gặp gỡ bạn bè",
+  "vocabulary": [
+    {
+      "korean": "계획하다",
+      "romanization": "gyehoekwihada",
+      "meaningVn": "lập kế hoạch, lên kế hoạch",
+      "meaningEn": "to plan",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "여행을 계획하다.",
+          "meaningVn": "Lập kế hoạch du lịch."
+        },
+        {
+          "korean": "파티를 계획했어요.",
+          "meaningVn": "Tôi đã lên kế hoạch cho bữa tiệc."
+        }
+      ]
+    },
+    {
+      "korean": "선물하다",
+      "romanization": "seonmulhada",
+      "meaningVn": "tặng quà",
+      "meaningEn": "to give a gift",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구에게 선물을 했어요.",
+          "meaningVn": "Tôi đã tặng quà cho bạn."
+        },
+        {
+          "korean": "무엇을 선물할까요?",
+          "meaningVn": "Tôi nên tặng quà gì?"
+        }
+      ]
+    },
+    {
+      "korean": "식사하다",
+      "romanization": "siksahada",
+      "meaningVn": "ăn uống, dùng bữa",
+      "meaningEn": "to eat/have a meal",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "저녁 식사를 같이 할까요?",
+          "meaningVn": "Chúng ta cùng ăn tối nhé?"
+        },
+        {
+          "korean": "친구와 식사하고 싶어요.",
+          "meaningVn": "Tôi muốn ăn cùng bạn."
+        }
+      ]
+    },
+    {
+      "korean": "연락하다",
+      "romanization": "yeonrakada",
+      "meaningVn": "liên lạc, liên hệ",
+      "meaningEn": "to contact",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구에게 연락하세요.",
+          "meaningVn": "Hãy liên lạc với bạn của bạn."
+        },
+        {
+          "korean": "제가 내일 다시 연락할게요.",
+          "meaningVn": "Tôi sẽ liên lạc lại vào ngày mai."
+        }
+      ]
+    },
+    {
+      "korean": "준비하다",
+      "romanization": "junbihada",
+      "meaningVn": "chuẩn bị",
+      "meaningEn": "to prepare",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "생일 파티를 준비하고 있어요.",
+          "meaningVn": "Tôi đang chuẩn bị tiệc sinh nhật."
+        },
+        {
+          "korean": "여행 준비는 다 했어요?",
+          "meaningVn": "Bạn đã chuẩn bị xong cho chuyến du lịch chưa?"
+        }
+      ]
+    },
+    {
+      "korean": "초대하다",
+      "romanization": "chodaehada",
+      "meaningVn": "mời",
+      "meaningEn": "to invite",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구를 집에 초대했어요.",
+          "meaningVn": "Tôi đã mời bạn đến nhà."
+        },
+        {
+          "korean": "파티에 초대해 줘서 고마워요.",
+          "meaningVn": "Cảm ơn vì đã mời tôi đến bữa tiệc."
+        }
+      ]
+    },
+    {
+      "korean": "축하하다",
+      "romanization": "chukahada",
+      "meaningVn": "chúc mừng",
+      "meaningEn": "to congratulate",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "생일 축하해요.",
+          "meaningVn": "Chúc mừng sinh nhật."
+        },
+        {
+          "korean": "졸업을 축하합니다.",
+          "meaningVn": "Chúc mừng tốt nghiệp."
+        }
+      ]
+    },
+    {
+      "korean": "늦게",
+      "romanization": "neutge",
+      "meaningVn": "muộn, trễ",
+      "meaningEn": "late",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "늦게 오지 마세요.",
+          "meaningVn": "Xin đừng đến muộn."
+        },
+        {
+          "korean": "저는 어제 늦게 잤어요.",
+          "meaningVn": "Hôm qua tôi đã ngủ muộn."
+        }
+      ]
+    },
+    {
+      "korean": "많이",
+      "romanization": "mani",
+      "meaningVn": "nhiều, rất",
+      "meaningEn": "a lot, much",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "한국어를 많이 공부해요.",
+          "meaningVn": "Tôi học tiếng Hàn rất nhiều."
+        },
+        {
+          "korean": "여기 음식이 많이 있어요.",
+          "meaningVn": "Ở đây có rất nhiều đồ ăn."
+        }
+      ]
+    },
+    {
+      "korean": "빨리",
+      "romanization": "ppalli",
+      "meaningVn": "nhanh, nhanh chóng",
+      "meaningEn": "quickly, fast",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "빨리 오세요.",
+          "meaningVn": "Hãy đến nhanh lên."
+        },
+        {
+          "korean": "빨리 숙제를 끝내고 싶어요.",
+          "meaningVn": "Tôi muốn nhanh chóng hoàn thành bài tập."
+        }
+      ]
+    },
+    {
+      "korean": "열심히",
+      "romanization": "yeolsimhi",
+      "meaningVn": "chăm chỉ, siêng năng",
+      "meaningEn": "diligently, hard",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "열심히 공부하세요.",
+          "meaningVn": "Hãy học tập chăm chỉ."
+        },
+        {
+          "korean": "저는 매일 열심히 일해요.",
+          "meaningVn": "Tôi làm việc chăm chỉ mỗi ngày."
+        }
+      ]
+    },
+    {
+      "korean": "일찍",
+      "romanization": "iltjik",
+      "meaningVn": "sớm",
+      "meaningEn": "early",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "오늘 아침에 일찍 일어났어요.",
+          "meaningVn": "Sáng nay tôi đã dậy sớm."
+        },
+        {
+          "korean": "내일은 일찍 오세요.",
+          "meaningVn": "Ngày mai hãy đến sớm nhé."
+        }
+      ]
+    },
+    {
+      "korean": "잘",
+      "romanization": "jal",
+      "meaningVn": "tốt, giỏi",
+      "meaningEn": "well",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "한국말을 잘해요.",
+          "meaningVn": "Tôi nói tiếng Hàn giỏi."
+        },
+        {
+          "korean": "피아노를 잘 쳐요.",
+          "meaningVn": "Tôi chơi piano giỏi."
+        }
+      ]
+    },
+    {
+      "korean": "조금",
+      "romanization": "jogeum",
+      "meaningVn": "một ít, một chút",
+      "meaningEn": "a little",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "한국어를 조금 할 수 있어요.",
+          "meaningVn": "Tôi có thể nói một chút tiếng Hàn."
+        },
+        {
+          "korean": "물 좀 조금 주세요.",
+          "meaningVn": "Hãy cho tôi một chút nước."
+        }
+      ]
+    },
+    {
+      "korean": "천천히",
+      "romanization": "cheoncheonhi",
+      "meaningVn": "chậm rãi, từ từ",
+      "meaningEn": "slowly",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "천천히 이야기하세요.",
+          "meaningVn": "Hãy nói chuyện từ từ."
+        },
+        {
+          "korean": "음식을 천천히 드세요.",
+          "meaningVn": "Hãy ăn uống chậm rãi."
+        }
+      ]
+    },
+    {
+      "korean": "별일",
+      "romanization": "byeollil",
+      "meaningVn": "chuyện đặc biệt, chuyện khác thường",
+      "meaningEn": "something special/unusual",
+      "pos": "noun",
+      "note": "Khi phát âm, 'ㄹ' ở 받침 của 별 + '일' sẽ thành [별릴] (biến âm)",
+      "examples": [
+        {
+          "korean": "별일 없어요?",
+          "meaningVn": "Có chuyện gì đặc biệt không? / Mọi việc ổn chứ?"
+        },
+        {
+          "korean": "오늘은 별일이 있었어요.",
+          "meaningVn": "Hôm nay đã có một chuyện đặc biệt xảy ra."
+        }
+      ]
+    },
+    {
+      "korean": "사가다",
+      "romanization": "sagada",
+      "meaningVn": "mua rồi mang đi/đến",
+      "meaningEn": "to buy and take/bring",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "제가 케이크를 사 갈게요.",
+          "meaningVn": "Tôi sẽ mua bánh mang đến."
+        },
+        {
+          "korean": "선물을 사 갔어요.",
+          "meaningVn": "Tôi đã mua quà mang đi."
+        }
+      ]
+    },
+    {
+      "korean": "이사(를) 하다",
+      "romanization": "isa(reul)hada",
+      "meaningVn": "chuyển nhà",
+      "meaningEn": "to move (one's residence)",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "지난주에 이사했어요.",
+          "meaningVn": "Tôi đã chuyển nhà vào tuần trước."
+        },
+        {
+          "korean": "새 집으로 이사했어요.",
+          "meaningVn": "Tôi đã chuyển đến nhà mới."
+        }
+      ]
+    },
+    {
+      "korean": "돈을 찾다",
+      "romanization": "doneul chatda",
+      "meaningVn": "rút tiền",
+      "meaningEn": "to withdraw money",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "은행에서 돈을 찾았어요.",
+          "meaningVn": "Tôi đã rút tiền từ ngân hàng."
+        },
+        {
+          "korean": "ATM에서 돈을 찾을 수 있어요.",
+          "meaningVn": "Bạn có thể rút tiền ở máy ATM."
+        }
+      ]
+    },
+    {
+      "korean": "팝콘",
+      "romanization": "papkon",
+      "meaningVn": "bắp rang bơ, bỏng ngô",
+      "meaningEn": "popcorn",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "영화를 보면서 팝콘을 먹었어요.",
+          "meaningVn": "Tôi vừa xem phim vừa ăn bắp rang bơ."
+        },
+        {
+          "korean": "팝콘 냄새가 정말 좋아요.",
+          "meaningVn": "Mùi bắp rang bơ thật sự rất thơm."
+        }
+      ]
+    },
+    {
+      "korean": "춤(을) 추다",
+      "romanization": "chum(eul)chuda",
+      "meaningVn": "nhảy múa",
+      "meaningEn": "to dance",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "음악을 들으면서 춤을 춰요.",
+          "meaningVn": "Tôi vừa nghe nhạc vừa nhảy múa."
+        },
+        {
+          "korean": "춤을 잘 추고 싶어요.",
+          "meaningVn": "Tôi muốn nhảy giỏi."
+        }
+      ]
+    },
+    {
+      "korean": "들어오다",
+      "romanization": "deureooda",
+      "meaningVn": "đi vào, bước vào",
+      "meaningEn": "to come in",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "어서 들어오세요.",
+          "meaningVn": "Xin mời vào."
+        },
+        {
+          "korean": "방으로 들어왔어요.",
+          "meaningVn": "Tôi đã đi vào phòng."
+        }
+      ]
+    },
+    {
+      "korean": "아니에요",
+      "romanization": "anieyo",
+      "meaningVn": "không phải đâu, không có gì",
+      "meaningEn": "no, it's not / you're welcome",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "- 고마워요. - 아니에요.",
+          "meaningVn": "- Cảm ơn. - Không có gì."
+        },
+        {
+          "korean": "- 선생님이에요? - 아니에요, 학생이에요.",
+          "meaningVn": "- Bạn là giáo viên à? - Không phải đâu, tôi là học sinh."
+        }
+      ]
+    },
+    {
+      "korean": "곧",
+      "romanization": "got",
+      "meaningVn": "sắp, ngay lập tức",
+      "meaningEn": "soon",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "곧 갈게요.",
+          "meaningVn": "Tôi sẽ đi ngay đây."
+        },
+        {
+          "korean": "곧 다시 만나요.",
+          "meaningVn": "Chúng ta sẽ gặp lại sớm thôi."
+        }
+      ]
+    },
+    {
+      "korean": "휴일",
+      "romanization": "hyuil",
+      "meaningVn": "ngày nghỉ lễ",
+      "meaningEn": "holiday",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "내일은 휴일이에요.",
+          "meaningVn": "Ngày mai là ngày nghỉ lễ."
+        },
+        {
+          "korean": "휴일에 뭐 할 거예요?",
+          "meaningVn": "Bạn sẽ làm gì vào ngày nghỉ?"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "V-(으)ㄹ 수 있다[없다]",
+      "titleVn": "Khả năng hoặc sự cho phép: có thể/không thể làm gì",
+      "explanationVn": "Cấu trúc này dùng để diễn tả khả năng (있다) hoặc sự không khả năng (없다) làm một hành động nào đó, hoặc được phép/không được phép làm gì. Nó thường gắn vào sau gốc động từ.",
+      "rule": "Gốc động từ kết thúc bằng nguyên âm hoặc 'ㄹ' → -ㄹ 수 있다/없다. Gốc động từ kết thúc bằng phụ âm (trừ 'ㄹ') → -을 수 있다/없다.",
+      "pronunciationTip": "Khi -을/ㄹ 수 있다/없다 kết hợp với 이에요/예요, 'ㅅ' thường được phát âm căng thành 'ㅆ' (경음화). Ví dụ: 올 수 있어요 → [올쑤이써요].",
+      "examples": [
+        {
+          "korean": "스티븐 씨는 미국 사람이지만 한국말을 할 수 있어요.",
+          "meaningVn": "Stephen là người Mỹ nhưng có thể nói tiếng Hàn."
+        },
+        {
+          "korean": "열심히 공부하면 좋은 점수를 받을 수 있을 거예요.",
+          "meaningVn": "Nếu học chăm chỉ thì có thể nhận được điểm tốt."
+        },
+        {
+          "korean": "배가 아파서 지금은 밥을 먹을 수 없어요.",
+          "meaningVn": "Vì đau bụng nên bây giờ tôi không thể ăn cơm được."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 프랑스어를 ___ 수 있어요.",
+          "answer": "할"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "저는 수영을 ___ 없어요.",
+          "answer": "할 수",
+          "options": [
+            "할 수",
+            "할",
+            "할 거예요",
+            "하면"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi có thể đọc sách này",
+          "answer": "저는 이 책을 읽을 수 있어요",
+          "options": [
+            "이 책을",
+            "읽을 수 있어요",
+            "저는"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "V-(으)ㄹ게요",
+      "titleVn": "Diễn tả ý định hoặc lời hứa của người nói",
+      "explanationVn": "Cấu trúc này được dùng để thể hiện ý định hoặc lời hứa của người nói về việc sẽ làm điều gì đó cho người nghe. Nó thường được sử dụng trong các tình huống mà người nói đưa ra quyết định hoặc lời hứa sau khi nghe yêu cầu hoặc câu hỏi từ người nghe.",
+      "rule": "Gốc động từ kết thúc bằng nguyên âm hoặc 'ㄹ' → -ㄹ게요. Gốc động từ kết thúc bằng phụ âm (trừ 'ㄹ') → -을게요.",
+      "pronunciationTip": "Khi -ㄹ게요 kết thúc, 'ㄱ' thường được phát âm căng thành 'ㄲ' (경음화). Ví dụ: 갈게요 → [갈께요].",
+      "examples": [
+        {
+          "korean": "내일은 일찍 오세요. - 네, 일찍 올게요.",
+          "meaningVn": "Ngày mai hãy đến sớm. - Vâng, tôi sẽ đến sớm."
+        },
+        {
+          "korean": "이 약은 매일 드셔야 돼요. - 네, 매일 먹을게요.",
+          "meaningVn": "Bạn phải uống thuốc này mỗi ngày. - Vâng, tôi sẽ uống mỗi ngày."
+        },
+        {
+          "korean": "누가 음식을 만들 거예요? - 제가 만들게요.",
+          "meaningVn": "Ai sẽ làm đồ ăn? - Tôi sẽ làm."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "제가 케이크를 사 ___.",
+          "answer": "갈게요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "내일 다시 전화 ___.",
+          "answer": "할게요",
+          "options": [
+            "할게요",
+            "할 수 있어요",
+            "할 거예요",
+            "해요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi sẽ giúp bạn.",
+          "answer": "제가 도와줄게요",
+          "options": [
+            "도와줄게요",
+            "제가"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "V-(으)러 가다[오다]",
+      "titleVn": "Đi/Đến để làm gì (mục đích)",
+      "explanationVn": "Cấu trúc này được dùng để diễn tả mục đích của hành động đi (가다) hoặc đến (오다). Động từ đứng trước -(으)러 là hành động mà chủ ngữ đến hoặc đi để thực hiện.",
+      "rule": "Gốc động từ kết thúc bằng nguyên âm hoặc 'ㄹ' → -러 가다/오다. Gốc động từ kết thúc bằng phụ âm (trừ 'ㄹ') → -으러 가다/오다.",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "은행에 뭐 하러 가요? - 돈을 찾으러 가요.",
+          "meaningVn": "Bạn đi ngân hàng làm gì? - Tôi đi để rút tiền."
+        },
+        {
+          "korean": "우리 집에 저녁 먹으러 오세요.",
+          "meaningVn": "Hãy đến nhà tôi ăn tối nhé."
+        },
+        {
+          "korean": "주말에 나나 씨 집에 놀러 갈 거예요.",
+          "meaningVn": "Cuối tuần tôi sẽ đến nhà Nana chơi."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 한국어를 배우 ___ 한국에 왔어요.",
+          "answer": "러"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "영화를 보 ___ 극장에 가요.",
+          "answer": "러",
+          "options": [
+            "러",
+            "으러",
+            "려고",
+            "면서"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đi thư viện để học bài.",
+          "answer": "저는 도서관에 공부하러 가요",
+          "options": [
+            "도서관에",
+            "가요",
+            "공부하러",
+            "저는"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "V-(으)면서",
+      "titleVn": "Trong khi, vừa làm... vừa làm... (hành động đồng thời)",
+      "explanationVn": "Cấu trúc này được dùng để diễn tả hai hành động được thực hiện đồng thời bởi cùng một chủ thể. Hai hành động này có thể là động từ hoặc tính từ, nhưng thường là động từ.",
+      "rule": "Gốc động từ kết thúc bằng nguyên âm hoặc phụ âm 'ㄹ' → -면서. Gốc động từ kết thúc bằng phụ âm (trừ 'ㄹ') → -으면서.",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "운전하면서 전화하지 마세요.",
+          "meaningVn": "Đừng gọi điện thoại khi đang lái xe."
+        },
+        {
+          "korean": "신문을 읽으면서 기다리세요.",
+          "meaningVn": "Hãy đợi trong khi đọc báo."
+        },
+        {
+          "korean": "저는 음악을 들으면서 공부해요.",
+          "meaningVn": "Tôi học bài trong khi nghe nhạc."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "춤을 추 ___ 노래해요.",
+          "answer": "면서"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "밥을 먹 ___ TV를 봐요.",
+          "answer": "으면서",
+          "options": [
+            "으면서",
+            "면서",
+            "러",
+            "고"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Vừa đi bộ vừa nói chuyện.",
+          "answer": "걸으면서 이야기해요",
+          "options": [
+            "걸으면서",
+            "이야기해요"
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "말하기 1",
+      "lines": [
+        {
+          "speaker": "나나",
+          "korean": "샤오밍 씨, 오늘 저녁에 바빠요?",
+          "meaningVn": "Xiaoming, tối nay bạn bận không?"
+        },
+        {
+          "speaker": "샤오밍",
+          "korean": "아니요. 별일 없어요. 그런데 왜요?",
+          "meaningVn": "Không. Tôi không có việc gì đặc biệt cả. Mà sao vậy?"
+        },
+        {
+          "speaker": "나나",
+          "korean": "시험이 끝나서 우리 집에서 파티를 하려고 해요. 샤오밍 씨도 올 수 있어요?",
+          "meaningVn": "Vì thi xong rồi nên tôi định tổ chức tiệc ở nhà. Xiaoming cũng có thể đến được không?"
+        },
+        {
+          "speaker": "샤오밍",
+          "korean": "네, 갈 수 있어요. 몇 시쯤 갈까요?",
+          "meaningVn": "Vâng, tôi có thể đi. Tôi nên đi khoảng mấy giờ?"
+        },
+        {
+          "speaker": "나나",
+          "korean": "일곱 시쯤 오세요.",
+          "meaningVn": "Hãy đến khoảng 7 giờ."
+        },
+        {
+          "speaker": "샤오밍",
+          "korean": "네, 좋아요. 일곱 시까지 갈게요. 그런데 파티 준비 다 했어요? 제가 좀 도와줄까요?",
+          "meaningVn": "Vâng, được ạ. Tôi sẽ đến lúc 7 giờ. Mà bạn đã chuẩn bị hết cho bữa tiệc chưa? Tôi giúp một chút nhé?"
+        },
+        {
+          "speaker": "나나",
+          "korean": "그럼 케이크 좀 사 주세요. 바빠서 케이크를 아직 못 샀어요.",
+          "meaningVn": "Vậy thì bạn mua giúp tôi ít bánh nhé. Vì bận nên tôi vẫn chưa mua bánh được."
+        },
+        {
+          "speaker": "샤오밍",
+          "korean": "네, 그럼 제가 케이크를 사 갈게요.",
+          "meaningVn": "Vâng, vậy thì tôi sẽ mua bánh mang đến."
+        }
+      ]
+    },
+    {
+      "title": "말하기 2",
+      "lines": [
+        {
+          "speaker": "나나",
+          "korean": "줄리앙 씨, 어서 들어오세요. 덥지요?",
+          "meaningVn": "Julien, mời bạn vào. Nóng phải không?"
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "아니에요. 초대해 줘서 고마워요. 집이 정말 좋네요.",
+          "meaningVn": "Không đâu. Cảm ơn bạn đã mời. Nhà bạn thật sự rất đẹp."
+        },
+        {
+          "speaker": "나나",
+          "korean": "뭘요, 청소도 잘 못했어요.",
+          "meaningVn": "Đâu có, tôi còn chưa dọn dẹp tử tế nữa."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "룸메이트는 집에 없어요?",
+          "meaningVn": "Bạn cùng phòng không có nhà à?"
+        },
+        {
+          "speaker": "나나",
+          "korean": "네. 도서관에 공부하러 갔어요.",
+          "meaningVn": "Vâng. Bạn ấy đi thư viện để học bài rồi."
+        },
+        {
+          "speaker": "줄리앙",
+          "korean": "다른 친구들은 아직 안 왔어요?",
+          "meaningVn": "Các bạn khác vẫn chưa đến à?"
+        },
+        {
+          "speaker": "나나",
+          "korean": "곧 올 거예요. 텔레비전 보면서 좀 기다려 주세요.",
+          "meaningVn": "Các bạn ấy sẽ đến sớm thôi. Bạn hãy xem TV trong khi đợi một lát nhé."
+        },
+        {
+          "speaker": "나나",
+          "korean": "여보세요? 스티븐 씨? 무슨 일 있어요?",
+          "meaningVn": "Alo? Steven? Có chuyện gì vậy?"
+        },
+        {
+          "speaker": "스티븐",
+          "korean": "나나 씨, 미안해요. 길이 복잡해서 조금 늦을 거예요. 빨리 갈게요.",
+          "meaningVn": "Nana, xin lỗi bạn. Đường đông nên tôi sẽ đến trễ một chút. Tôi sẽ đi nhanh lên."
+        },
+        {
+          "speaker": "나나",
+          "korean": "괜찮아요. 지금 줄리앙 씨만 왔어요. 천천히 오세요.",
+          "meaningVn": "Không sao đâu. Bây giờ chỉ có Julien đến thôi. Bạn cứ từ từ đến nhé."
+        }
+      ]
+    }
+  ]
+}

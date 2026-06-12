@@ -1,0 +1,71 @@
+{
+  "unit": 2,
+  "titleKr": "이게 뭐예요?",
+  "titleVn": "Cái này là gì?",
+  "topic": "Đồ dùng học tập, Đồ sinh hoạt",
+  "vocabulary": [
+    { "korean": "책", "romanization": "chaek", "meaningVn": "sách", "meaningEn": "book", "pos": "noun", "examples": [{ "korean": "이게 책이에요.", "meaningVn": "Cái này là sách." }] },
+    { "korean": "공책", "romanization": "gongchaek", "meaningVn": "vở", "meaningEn": "notebook", "pos": "noun", "examples": [{ "korean": "공책이 있어요.", "meaningVn": "Có vở." }] },
+    { "korean": "연필", "romanization": "yeonpil", "meaningVn": "bút chì", "meaningEn": "pencil", "pos": "noun", "examples": [{ "korean": "연필 주세요.", "meaningVn": "Cho tôi bút chì." }] },
+    { "korean": "볼펜", "romanization": "bolpen", "meaningVn": "bút bi", "meaningEn": "ballpoint pen", "pos": "noun", "examples": [{ "korean": "볼펜하고 공책이 있어요.", "meaningVn": "Có bút bi và vở." }] },
+    { "korean": "지우개", "romanization": "jiugae", "meaningVn": "cục tẩy", "meaningEn": "eraser", "pos": "noun", "examples": [{ "korean": "지우개가 없어요.", "meaningVn": "Không có cục tẩy." }] },
+    { "korean": "가방", "romanization": "gabang", "meaningVn": "cặp, túi", "meaningEn": "bag", "pos": "noun", "examples": [{ "korean": "가방이 있어요.", "meaningVn": "Có cặp." }] },
+    { "korean": "책상", "romanization": "chaeksang", "meaningVn": "bàn học", "meaningEn": "desk", "pos": "noun", "examples": [{ "korean": "책상하고 의자가 있어요.", "meaningVn": "Có bàn và ghế." }] },
+    { "korean": "의자", "romanization": "uija", "meaningVn": "ghế", "meaningEn": "chair", "pos": "noun", "examples": [{ "korean": "의자가 있어요.", "meaningVn": "Có ghế." }] },
+    { "korean": "시계", "romanization": "sigye", "meaningVn": "đồng hồ", "meaningEn": "clock/watch", "pos": "noun", "examples": [{ "korean": "시계가 없어요.", "meaningVn": "Không có đồng hồ." }] },
+    { "korean": "컴퓨터", "romanization": "keompyuteo", "meaningVn": "máy tính", "meaningEn": "computer", "pos": "noun", "examples": [{ "korean": "컴퓨터가 있어요.", "meaningVn": "Có máy tính." }] },
+    { "korean": "휴대폰", "romanization": "hyudaepon", "meaningVn": "điện thoại di động", "meaningEn": "cellphone", "pos": "noun", "examples": [{ "korean": "휴대폰이 있어요?", "meaningVn": "Bạn có điện thoại không?" }] },
+    { "korean": "우산", "romanization": "usan", "meaningVn": "ô, dù", "meaningEn": "umbrella", "pos": "noun", "examples": [{ "korean": "우산 주세요.", "meaningVn": "Cho tôi cái ô." }] },
+    { "korean": "안경", "romanization": "angyeong", "meaningVn": "kính mắt", "meaningEn": "glasses", "pos": "noun", "examples": [{ "korean": "안경이 있어요.", "meaningVn": "Có kính." }] },
+    { "korean": "지갑", "romanization": "jigap", "meaningVn": "ví", "meaningEn": "wallet", "pos": "noun", "examples": [{ "korean": "지갑이 없어요.", "meaningVn": "Không có ví." }] },
+    { "korean": "열쇠", "romanization": "yeolswe", "meaningVn": "chìa khóa", "meaningEn": "key", "pos": "noun", "examples": [{ "korean": "열쇠가 어디 있어요?", "meaningVn": "Chìa khóa ở đâu?" }] },
+    { "korean": "뭐", "romanization": "mwo", "meaningVn": "cái gì", "meaningEn": "what", "pos": "expression", "examples": [{ "korean": "이게 뭐예요?", "meaningVn": "Cái này là gì?" }] }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "N이/가 있어요[없어요]",
+      "titleVn": "Có / Không có N",
+      "explanationVn": "Diễn tả sự tồn tại/sở hữu. 있어요 = có, 없어요 = không có. Danh từ gắn trợ từ chủ ngữ 이/가 theo 받침.",
+      "rule": "받침 O → 이 있어요/없어요  |  받침 X → 가 있어요/없어요",
+      "examples": [
+        { "korean": "책이 있어요.", "meaningVn": "Có sách." },
+        { "korean": "지우개가 없어요.", "meaningVn": "Không có cục tẩy." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "가방___ 있어요. (받침 O)", "answer": "이" },
+        { "type": "multiple_choice", "question": "시계___ 없어요.", "answer": "가", "options": ["가", "이", "는", "를"] }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N 주세요",
+      "titleVn": "Cho tôi N (yêu cầu lịch sự)",
+      "explanationVn": "Dùng để xin/yêu cầu một vật gì đó một cách lịch sự. Đặt danh từ trước 주세요.",
+      "rule": "N + 주세요",
+      "examples": [
+        { "korean": "물 주세요.", "meaningVn": "Cho tôi nước." },
+        { "korean": "연필 주세요.", "meaningVn": "Cho tôi bút chì." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "볼펜 ___. (làm ơn cho tôi)", "answer": "주세요" }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "N하고 N · N과/와 N",
+      "titleVn": "N và N (liệt kê)",
+      "explanationVn": "Nối hai danh từ. 하고 dùng trong văn nói (mọi trường hợp). 과/와 trang trọng hơn: 받침 O dùng 과, 받침 X dùng 와.",
+      "rule": "하고 (nói) · 받침 O → 과 · 받침 X → 와",
+      "examples": [
+        { "korean": "책하고 공책이 있어요.", "meaningVn": "Có sách và vở." },
+        { "korean": "연필과 지우개", "meaningVn": "Bút chì và cục tẩy." },
+        { "korean": "의자와 책상", "meaningVn": "Ghế và bàn." }
+      ],
+      "exercises": [
+        { "type": "fill_blank", "question": "책___ 공책 (và — văn nói)", "answer": "하고" },
+        { "type": "multiple_choice", "question": "연필___ 지우개 (받침 O, trang trọng)", "answer": "과", "options": ["과", "와", "하고", "이"] }
+      ]
+    }
+  ]
+}

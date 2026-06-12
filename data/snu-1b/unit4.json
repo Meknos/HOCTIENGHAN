@@ -1,0 +1,1009 @@
+{
+  "unit": 12,
+  "titleKr": "여보세요",
+  "titleVn": "Alo?",
+  "topic": "Gọi điện thoại, xác nhận thông tin, đưa ra lý do, diễn tả sự không thể",
+  "vocabulary": [
+    {
+      "korean": "전화번호",
+      "romanization": "jeonhwabeonho",
+      "meaningVn": "số điện thoại",
+      "meaningEn": "phone number",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "전화번호가 어떻게 되세요?",
+          "meaningVn": "Số điện thoại của bạn là gì?"
+        },
+        {
+          "korean": "제 전화번호는 공이 팔팔공 오사팔팔이에요.",
+          "meaningVn": "Số điện thoại của tôi là 02-880-5488."
+        }
+      ]
+    },
+    {
+      "korean": "휴대폰 번호",
+      "romanization": "hyudaepon beonho",
+      "meaningVn": "số điện thoại di động",
+      "meaningEn": "cellphone number",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "휴대폰 번호가 어떻게 되세요?",
+          "meaningVn": "Số điện thoại di động của bạn là gì?"
+        },
+        {
+          "korean": "제 휴대폰 번호는 공일공 공이오육 팔칠일칠이에요.",
+          "meaningVn": "Số điện thoại di động của tôi là 010-0256-8717."
+        }
+      ]
+    },
+    {
+      "korean": "서울대학교",
+      "romanization": "seouldaehakgyo",
+      "meaningVn": "Đại học Quốc gia Seoul",
+      "meaningEn": "Seoul National University",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "서울대학교 전화번호가 몇 번이에요?",
+          "meaningVn": "Số điện thoại của Đại học Quốc gia Seoul là số mấy?"
+        },
+        {
+          "korean": "저는 서울대학교 학생이에요.",
+          "meaningVn": "Tôi là sinh viên Đại học Quốc gia Seoul."
+        }
+      ]
+    },
+    {
+      "korean": "공",
+      "romanization": "gong",
+      "meaningVn": "số không",
+      "meaningEn": "zero",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "전화번호는 공으로 시작해요.",
+          "meaningVn": "Số điện thoại bắt đầu bằng số không."
+        },
+        {
+          "korean": "공이(의) 팔팔공(의) 오사팔팔이에요.",
+          "meaningVn": "Là 02-880-5488."
+        }
+      ]
+    },
+    {
+      "korean": "팔팔공",
+      "romanization": "palpalgong",
+      "meaningVn": "tám tám không",
+      "meaningEn": "eight-eight-zero",
+      "pos": "noun",
+      "note": "Cách đọc các chữ số trong số điện thoại",
+      "examples": [
+        {
+          "korean": "제 전화번호 가운데는 팔팔공이에요.",
+          "meaningVn": "Phần giữa số điện thoại của tôi là 880."
+        },
+        {
+          "korean": "팔팔공은 서울대학교 전화번호 일부예요.",
+          "meaningVn": "880 là một phần của số điện thoại Đại học Seoul."
+        }
+      ]
+    },
+    {
+      "korean": "오사팔팔",
+      "romanization": "osapalpwal",
+      "meaningVn": "năm bốn tám tám",
+      "meaningEn": "five-four-eight-eight",
+      "pos": "noun",
+      "note": "Cách đọc các chữ số trong số điện thoại",
+      "examples": [
+        {
+          "korean": "서울대학교 전화번호는 오사팔팔이에요.",
+          "meaningVn": "Số điện thoại Đại học Seoul là 5488."
+        },
+        {
+          "korean": "오사팔팔 번으로 전화해 보세요.",
+          "meaningVn": "Hãy thử gọi số 5488."
+        }
+      ]
+    },
+    {
+      "korean": "공일공",
+      "romanization": "gongilgong",
+      "meaningVn": "không một không",
+      "meaningEn": "zero-one-zero",
+      "pos": "noun",
+      "note": "Đầu số điện thoại di động ở Hàn Quốc",
+      "examples": [
+        {
+          "korean": "휴대폰 번호는 보통 공일공으로 시작해요.",
+          "meaningVn": "Số điện thoại di động thường bắt đầu bằng 010."
+        },
+        {
+          "korean": "제 번호는 공일공이에요.",
+          "meaningVn": "Số của tôi là 010."
+        }
+      ]
+    },
+    {
+      "korean": "공이오육",
+      "romanization": "gong-ioryuk",
+      "meaningVn": "không hai năm sáu",
+      "meaningEn": "zero-two-five-six",
+      "pos": "noun",
+      "note": "Cách đọc các chữ số trong số điện thoại",
+      "examples": [
+        {
+          "korean": "공일공(의) 공이오육(의) 팔칠일칠이에요.",
+          "meaningVn": "Là 010-0256-8717."
+        },
+        {
+          "korean": "공이오육은 제 휴대폰 번호의 일부예요.",
+          "meaningVn": "0256 là một phần của số điện thoại di động của tôi."
+        }
+      ]
+    },
+    {
+      "korean": "팔칠일칠",
+      "romanization": "palchililchil",
+      "meaningVn": "tám bảy một bảy",
+      "meaningEn": "eight-seven-one-seven",
+      "pos": "noun",
+      "note": "Cách đọc các chữ số trong số điện thoại",
+      "examples": [
+        {
+          "korean": "마지막 네 자리는 팔칠일칠이에요.",
+          "meaningVn": "Bốn số cuối là 8717."
+        },
+        {
+          "korean": "그 번호는 팔칠일칠로 끝나요.",
+          "meaningVn": "Số đó kết thúc bằng 8717."
+        }
+      ]
+    },
+    {
+      "korean": "여보세요",
+      "romanization": "yeoboseyo",
+      "meaningVn": "Alo (khi gọi điện thoại)",
+      "meaningEn": "Hello (on the phone)",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "여보세요, 거기 김 선생님 댁이지요?",
+          "meaningVn": "Alo, đó là nhà thầy Kim phải không?"
+        },
+        {
+          "korean": "전화가 오면 여보세요 하고 받아요.",
+          "meaningVn": "Khi có điện thoại đến thì nói 'Alo' rồi nghe máy."
+        }
+      ]
+    },
+    {
+      "korean": "실례지만 누구세요?",
+      "romanization": "sillyejiman nuguseyo?",
+      "meaningVn": "Xin lỗi, nhưng ai đấy ạ?",
+      "meaningEn": "Excuse me, but who is this?",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "모르는 번호로 전화가 오면 실례지만 누구세요 라고 물어봐요.",
+          "meaningVn": "Nếu có cuộc gọi từ số lạ, tôi hỏi 'Xin lỗi, nhưng ai đấy ạ?'."
+        },
+        {
+          "korean": "여보세요, 실례지만 누구세요?",
+          "meaningVn": "Alo, xin lỗi nhưng ai đấy ạ?"
+        }
+      ]
+    },
+    {
+      "korean": "문자를 받다",
+      "romanization": "munjareul batda",
+      "meaningVn": "nhận tin nhắn",
+      "meaningEn": "to receive a text message",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "오늘 친구에게 문자를 받았어요.",
+          "meaningVn": "Hôm nay tôi đã nhận tin nhắn từ bạn."
+        },
+        {
+          "korean": "문자를 받으면 바로 확인해요.",
+          "meaningVn": "Nếu nhận được tin nhắn thì tôi kiểm tra ngay."
+        }
+      ]
+    },
+    {
+      "korean": "문자를 보내다",
+      "romanization": "munjareul bonaeda",
+      "meaningVn": "gửi tin nhắn",
+      "meaningEn": "to send a text message",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구에게 문자를 보냈어요.",
+          "meaningVn": "Tôi đã gửi tin nhắn cho bạn."
+        },
+        {
+          "korean": "생일 축하 문자를 보내고 싶어요.",
+          "meaningVn": "Tôi muốn gửi tin nhắn chúc mừng sinh nhật."
+        }
+      ]
+    },
+    {
+      "korean": "전화를 받다",
+      "romanization": "jeonhwareul batda",
+      "meaningVn": "nghe điện thoại",
+      "meaningEn": "to answer the phone",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "전화가 왔는데 못 받았어요.",
+          "meaningVn": "Điện thoại đến nhưng tôi không nghe được."
+        },
+        {
+          "korean": "어머니는 지금 전화 받고 계세요.",
+          "meaningVn": "Mẹ tôi đang nghe điện thoại."
+        }
+      ]
+    },
+    {
+      "korean": "전화(를) 하다",
+      "romanization": "jeonhwa(reul) hada",
+      "meaningVn": "gọi điện thoại",
+      "meaningEn": "to make a phone call",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "친구에게 전화했어요.",
+          "meaningVn": "Tôi đã gọi điện cho bạn."
+        },
+        {
+          "korean": "어머니는 지금 전화하고 계세요.",
+          "meaningVn": "Mẹ tôi đang gọi điện thoại."
+        }
+      ]
+    },
+    {
+      "korean": "오랜만이에요",
+      "romanization": "oraenman-ieyo",
+      "meaningVn": "Lâu rồi không gặp",
+      "meaningEn": "It's been a long time",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "아, 유진 씨, 오랜만이에요. 잘 지내지요?",
+          "meaningVn": "Ồ, Yujin, lâu rồi không gặp. Bạn sống tốt chứ?"
+        },
+        {
+          "korean": "친구를 오랜만에 만났어요.",
+          "meaningVn": "Tôi đã gặp bạn sau một thời gian dài."
+        }
+      ]
+    },
+    {
+      "korean": "일",
+      "romanization": "il",
+      "meaningVn": "việc, chuyện",
+      "meaningEn": "matter, work",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "무슨 일이에요?",
+          "meaningVn": "Có chuyện gì vậy?"
+        },
+        {
+          "korean": "요즘 일이 많아서 바빠요.",
+          "meaningVn": "Dạo này có nhiều việc nên bận."
+        }
+      ]
+    },
+    {
+      "korean": "사무실",
+      "romanization": "samusil",
+      "meaningVn": "văn phòng",
+      "meaningEn": "office",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "아키라 씨 사무실 전화번호 알아요?",
+          "meaningVn": "Bạn có biết số điện thoại văn phòng của Akira không?"
+        },
+        {
+          "korean": "저는 사무실에서 일해요.",
+          "meaningVn": "Tôi làm việc ở văn phòng."
+        }
+      ]
+    },
+    {
+      "korean": "뭘요",
+      "romanization": "mwollyo",
+      "meaningVn": "Không có gì",
+      "meaningEn": "no problem / not at all",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "고마워요. - 뭘요.",
+          "meaningVn": "Cảm ơn. - Không có gì."
+        },
+        {
+          "korean": "도와줘서 고맙다고 하니까 친구가 뭘요 라고 했어요.",
+          "meaningVn": "Khi tôi nói cảm ơn vì đã giúp đỡ, bạn tôi nói 'Không có gì'."
+        }
+      ]
+    },
+    {
+      "korean": "여행사",
+      "romanization": "yeohaengsa",
+      "meaningVn": "công ty du lịch",
+      "meaningEn": "travel agency",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "월드여행사는 큰 여행사예요.",
+          "meaningVn": "World Travel Agency là một công ty du lịch lớn."
+        },
+        {
+          "korean": "여행사에서 비행기 표를 샀어요.",
+          "meaningVn": "Tôi đã mua vé máy bay ở công ty du lịch."
+        }
+      ]
+    },
+    {
+      "korean": "아까",
+      "romanization": "akka",
+      "meaningVn": "vừa nãy, lúc nãy",
+      "meaningEn": "a while ago",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "아까 회의를 하고 있어서 못 받았어요.",
+          "meaningVn": "Vì vừa nãy tôi đang họp nên không nghe được."
+        },
+        {
+          "korean": "아까 뭐 했어요?",
+          "meaningVn": "Vừa nãy bạn đã làm gì?"
+        }
+      ]
+    },
+    {
+      "korean": "회의",
+      "romanization": "hoe-ui",
+      "meaningVn": "cuộc họp",
+      "meaningEn": "meeting",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "저는 지금 회의 중이에요.",
+          "meaningVn": "Bây giờ tôi đang trong cuộc họp."
+        },
+        {
+          "korean": "회의를 하다",
+          "meaningVn": "Họp."
+        }
+      ]
+    },
+    {
+      "korean": "그럼요",
+      "romanization": "geureomnyo",
+      "meaningVn": "Tất nhiên rồi, chắc chắn rồi",
+      "meaningEn": "of course / sure",
+      "pos": "expression",
+      "examples": [
+        {
+          "korean": "파티에 올 거죠? - 그럼요!",
+          "meaningVn": "Bạn sẽ đến bữa tiệc chứ? - Tất nhiên rồi!"
+        },
+        {
+          "korean": "그럼요, 그렇게 하면 돼요.",
+          "meaningVn": "Tất nhiên rồi, làm như vậy là được."
+        }
+      ]
+    },
+    {
+      "korean": "이따",
+      "romanization": "itta",
+      "meaningVn": "lát nữa, sau này",
+      "meaningEn": "later",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "그럼 이따 봐요.",
+          "meaningVn": "Vậy lát nữa gặp nhé."
+        },
+        {
+          "korean": "이따 다시 전화할게요.",
+          "meaningVn": "Lát nữa tôi sẽ gọi lại."
+        }
+      ]
+    },
+    {
+      "korean": "다른",
+      "romanization": "dareun",
+      "meaningVn": "khác, cái khác",
+      "meaningEn": "other / another",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "다른 약속이 있어요.",
+          "meaningVn": "Tôi có cuộc hẹn khác."
+        },
+        {
+          "korean": "다른 커피를 마시고 싶어요.",
+          "meaningVn": "Tôi muốn uống một loại cà phê khác."
+        }
+      ]
+    },
+    {
+      "korean": "도서관",
+      "romanization": "doseogwan",
+      "meaningVn": "thư viện",
+      "meaningEn": "library",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "지금 도서관에 있어서 전화를 못 받아요.",
+          "meaningVn": "Bây giờ tôi đang ở thư viện nên không nghe điện thoại được."
+        },
+        {
+          "korean": "도서관에서 책을 읽어요.",
+          "meaningVn": "Tôi đọc sách ở thư viện."
+        }
+      ]
+    },
+    {
+      "korean": "숙제",
+      "romanization": "sukje",
+      "meaningVn": "bài tập về nhà",
+      "meaningEn": "homework",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "숙제를 하고 있어요.",
+          "meaningVn": "Tôi đang làm bài tập về nhà."
+        },
+        {
+          "korean": "오늘 숙제가 조금 어렵지요?",
+          "meaningVn": "Bài tập hôm nay hơi khó phải không?"
+        }
+      ]
+    },
+    {
+      "korean": "생일 파티",
+      "romanization": "saengil pati",
+      "meaningVn": "tiệc sinh nhật",
+      "meaningEn": "birthday party",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "스티븐 씨 생일 파티에 올 거죠?",
+          "meaningVn": "Bạn sẽ đến tiệc sinh nhật của Steven chứ?"
+        },
+        {
+          "korean": "친구 생일 파티에 갈 거예요.",
+          "meaningVn": "Tôi sẽ đi tiệc sinh nhật của bạn."
+        }
+      ]
+    },
+    {
+      "korean": "바쁘다",
+      "romanization": "bappeuda",
+      "meaningVn": "bận rộn",
+      "meaningEn": "to be busy",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "저는 바빠서 선물을 못 샀어요.",
+          "meaningVn": "Vì tôi bận nên chưa mua được quà."
+        },
+        {
+          "korean": "요즘 너무 바빠요.",
+          "meaningVn": "Dạo này tôi rất bận."
+        }
+      ]
+    },
+    {
+      "korean": "백화점",
+      "romanization": "baekhwajeom",
+      "meaningVn": "trung tâm thương mại / cửa hàng bách hóa",
+      "meaningEn": "department store",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "백화점에 가서 선물 살까요?",
+          "meaningVn": "Chúng ta đi trung tâm thương mại mua quà nhé?"
+        },
+        {
+          "korean": "백화점에서 옷을 샀어요.",
+          "meaningVn": "Tôi đã mua quần áo ở trung tâm thương mại."
+        }
+      ]
+    },
+    {
+      "korean": "선물",
+      "romanization": "seonmul",
+      "meaningVn": "quà, món quà",
+      "meaningEn": "gift",
+      "pos": "noun",
+      "examples": [
+        {
+          "korean": "생일 선물을 못 샀어요.",
+          "meaningVn": "Tôi chưa mua được quà sinh nhật."
+        },
+        {
+          "korean": "친구에게 선물을 줄 거예요.",
+          "meaningVn": "Tôi sẽ tặng quà cho bạn."
+        }
+      ]
+    },
+    {
+      "korean": "도둑이 들다",
+      "romanization": "dodug-i deulda",
+      "meaningVn": "kẻ trộm đột nhập",
+      "meaningEn": "a burglar breaks in",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "집에 도둑이 들었어요.",
+          "meaningVn": "Kẻ trộm đã đột nhập vào nhà."
+        },
+        {
+          "korean": "도둑이 들면 경찰에 전화하세요.",
+          "meaningVn": "Nếu bị trộm, hãy gọi cảnh sát."
+        }
+      ]
+    },
+    {
+      "korean": "사고가 나다",
+      "romanization": "sagoga nada",
+      "meaningVn": "xảy ra tai nạn",
+      "meaningEn": "an accident occurs",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "차 사고가 났어요.",
+          "meaningVn": "Đã xảy ra tai nạn xe hơi."
+        },
+        {
+          "korean": "사고가 나면 일일구에 전화해야 해요.",
+          "meaningVn": "Nếu xảy ra tai nạn, phải gọi 119."
+        }
+      ]
+    },
+    {
+      "korean": "불이 나다",
+      "romanization": "bur-i nada",
+      "meaningVn": "xảy ra hỏa hoạn, cháy",
+      "meaningEn": "a fire breaks out",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "집에 불이 났어요.",
+          "meaningVn": "Nhà bị cháy."
+        },
+        {
+          "korean": "불이 나면 소방서에 전화하세요.",
+          "meaningVn": "Nếu xảy ra hỏa hoạn, hãy gọi sở cứu hỏa."
+        }
+      ]
+    },
+    {
+      "korean": "아프다",
+      "romanization": "apeuda",
+      "meaningVn": "bị ốm/đau",
+      "meaningEn": "to be sick/hurt",
+      "pos": "adjective",
+      "examples": [
+        {
+          "korean": "친구가 많이 아파요.",
+          "meaningVn": "Bạn tôi bị ốm nặng."
+        },
+        {
+          "korean": "머리가 아파서 학교에 못 가요.",
+          "meaningVn": "Vì đau đầu nên tôi không thể đến trường."
+        }
+      ]
+    },
+    {
+      "korean": "늦잠을 자다",
+      "romanization": "neutjam-eul jada",
+      "meaningVn": "ngủ nướng, dậy muộn",
+      "meaningEn": "to oversleep / late rising",
+      "pos": "verb",
+      "examples": [
+        {
+          "korean": "늦잠을 자서 학교에 늦었어요.",
+          "meaningVn": "Vì ngủ nướng nên tôi đã đến trường muộn."
+        },
+        {
+          "korean": "주말에는 늦잠을 자는 것을 좋아해요.",
+          "meaningVn": "Cuối tuần tôi thích ngủ nướng."
+        }
+      ]
+    },
+    {
+      "korean": "왜",
+      "romanization": "wae",
+      "meaningVn": "tại sao",
+      "meaningEn": "why",
+      "pos": "adverb",
+      "examples": [
+        {
+          "korean": "왜 전화를 안 받았어요?",
+          "meaningVn": "Tại sao bạn không nghe điện thoại?"
+        },
+        {
+          "korean": "왜 한국어를 공부해요?",
+          "meaningVn": "Tại sao bạn học tiếng Hàn?"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "orderInUnit": 1,
+      "pattern": "A/V-지요?",
+      "titleVn": "Xác nhận thông tin (động từ/tính từ)",
+      "explanationVn": "Cấu trúc này dùng để xác nhận lại một thông tin mà người nói đã biết hoặc đoán trước là đúng, mong đợi người nghe đồng tình. Nó mang sắc thái hỏi để xác nhận chứ không phải hỏi để lấy thông tin mới hoàn toàn. Có thể dùng với cả động từ và tính từ.",
+      "rule": "Bỏ 다 khỏi gốc động từ/tính từ, thêm -지요?",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "A: 요즘 잘 지내지요?",
+          "meaningVn": "A: Dạo này bạn sống tốt chứ?"
+        },
+        {
+          "korean": "샤오밍 씨, 농구를 좋아하지요? - 네, 아주 좋아해요.",
+          "meaningVn": "Xiaoming, bạn thích bóng rổ phải không? - Vâng, tôi rất thích."
+        },
+        {
+          "korean": "오늘은 날씨가 춥지요? - 네, 추워요.",
+          "meaningVn": "Hôm nay trời lạnh phải không? - Vâng, lạnh."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "마리코 씨는 중국에서 왔___? (Mariko đến từ Trung Quốc phải không?)",
+          "answer": "왔지요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "유진 씨는 언니가 있___?",
+          "answer": "있지요",
+          "options": [
+            "있지요",
+            "있습니까",
+            "있습니까요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Bạn thích bóng rổ phải không?",
+          "answer": "농구를 좋아하지요?",
+          "options": [
+            "농구를",
+            "좋아하지요?"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 2,
+      "pattern": "N(이)지요?",
+      "titleVn": "Xác nhận thông tin (danh từ)",
+      "explanationVn": "Cấu trúc này dùng để xác nhận lại một thông tin liên quan đến danh từ mà người nói đã biết hoặc đoán trước là đúng, mong đợi người nghe đồng tình. Đây là dạng danh từ của cấu trúc -지요?. Nó cũng được dùng để xác nhận chứ không phải hỏi để lấy thông tin mới hoàn toàn.",
+      "rule": "Danh từ có 받침 → -이지요? | Danh từ không có 받침 → -지요?",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "A: 유진 씨 휴대폰이지요?",
+          "meaningVn": "A: Đây là điện thoại của Yujin phải không?"
+        },
+        {
+          "korean": "켈리 씨, 이거 켈리 씨 모자지요? - 네, 제 모자예요.",
+          "meaningVn": "Kelly, đây là mũ của Kelly phải không? - Vâng, là mũ của tôi."
+        },
+        {
+          "korean": "스티븐 씨 전화번호가 몇 번이지요? - 010-0251-3338이에요.",
+          "meaningVn": "Số điện thoại của Steven là số mấy nhỉ? - Là 010-0251-3338."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "마리코 씨는 일본 사람___?",
+          "answer": "사람이지요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "줄리앙 씨는 프랑스 사람___?",
+          "answer": "사람이지요",
+          "options": [
+            "사람이지요",
+            "사람이세요",
+            "사람이요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Đây là điện thoại của Yujin phải không?",
+          "answer": "유진 씨 휴대폰이지요?",
+          "options": [
+            "유진 씨",
+            "휴대폰이지요?"
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 3,
+      "pattern": "V-고 있다",
+      "titleVn": "Đang làm gì (tiếp diễn hành động)",
+      "explanationVn": "Cấu trúc này diễn tả một hành động đang diễn ra tại thời điểm nói hoặc một trạng thái đang tiếp diễn. Nó tương đương với 'đang' trong tiếng Việt. Khi chủ ngữ là người lớn tuổi hoặc có địa vị cao, có thể dùng dạng kính ngữ 계시다 (V-고 계시다).",
+      "rule": "Bỏ 다 khỏi gốc động từ, thêm -고 있다.",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "A: 지금 뭐 해요? B: 요리하고 있어요.",
+          "meaningVn": "A: Bây giờ bạn đang làm gì? B: Tôi đang nấu ăn."
+        },
+        {
+          "korean": "지금 뭐 해요? - 점심 먹고 있어요.",
+          "meaningVn": "Bây giờ bạn đang làm gì? - Tôi đang ăn trưa."
+        },
+        {
+          "korean": "어머니는 지금 전화하고 계세요.",
+          "meaningVn": "Mẹ tôi đang gọi điện thoại."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "아키라 씨는 뭐 하___?",
+          "answer": "하고 있어요"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "그는 책을 읽___?",
+          "answer": "읽고 있어요",
+          "options": [
+            "읽고 있어요",
+            "읽습니다",
+            "읽어요"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi đang học tiếng Hàn.",
+          "answer": "저는 한국어를 배우고 있어요.",
+          "options": [
+            "저는",
+            "한국어를",
+            "배우고 있어요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 4,
+      "pattern": "못 V",
+      "titleVn": "Không thể làm gì (do yếu tố bên ngoài)",
+      "explanationVn": "Phó từ '못' dùng để diễn tả sự không thể làm một hành động nào đó do nguyên nhân bên ngoài (ví dụ: thiếu khả năng, điều kiện không cho phép, hoặc một lý do bất khả kháng). Nó đứng trước động từ. Không dùng với tính từ.",
+      "rule": "못 + Động từ",
+      "pronunciationTip": "Phụ âm cuối 'ㅌ' của '못' khi kết hợp với động từ có phụ âm đầu sẽ thay đổi. | 못 + ㄱ, ㄷ, ㅂ, ㅅ, ㅈ → [몬] + (phụ âm đôi)ㄲ, ㄸ, ㅃ, ㅆ, ㅉ (Ví dụ: 못 가요 [몬까요]) | 못 + ㄴ, ㅁ → [몬] + ㄴ, ㅁ (Ví dụ: 못 내려요 [몬내려요]) | 못 + 하다 → [모태요] (Ví dụ: 못해요 [모태요])",
+      "examples": [
+        {
+          "korean": "저는 김치를 못 먹어요.",
+          "meaningVn": "Tôi không thể ăn kim chi."
+        },
+        {
+          "korean": "피곤해요? - 네, 어제 잠을 못 잤어요.",
+          "meaningVn": "Bạn mệt hả? - Vâng, hôm qua tôi không ngủ được."
+        },
+        {
+          "korean": "A: 주말에 등산 가요? B: 아니요, 못 가요.",
+          "meaningVn": "A: Cuối tuần bạn đi leo núi không? B: Không, tôi không đi được."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 수영을 ___해요.",
+          "answer": "못"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "A: 아침에 뉴스를 들었어요? B: 아니요, ___ 들었어요.",
+          "answer": "못",
+          "options": [
+            "안",
+            "못",
+            "하지"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi không thể ăn kim chi.",
+          "answer": "저는 김치를 못 먹어요.",
+          "options": [
+            "저는",
+            "김치를",
+            "못 먹어요."
+          ]
+        }
+      ]
+    },
+    {
+      "orderInUnit": 5,
+      "pattern": "A/V-아서/어서",
+      "titleVn": "Vì (lý do/nguyên nhân)",
+      "explanationVn": "Cấu trúc này dùng để diễn tả nguyên nhân hoặc lý do dẫn đến hành động hoặc trạng thái ở mệnh đề sau. Mệnh đề trước -아서/어서 là nguyên nhân, mệnh đề sau là kết quả. Không thể dùng thì quá khứ hoặc tương lai ở mệnh đề trước -아서/어서, và không thể dùng câu mệnh lệnh hoặc câu đề nghị ở mệnh đề sau.",
+      "rule": "Gốc A/V kết thúc bằng nguyên âm ㅏ, ㅗ → -아서 | Gốc A/V kết thúc bằng các nguyên âm khác → -어서 | Gốc A/V kết thúc bằng 하다 → -해서",
+      "pronunciationTip": "",
+      "examples": [
+        {
+          "korean": "A: 왜 전화를 안 받았어요? B: 회의하고 있어서 못 받았어요.",
+          "meaningVn": "A: Tại sao bạn không nghe điện thoại? B: Vì tôi đang họp nên không nghe được."
+        },
+        {
+          "korean": "요즘 일이 많아서 너무 피곤해요.",
+          "meaningVn": "Dạo này nhiều việc nên rất mệt."
+        },
+        {
+          "korean": "비가 많이 와서 여행을 못 갔어요.",
+          "meaningVn": "Vì trời mưa to nên tôi không đi du lịch được."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "fill_blank",
+          "question": "저는 일이 많___ 고향에 못 가요.",
+          "answer": "많아서"
+        },
+        {
+          "type": "multiple_choice",
+          "question": "왜 학교에 안 왔어요? - 아파서 ___ 왔어요.",
+          "answer": "안",
+          "options": [
+            "안",
+            "못",
+            "못하고"
+          ]
+        },
+        {
+          "type": "reorder",
+          "question": "Sắp xếp: Tôi mệt vì có nhiều việc.",
+          "answer": "저는 일이 많아서 피곤해요.",
+          "options": [
+            "저는",
+            "일이 많아서",
+            "피곤해요."
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "title": "대화 1",
+      "lines": [
+        {
+          "speaker": "유진",
+          "korean": "여보세요. 마리코 씨 휴대폰이지요? 저 유진이에요.",
+          "meaningVn": "Alo. Đây là điện thoại di động của Mariko phải không? Tôi là Yujin."
+        },
+        {
+          "speaker": "마리코",
+          "korean": "아, 유진 씨, 오랜만이에요. 잘 지내지요?",
+          "meaningVn": "Ồ, Yujin, lâu rồi không gặp. Bạn sống tốt chứ?"
+        },
+        {
+          "speaker": "유진",
+          "korean": "네, 잘 지내요. 마리코 씨 지금 전화 괜찮아요?",
+          "meaningVn": "Vâng, tôi sống tốt. Mariko, bây giờ bạn nghe điện thoại được không?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "네, 괜찮아요. 요리하고 있어요. 그런데 무슨 일이에요?",
+          "meaningVn": "Vâng, được. Tôi đang nấu ăn. Mà có chuyện gì vậy?"
+        },
+        {
+          "speaker": "유진",
+          "korean": "마리코 씨, 아키라 씨 사무실 전화번호 알아요?",
+          "meaningVn": "Mariko, bạn có biết số điện thoại văn phòng của Akira không?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "네, 알아요.",
+          "meaningVn": "Vâng, tôi biết."
+        },
+        {
+          "speaker": "유진",
+          "korean": "전화번호가 몇 번이지요?",
+          "meaningVn": "Số điện thoại là số mấy nhỉ?"
+        },
+        {
+          "speaker": "마리코",
+          "korean": "잠깐만요. 3588-9102예요.",
+          "meaningVn": "Chờ một chút. Là 3588-9102."
+        },
+        {
+          "speaker": "유진",
+          "korean": "고마워요.",
+          "meaningVn": "Cảm ơn bạn."
+        },
+        {
+          "speaker": "마리코",
+          "korean": "뭘요. 우리 다음에 봐요.",
+          "meaningVn": "Không có gì. Hẹn gặp bạn lần tới."
+        },
+        {
+          "speaker": "유진",
+          "korean": "네. 그럼 안녕히 계세요.",
+          "meaningVn": "Vâng. Vậy tạm biệt nhé."
+        }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        {
+          "speaker": "직원",
+          "korean": "네, 월드여행사입니다.",
+          "meaningVn": "Vâng, đây là công ty du lịch World Travel Agency."
+        },
+        {
+          "speaker": "유진",
+          "korean": "여보세요. 거기 월드여행사지요? 스도 아키라 씨 계십니까?",
+          "meaningVn": "Alo. Đó là công ty du lịch World Travel Agency phải không? Sudo Akira có ở đó không ạ?"
+        },
+        {
+          "speaker": "직원",
+          "korean": "아키라 씨요? 잠깐만 기다리세요.",
+          "meaningVn": "Akira sao? Xin chờ một lát."
+        },
+        {
+          "speaker": "아키라",
+          "korean": "네, 스도 아키라입니다.",
+          "meaningVn": "Vâng, tôi là Sudo Akira."
+        },
+        {
+          "speaker": "유진",
+          "korean": "아키라 씨, 저 유진이에요. 휴대폰을 안 받아서 전화했어요.",
+          "meaningVn": "Akira, tôi là Yujin. Tôi gọi vì bạn không nghe máy điện thoại di động."
+        },
+        {
+          "speaker": "아키라",
+          "korean": "아, 유진 씨. 아까 회의를 하고 있어서 못 받았어요. 미안해요.",
+          "meaningVn": "Ồ, Yujin. Vừa nãy tôi đang họp nên không nghe được. Xin lỗi nhé."
+        },
+        {
+          "speaker": "유진",
+          "korean": "괜찮아요. 오늘 스티븐 씨 생일 파티에 올 거죠?",
+          "meaningVn": "Không sao đâu. Hôm nay bạn sẽ đến bữa tiệc sinh nhật của Steven chứ?"
+        },
+        {
+          "speaker": "아키라",
+          "korean": "그럼요. 여섯 시 반, 강남역이지요?",
+          "meaningVn": "Tất nhiên rồi. Sáu giờ rưỡi, ở ga Gangnam phải không?"
+        },
+        {
+          "speaker": "유진",
+          "korean": "그런데 저는 일이 많아서 삼십 분쯤 늦을 거예요.",
+          "meaningVn": "Nhưng tôi có nhiều việc nên sẽ đến trễ khoảng ba mươi phút."
+        },
+        {
+          "speaker": "아키라",
+          "korean": "아, 그래요? 알겠어요. 그럼 이따 봐요.",
+          "meaningVn": "Ồ, vậy sao? Tôi hiểu rồi. Vậy lát nữa gặp nhé."
+        },
+        {
+          "speaker": "유진",
+          "korean": "네, 이따 봐요.",
+          "meaningVn": "Vâng, lát nữa gặp nhé."
+        }
+      ]
+    }
+  ]
+}

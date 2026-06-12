@@ -1,0 +1,16 @@
+{
+  "slug": "snu-1b",
+  "pdf": "1/SNU 1B.pdf",
+  "_pageNote": "PDF 240 trang. 9 units, mỗi bài ~24 trang.",
+  "units": [
+    { "number": 1, "titleKr": "어디에 살아요?", "titleVn": "Bạn sống ở đâu?", "topic": "Nhà cửa, Địa chỉ", "pages": "13-36" },
+    { "number": 2, "titleKr": "몇 시에 일어나요?", "titleVn": "Mấy giờ bạn thức dậy?", "topic": "Thói quen hàng ngày, Giờ giấc", "pages": "37-60" },
+    { "number": 3, "titleKr": "지난 주말에 뭐 했어요?", "titleVn": "Cuối tuần trước bạn làm gì?", "topic": "Hoạt động cuối tuần", "pages": "61-84" },
+    { "number": 4, "titleKr": "어떤 음식을 좋아해요?", "titleVn": "Bạn thích món ăn gì?", "topic": "Ẩm thực Hàn Quốc", "pages": "85-108" },
+    { "number": 5, "titleKr": "오늘 어디에 가요?", "titleVn": "Hôm nay bạn đi đâu?", "topic": "Phương tiện di chuyển, Hướng đi", "pages": "109-132" },
+    { "number": 6, "titleKr": "가족이 몇 명이에요?", "titleVn": "Gia đình bạn có mấy người?", "topic": "Gia đình", "pages": "133-156" },
+    { "number": 7, "titleKr": "생일이 언제예요?", "titleVn": "Sinh nhật bạn khi nào?", "topic": "Ngày tháng, Lịch", "pages": "157-180" },
+    { "number": 8, "titleKr": "쇼핑하러 같이 가요", "titleVn": "Cùng đi mua sắm nhé", "topic": "Mua sắm, Quần áo", "pages": "181-204" },
+    { "number": 9, "titleKr": "감기에 걸렸어요", "titleVn": "Bị cảm rồi", "topic": "Sức khoẻ, Bệnh viện", "pages": "205-228" }
+  ]
+}

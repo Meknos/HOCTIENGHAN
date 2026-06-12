@@ -3,25 +3,178 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --primary: 255 143 171;
+  --secondary: 255 181 167;
+  --accent: 252 225 228;
+  --navy: 255 194 209;
+  --cream: 255 245 248;
+  --success: 181 228 140;
+  --danger: 255 128 166;
+  --gray: 173 146 160;
+
+  --bg: 255 245 248;
+  --fg: 104 38 66; /* Đậm hơn để dễ đọc (Deep Burgundy) */
+  --card: 255 255 255;
+  --border: 255 210 220;
+  --muted: 255 235 240;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.dark {
+  --bg: 46 22 43;
+  --fg: 255 230 240;
+  --card: 66 31 56;
+  --border: 106 51 86;
+  --muted: 86 41 71;
+  --cream: 66 31 56;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: rgb(var(--border));
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply min-h-screen font-main antialiased;
+    background-color: rgb(var(--bg));
+    color: rgb(var(--fg));
+    background-image:
+      linear-gradient(rgba(255, 143, 171, 0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 143, 171, 0.05) 1px, transparent 1px);
+    background-size: 30px 30px;
+    background-position: center top;
+    background-attachment: fixed;
+  }
+
+  a {
+    @apply text-inherit no-underline;
+  }
+
+  :lang(ko),
+  .font-kr {
+    font-family: var(--font-kr), serif;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display), var(--font-main), system-ui, sans-serif;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .card-cute {
+    @apply rounded-[2rem] border-2 border-primary/20 bg-card shadow-soft transition-all duration-300 ease-out;
+  }
+
+  .card-cute:hover {
+    @apply -translate-y-2 rotate-1 border-primary/40 shadow-glow;
+  }
+
+  .btn-icon {
+    @apply rounded-full p-2.5 text-fg/70 transition-all duration-300 hover:scale-110 hover:bg-primary/10 hover:text-primary hover:-rotate-12 active:scale-90;
+  }
+
+  .nav-pill {
+    @apply flex items-center gap-3 rounded-full px-4 py-3 text-sm font-bold transition-all duration-300;
+  }
+
+  .nav-pill-active {
+    @apply bg-gradient-to-r from-primary/80 to-primary text-white shadow-soft scale-105;
+  }
+
+  .nav-pill-inactive {
+    @apply text-fg/70 hover:translate-x-1 hover:bg-primary/10 hover:text-primary;
+  }
+
+  .logo-badge {
+    @apply grid h-10 w-10 place-items-center rounded-2xl bg-gradient-to-br from-primary to-primary/80 font-kr text-lg font-bold text-white shadow-soft;
+  }
+
+  .stagger-children > * {
+    animation: fade-in-up 0.45s ease-out both;
+  }
+
+  .stagger-children > *:nth-child(1) {
+    animation-delay: 0ms;
+  }
+  .stagger-children > *:nth-child(2) {
+    animation-delay: 60ms;
+  }
+  .stagger-children > *:nth-child(3) {
+    animation-delay: 120ms;
+  }
+  .stagger-children > *:nth-child(4) {
+    animation-delay: 180ms;
+  }
+  .stagger-children > *:nth-child(5) {
+    animation-delay: 240ms;
+  }
+  .stagger-children > *:nth-child(6) {
+    animation-delay: 300ms;
+  }
+  .stagger-children > *:nth-child(7) {
+    animation-delay: 360ms;
+  }
+  .stagger-children > *:nth-child(8) {
+    animation-delay: 420ms;
+  }
+  .stagger-children > *:nth-child(9) {
+    animation-delay: 480ms;
+  }
+  .stagger-children > *:nth-child(10) {
+    animation-delay: 540ms;
+  }
+
+  .gradient-cta {
+    @apply rounded-3xl bg-gradient-to-r from-primary via-primary to-secondary p-6 text-white shadow-soft transition-all duration-300;
+  }
+
+  .gradient-cta:hover {
+    @apply -translate-y-0.5 brightness-105 shadow-glow;
+  }
+
+  .tag-cute {
+    @apply inline-flex items-center rounded-full bg-muted px-2.5 py-0.5 text-[11px] font-bold text-fg/60;
+  }
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
+  }
+
+  .perspective {
+    perspective: 1000px;
+  }
+
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+
+  .backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
   }
 }
